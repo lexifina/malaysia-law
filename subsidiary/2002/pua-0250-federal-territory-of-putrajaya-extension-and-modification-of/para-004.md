@@ -1,0 +1,17 @@
+# Paragraph 4. Modification of section 2 of extended Act
+
+4. Section 2 of the extended Act is modified—
+
+(a) in the definition of “Administration Enactment”—
+
+(i) in paragraph (a), by deleting the word “and” after the semicolon;
+
+(ii) in paragraph (b), by inserting the word “and” after the semicolon; and
+
+(iii) by inserting after paragraph (b) the following paragraph:
+
+“(c) in relation to the Federal Territory of Purtajaya, as modified and extended by the Federal Territory of Putrajaya (Extension and Modification of the Islamic Family Law (Federal Territory) Act 1984) Order 2002 made pursuant to section 7 of the Constitution (Amendment) Act 2001;”;
+
+(b) in the definition of “Federal Territory”, by substituting for the words “Kuala Lumpur or Labuan” the words “Kuala Lumpur, Putrajaya or Labuan”;
+
+(c) in the definition of “Federal Territories”, by substituting for the words “Kuala Lumpur and Labuan” the words “Kuala Lumpur, Putrajaya and Labuan”.
