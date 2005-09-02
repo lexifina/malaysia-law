@@ -1,0 +1,5 @@
+# First Schedule
+
+[Subsection 2(3)]
+
+ARABIC SCRIPT FOR CERTAIN WORDS AND EXPRESSIONS
