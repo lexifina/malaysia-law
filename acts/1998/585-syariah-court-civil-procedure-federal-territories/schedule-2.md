@@ -1,0 +1,5 @@
+# Second Schedule
+
+[Subsection 7(2)]
+
+PROCEEDINGS TO BE BEGUN BY APPLICATION Matters relating to personal and family law as follows: Consent for solemnization of marriage of a minor Appointment of wali am Order for registration of marriage solemnised contrary to law Presumption of death Appointment of guardian of property of a minor Order for joint guardianship of property of a minor Order for variation of power of guardian of property of a minor Order for removal of guardian of property of a minor (Federal Territories) Leave for disposal of a minor’s property Leave to support a minor out of income of his property Order for use of capital property to support a minor Prohibition order relating to a minor’s property Injunction restraining the taking of a child out of Malaysia Order to set aside, and an injunction restraining, the disposal of property to defeat claim for maintenance Injunction against molestation by spouse or former spouse Recognition of marriage contracted outside the Federal Territories (Acknowledgement of paternity) Confirmation of acknowledgement of paternity by woman in ‘eddah (Distribution of estate)
