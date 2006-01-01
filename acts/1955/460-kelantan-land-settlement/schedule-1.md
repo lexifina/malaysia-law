@@ -1,0 +1,9 @@
+# Schedule
+
+[Deleted by P.U. 438 of 1966]
+
+LAWS OF MALAYSIA
+
+Act 460
+
+KELANTAN LAND SETTLEMENT ACT 1955
