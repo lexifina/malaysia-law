@@ -1,0 +1,11 @@
+# Third Schedule
+
+[Subsection 5(6)]
+
+LAWS OF MALAYSIA
+
+Act 517
+
+CHENG HOON TENG TEMPLE (INCORPORATION)
+
+ACT 1949
