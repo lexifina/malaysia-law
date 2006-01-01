@@ -1,0 +1,9 @@
+# Third Schedule
+
+(Omitted)
+
+LAWS OF MALAYSIA
+
+Act 400
+
+MONEYLENDERS ACT 1951
