@@ -1,8 +1,8 @@
 # Elections Act 1958 [Act 19]
 
-Elections Act 1958 (Akta Pilihan Raya 1958), Laws of Malaysia Act 19, the reprint (Commissioner of Law Revision) incorporating all amendments up to 2006-01-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2256400_BI/ACT%2019%20-%20REPRINT%202006.pdf
+Elections Act 1958 (Akta Pilihan Raya 1958), Laws of Malaysia Act 19, the reprint (Commissioner of Law Revision) as at 2016-12-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3177397_BI/ACT%2019%20-%20REPRINT%202016.pdf
 
-In force: 2006-01-01 (the day up to which the reprint states it incorporates all amendments).
+In force: 2007-10-01 (the day the latest amendment the reprint incorporates, Act A1317, came into operation, as page 2 of the reprint states).
 
 | File | Provision |
 | --- | --- |
@@ -13,7 +13,7 @@ In force: 2006-01-01 (the day up to which the reprint states it incorporates all
 | [s-004.md](s-004.md) | Section 4. Powers of officers |
 | [s-005.md](s-005.md) | Section 5. General powers and duties of Election Commission |
 | [s-006.md](s-006.md) | Section 6. (Deleted) |
-| [s-007.md](s-007.md) | Section 7. Polling districts and polling stations |
+| [s-007.md](s-007.md) | Section 7. Polling districts and polling centres |
 | [s-008.md](s-008.md) | Section 8. Appointment of officers |
 | [s-009.md](s-009.md) | Section 9. Preparation, publication and revision of electoral rolls |
 | [s-009-a.md](s-009-a.md) | Section 9A. Certified or re-certified electoral roll shall be deemed to be final |
@@ -21,7 +21,7 @@ In force: 2006-01-01 (the day up to which the reprint states it incorporates all
 | [s-011.md](s-011.md) | Section 11. (Deleted) |
 | [s-012.md](s-012.md) | Section 12. Writs of election |
 | [s-013.md](s-013.md) | Section 13. Election of candidates |
-| [s-014.md](s-014.md) | Section 14. Use of schools and public buildings and premises as polling stations |
+| [s-014.md](s-014.md) | Section 14. Use of schools and public buildings and premises as polling centres |
 | [s-015.md](s-015.md) | Section 15. Power to make regulations relating to the registration of electors |
 | [s-016.md](s-016.md) | Section 16. Power to make regulations relating to the conduct of elections |
 | [s-017.md](s-017.md) | Section 17. Regulations to be laid before the Dewan Rakyat |
