@@ -2,7 +2,7 @@
 
 [Paragraph 27(3)(c)]
 
-University Hospital referred to in Hospital Board on Management Statute XXVIII made under the constituted under Statute XXVIII made Constitution of the University of Malaya under the Constitution of the University . of Malaya.
+University Hospital referred to in Hospital Board on Management Statute XXVIII made under the constituted under Statute XXVIII Constitution of the University of made under the Constitution of the Malaya University of Malaya. 83
 
 LAWS OF MALAYSIA
 

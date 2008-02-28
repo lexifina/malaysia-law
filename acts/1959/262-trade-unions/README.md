@@ -1,8 +1,8 @@
 # Trade Unions Act 1959 [Act 262]
 
-Trade Unions Act 1959 (Akta Kesatuan Sekerja 1959), Laws of Malaysia Act 262, the reprint (Commissioner of Law Revision) incorporating all amendments up to 2006-01-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2255946_BI/262%20TRADE%20UNIONS%20REPRINT%202006_unlocked.pdf
+Trade Unions Act 1959 (Akta Kesatuan Sekerja 1959), Laws of Malaysia Act 262, the reprint (Commissioner of Law Revision) as at 2014-08-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/16547_BI/001%20-%20Act%20262.pdf
 
-In force: 2006-01-01 (the day up to which the reprint states it incorporates all amendments).
+In force: 2008-02-28 (the day the latest amendment the reprint incorporates, Act A1324, came into operation, as page 2 of the reprint states).
 
 | File | Provision |
 | --- | --- |
@@ -48,6 +48,7 @@ In force: 2006-01-01 (the day up to which the reprint states it incorporates all
 | [s-038.md](s-038.md) | Section 38. Rules |
 | [s-039.md](s-039.md) | Section 39. (Deleted) |
 | [s-040.md](s-040.md) | Section 40. Secret ballot |
+| [s-040-a.md](s-040-a.md) | Section 40A. Imposition of levy |
 | [s-041.md](s-041.md) | Section 41. Notification of changes of officers and employees |
 | [s-042.md](s-042.md) | Section 42. Notification of dissolution |
 | [s-043.md](s-043.md) | Section 43. Trustees |
@@ -58,6 +59,7 @@ In force: 2006-01-01 (the day up to which the reprint states it incorporates all
 | [s-048.md](s-048.md) | Section 48. Devolution of property |
 | [s-049.md](s-049.md) | Section 49. Investment of funds |
 | [s-050.md](s-050.md) | Section 50. Application of funds |
+| [s-050-a.md](s-050-a.md) | Section 50A. Collection of funds and moneys |
 | [s-051.md](s-051.md) | Section 51. Prohibition of payment of fines or penalties |
 | [s-052.md](s-052.md) | Section 52. Prohibition of use of funds for political objects |
 | [s-053.md](s-053.md) | Section 53. Injunction to restrain misuse of funds |
@@ -76,8 +78,9 @@ In force: 2006-01-01 (the day up to which the reprint states it incorporates all
 | [s-066.md](s-066.md) | Section 66. Act not to affect certain agreements or authorize action outside rules |
 | [s-067.md](s-067.md) | Section 67. Legislation relating to societies and companies not applicable to trade |
 | [s-068.md](s-068.md) | Section 68. Service of legal process |
+| [s-068-a.md](s-068-a.md) | Section 68A. Service of summons issued by the Director General |
 | [s-069.md](s-069.md) | Section 69. Notification in the Gazette |
-| [s-070.md](s-070.md) | Section 70. Inspection, production and evidence of documents of the Director General |
+| [s-070.md](s-070.md) | Section 70. Inspection, production and evidence of documents of the Director |
 | [s-071.md](s-071.md) | Section 71. Power of Director General to summon witnesses |
 | [s-071-a.md](s-071-a.md) | Section 71A. Appeal to Minister |
 | [s-072.md](s-072.md) | Section 72. Formation of federation of trade unions |
