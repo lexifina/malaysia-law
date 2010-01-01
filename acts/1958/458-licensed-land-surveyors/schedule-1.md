@@ -8,6 +8,8 @@ A.B.
 
 Note—The above declaration shall be made in accordance with the Statutory Declarations Act 1960 [Act 13].
 
+______________________________ 18
+
 LAWS OF MALAYSIA
 
 Act 458

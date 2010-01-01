@@ -1,8 +1,8 @@
 # Licensed Land Surveyors Act 1958 [Act 458]
 
-Licensed Land Surveyors Act 1958 (Akta Juruukur Tanah Berlesen 1958), Laws of Malaysia Act 458, the reprint (Commissioner of Law Revision) incorporating all amendments up to 2006-01-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2259997_BI/Act%20458%20(Reprint%202006).pdf
+Licensed Land Surveyors Act 1958 (Akta Juruukur Tanah Berlesen 1958), Laws of Malaysia Act 458, the reprint (Commissioner of Law Revision) as at 2014-03-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20458.pdf
 
-In force: 2006-01-01 (the day up to which the reprint states it incorporates all amendments).
+In force: 2010-01-01 (the day the latest amendment the reprint incorporates, Act 456/2009, came into operation, as page 2 of the reprint states).
 
 | File | Provision |
 | --- | --- |
