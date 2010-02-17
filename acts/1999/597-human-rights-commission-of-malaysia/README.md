@@ -1,8 +1,8 @@
 # Human Rights Commission of Malaysia Act 1999 [Act 597]
 
-Human Rights Commission of Malaysia Act 1999 (Akta Suruhanjaya Hak Asasi Manusia Malaysia 1999), Laws of Malaysia Act 597, the reprint (Commissioner of Law Revision) incorporating all amendments up to 2006-01-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/15581_BI/ACT%20597%20HUMAN%20RIGHTS%20REPRINT%202006_unlocked.pdf
+Human Rights Commission of Malaysia Act 1999 (Akta Suruhanjaya Hak Asasi Manusia Malaysia 1999), Laws of Malaysia Act 597, the reprint (Commissioner of Law Revision) , from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20597%20-%20Human%20Rights%20Commission%20of%20Malaysia%20Act%201999.pdf
 
-In force: 2006-01-01 (the day up to which the reprint states it incorporates all amendments).
+In force: 2010-02-17 (the day the latest amendment the reprint incorporates, Act A1353, came into operation, as page 2 of the reprint states).
 
 | File | Provision |
 | --- | --- |
@@ -17,6 +17,7 @@ In force: 2006-01-01 (the day up to which the reprint states it incorporates all
 | [s-009.md](s-009.md) | Section 9. Vacation of office |
 | [s-010.md](s-010.md) | Section 10. Disqualification |
 | [s-011.md](s-011.md) | Section 11. Resignation |
+| [s-011-a.md](s-011-a.md) | Section 11A. Committee to be consulted with regard to appointment |
 | [s-012.md](s-012.md) | Section 12. Commission may inquire on own motion or on complaint |
 | [s-013.md](s-013.md) | Section 13. Procedure where infringement is not disclosed or is disclosed |
 | [s-014.md](s-014.md) | Section 14. Powers relating to inquiries |
