@@ -1,8 +1,8 @@
 # Energy Commission Act 2001 [Act 610]
 
-Energy Commission Act 2001 (Akta Suruhanjaya Tenaga 2001), Laws of Malaysia Act 610, the reprint (Commissioner of Law Revision) incorporating all amendments up to 2006-01-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/15610_BI/Act%20610%20Reprint%202006.pdf
+Energy Commission Act 2001 (Akta Suruhanjaya Tenaga 2001), Laws of Malaysia Act 610, the reprint (Commissioner of Law Revision) , from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20610%20-%20Energy%20Commission%20Act%202001.pdf
 
-In force: 2006-01-01 (the day up to which the reprint states it incorporates all amendments).
+In force: 2010-03-15 (the day the latest amendment the reprint incorporates, Act A1371, came into operation, as page 2 of the reprint states).
 
 | File | Provision |
 | --- | --- |
@@ -23,10 +23,12 @@ In force: 2006-01-01 (the day up to which the reprint states it incorporates all
 | [s-015.md](s-015.md) | Section 15. Delegation of Commission’s functions or powers |
 | [s-016.md](s-016.md) | Section 16. Direction by Minister |
 | [s-017.md](s-017.md) | Section 17. Commission to furnish information |
+| [s-017-a.md](s-017-a.md) | Section 17A. Restriction on the use of the symbol or representation of the Commission |
 | [s-018.md](s-018.md) | Section 18. Chief Executive Officer |
+| [s-018-a.md](s-018-a.md) | Section 18A. Temporary exercise of functions of Chief Executive Officer |
 | [s-019.md](s-019.md) | Section 19. Appointment of officers of Commission |
 | [s-020.md](s-020.md) | Section 20. Conditions of service |
-| [s-021.md](s-021.md) | Section 21. Loans and advances |
+| [s-021.md](s-021.md) | Section 21. Loans, scholarships and advances |
 | [s-022.md](s-022.md) | Section 22. Payment of retirement benefits, etc. |
 | [s-023.md](s-023.md) | Section 23. Commission may adopt regulations, etc. |
 | [s-024.md](s-024.md) | Section 24. Fund |
@@ -36,10 +38,11 @@ In force: 2006-01-01 (the day up to which the reprint states it incorporates all
 | [s-028.md](s-028.md) | Section 28. Bank accounts |
 | [s-029.md](s-029.md) | Section 29. Power to borrow |
 | [s-030.md](s-030.md) | Section 30. Investment |
+| [s-030-a.md](s-030-a.md) | Section 30A. Limitation on contracts |
 | [s-031.md](s-031.md) | Section 31. Financial procedure |
 | [s-032.md](s-032.md) | Section 32. Financial year |
-| [s-033.md](s-033.md) | Section 33. Accounts |
-| [s-034.md](s-034.md) | Section 34. Non-application of Statutory Bodies (Accounts and Annual Reports) |
+| [s-033.md](s-033.md) | Section 33. Account and reports |
+| [s-034.md](s-034.md) | Section 34. (Deleted) |
 | [s-035.md](s-035.md) | Section 35. Prosecution |
 | [s-036.md](s-036.md) | Section 36. Public servant |
 | [s-037.md](s-037.md) | Section 37. Public Authorities Protection Act 1948 |
@@ -47,3 +50,4 @@ In force: 2006-01-01 (the day up to which the reprint states it incorporates all
 | [s-039.md](s-039.md) | Section 39. Obligation of secrecy |
 | [s-040.md](s-040.md) | Section 40. Representation in civil proceedings |
 | [s-041.md](s-041.md) | Section 41. Things done in anticipation of the enactment of this Act |
+| [schedule-1.md](schedule-1.md) | Schedule |
