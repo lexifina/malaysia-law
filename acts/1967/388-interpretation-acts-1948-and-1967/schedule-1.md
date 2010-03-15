@@ -16,4 +16,4 @@ Terengganu Interpretation Enactment The whole Enactment No. 8 of 1356
 
 Kelantan Enactment Interpretation and The whole No. 12 of 1938 General Clauses Enactment
 
-Malayan Union Transfer of Powers and Sections 8, 11, 13, Ordinance No. 2 of 1946 Interpretation Ordinance 14 and 15 1946 Interpretation 85
+Malayan Union Transfer of Powers and Sections 8, 11, 13, Ordinance No. 2 of 1946 Interpretation Ordinance 14 and 15 1946

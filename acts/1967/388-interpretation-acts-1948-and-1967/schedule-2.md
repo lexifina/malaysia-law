@@ -36,9 +36,7 @@ MODIFICATIONS AND ADDITIONS
 
 ‘Executive Council’ means the Executive Council or, where it is so styled, the State Executive Council of the State;
 
-‘Legislative Assembly’ means the representative assembly, however called, in the Legislature of the State; 86 Laws of Malaysia ACT 388
-
-‘Legislature’ means the authority having power under the Constitution of the State to make laws for the State;
+‘Legislative Assembly’ means the representative assembly, however called, in the Legislature of the State; ‘Legislature’ means the authority having power under the Constitution of the State to make laws for the State;
 
 ‘Speaker’ means the Speaker of the Legislative Assembly;
 
@@ -68,7 +66,7 @@ MODIFICATIONS AND ADDITIONS
 
 9. Subsection 21(2) of the applied Act shall be replaced by the following provision:
 
-“In subsidiary legislation made under an Enactment, ‘the Enactment’ means the Enactment under which the subsidiary legislation was made.”. Interpretation 87
+“In subsidiary legislation made under an Enactment, ‘the Enactment’ means the Enactment under which the subsidiary legislation was made.”.
 
 10. Section 23 of the applied Act shall be replaced by the following provision:
 
