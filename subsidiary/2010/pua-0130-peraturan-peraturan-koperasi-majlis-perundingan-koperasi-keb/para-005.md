@@ -1,0 +1,29 @@
+# Paragraph 5. Membership of the Council
+
+5. (1) The Council shall comprise of the following members:
+
+(a) Minister as the Chairman;
+
+(b) Deputy Minister of a Ministry charged with the responsibility for the development of co-operative society as the Deputy Chairman;
+
+(c) Members of the Meeting Council or State representatives charged with the responsibility for the development of co-operative societies or any person appointed by the Minister to represent any state or his representative;
+
+(d) the Secretary General of a Ministry charged with the responsibility for co-operative development or his representative;
+
+(e) the Chairman of the Malaysian Co-operative Societies Commission or his representative;
+
+(ea) the Chief Executive Officer of the Malaysian Co-operative Societies Commission or his representative;
+
+(f) the Director General of the Malaysian Co-operative Institute or his representative;
+
+(g) the President of the National Co-operative Societies Organisation of Malaysia (ANGKASA) or his representative;
+
+(h) the Chairman of Bank Kerjasama Rakyat Malaysia Berhad or his representative;
+
+(i) not more than nine representatives from co-operative societies appointed by the Minister; and 8 Laws of Malaysia P.U. (A) 130/2010
+
+(j) not more than five persons who, in the opinion of the Minister, may assist the Council or the development of the co-operative movement, appointed by the Minister.
+
+(2) The Chairman shall establish a secretariat to assist the Council in performing its functions under these Regulations.
+
+(3) The Chairman shall appoint such number of officers to be a secretariat as may be necessary from amongst officers of a Ministry charged with the responsibility for co-operative development or officers and employees of the Commission or combination from both.
