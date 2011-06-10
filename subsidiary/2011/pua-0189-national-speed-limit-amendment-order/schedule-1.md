@@ -1,0 +1,13 @@
+# Schedule
+
+[Subparagraph 2(2)]
+
+MAP OF SENAI-PASIR GUDANG-DESARU EXPRESSWAY
+
+6 Made 3 June 2011
+
+[KKR.PUU.110-1/7/26; PN(PU2)460/LXIII]
+
+DATO’ SERI KONG CHO HA Minister of Transport
+
+7
