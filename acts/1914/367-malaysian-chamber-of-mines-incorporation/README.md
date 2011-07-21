@@ -1,8 +1,8 @@
 # Malaysian Chamber of Mines Incorporation Act 1914 [Act 367]
 
-Malaysian Chamber of Mines Incorporation Act 1914 (Akta Pemerbadanan Dewan Perlombongan Malaysia 1914), Laws of Malaysia Act 367, the reprint (Commissioner of Law Revision) incorporating all amendments up to 2006-01-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/15512_BI/Act%20367%20Reprint%202006.pdf
+Malaysian Chamber of Mines Incorporation Act 1914 (Akta Pemerbadanan Dewan Perlombongan Malaysia 1914), Laws of Malaysia Act 367, the reprint (Commissioner of Law Revision) as at 2014-07-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20367%20-%20Malaysian%20Chamber%20of%20Mines%20Incorporation%20Act%201914.pdf
 
-In force: 2006-01-01 (the day up to which the reprint states it incorporates all amendments).
+In force: 2011-07-21 (the day the latest amendment the reprint incorporates, Act 366/2011, came into operation, as page 2 of the reprint states).
 
 | File | Provision |
 | --- | --- |

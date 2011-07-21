@@ -18,7 +18,11 @@ I/We have read the by-laws of the Chamber and I/we now undertake to be subject t
 
 In witness whereof I/we have hereunto set my hand/our hands this day ........ of............. 20....... .
 
-Signed by .......................................... in the presence of ...................................... Proposer ........................................... . Seconder .......................................... .
+Signed by .......................................... in the presence of ......................................
+
+Proposer ........................................... .
+
+Seconder .......................................... .
 
 A candidate must be proposed by one ordinary member and seconded by another, and his name, address, and designation together with the names of his proposer and seconder shall be entered in a book to be kept by the Chamber for that purpose.
 
@@ -50,7 +54,7 @@ In addition to the annual fixed rate of RM3,000 there shall be levied a surcharg
 
 (d) The rate of annual subscription payable by corporations or companies not actively engaged in the mining industry but are otherwise connected with the industry admitted to ordinary membership of the Chamber shall be RM350, payment whereof shall entitle such a member to one vote, either on a show of hands or on a poll, at all general meetings of the Chamber.
 
-(e) The rate of annual subscription for individual ordinary members resident in Malaysia shall be RM50, payment whereof shall entitle the subscribing member to one vote, either on a show of hands or on a poll, at all general meetings of the Chamber.
+(e) The rate of annual subscription for individual ordinary members resident in Malaysia shall be RM120, payment whereof shall entitle the subscribing member to one vote, either on a show of hands or on a poll, at all general meetings of the Chamber.
 
 (f) The rate of annual subscription payable by an individual ordinary member who permanently removes his place of residence outside Malaysia shall be RM20. Such a member may become a life member on giving to the Secretary written notice of his intention to leave Malaysia permanently and on payment of RM120. Payment of subscriptions at the rates provided for in this paragraph shall confer upon the subscribing member no rights to vote at general meetings of the Chamber.
 
@@ -130,9 +134,11 @@ PROXIES
 
 MALAYSIAN CHAMBER OF MINES
 
-I ...................................... of ...................................... an ordinary member of the Malaysian Chamber of Mines and entitled to .......................... votes hereby appoint .............................. of ............................... to vote for me and on my behalf at the ................................. meeting of the said Chamber of Mines to be held on the ............ day of ............... 20....... and at every adjournment thereof. As witness my hand this ......... day of ................. 20.......... .
+I ...................................... of ...................................... an ordinary member of the Malaysian Chamber of Mines and entitled to .......................... votes hereby appoint .............................. of ............................... to vote for me and on my behalf at the ................................. meeting of the said Chamber of Mines to be held on the ............ day of ............... 20....... and at every adjournment thereof.
 
-Signature .......................................... .
+As witness my hand this ......... day of ................. 20.......... .
+
+Signature .......................................... . Stamp
 
 ELECTION OF PRESIDENT AND COUNCIL
 
@@ -267,6 +273,8 @@ CONDUCT OF MEMBERS
 62. If any ordinary member fail within fourteen days to pay any fine inflicted on him under by-law 60 or continue to infringe the by-laws or any of them after such fine has been inflicted upon him or fail to resign within fourteen days after being requested so to do under by-law 61, then and in any of such cases the Council shall forthwith call an extraordinary meeting of the Chamber to consider the conduct of such ordinary chamber and at such meeting it shall be competent for the Chamber by a two-thirds majority of those present and voting at such meeting to expel such member from the Chamber, and no appeal shall lie from such decision to any other meeting or to any Court of law. Every member so expelled shall forfeit his subscription and all interest in the property of the Chamber, and no member so expelled shall be eligible for re-election to the Chamber. Such expulsion shall not prejudice any right of the Chamber to recover from such ordinary member the amount of any fine inflicted on him or any other sum due from him to the Chamber.
 
 63. Any member who shall fail to pay the amount of his outstanding account within one month after receiving under registered cover a notice in writing signed by the Secretary calling upon him to pay the same within one month after receipt of such notice shall cease to be a member of the Chamber, and the Secretary shall upon such cessation inform him accordingly and shall take such steps for the recovery of the said amount as the Council may direct. Provided that, on a satisfactory explanation being given by a person who has under the provisions of this by-law ceased to be a member, the Council may restore to him the status and privileges which he may have forfeited under this by-law.
+
+________________________
 
 LAWS OF MALAYSIA
 
