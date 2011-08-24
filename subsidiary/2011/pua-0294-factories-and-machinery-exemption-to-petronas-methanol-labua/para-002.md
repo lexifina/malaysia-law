@@ -1,0 +1,3 @@
+# Paragraph 2. Exemption
+
+2. All steam boiler and unfired pressure vessels registered with the Chief Inspector, with the registration numbers and description as specified in columns (1) and (2) of the Schedule, in the name of Petronas Methanol Labuan Sdn. Bhd., Federal Territoty of Labuan, which have been issued with certificates of fitness, are exempted from the preparation required under paragraphs 17(a) and 17(b) of the Factories and Machinery (Notification, Certificate of Fitness and Inspection) Regulations 1970 [P.U. (A) 43/1970] for subsequent regular inspection after the expiry of the certificates of fitness on 24 August 2011.
