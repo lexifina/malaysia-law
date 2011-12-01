@@ -1,8 +1,8 @@
 # National Defence Fund (Dissolution and Transfer) Act 1984 [Act 305]
 
-National Defence Fund (Dissolution and Transfer) Act 1984 (Akta Tabung Pertahanan Negara (Pembubaran Dan Pemindahan) 1984), Laws of Malaysia Act 305, the reprint (Commissioner of Law Revision) incorporating all amendments up to 2006-01-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/16055_BI/Act%20305%20REPRINT%20BI%202006.pdf
+National Defence Fund (Dissolution and Transfer) Act 1984 (Akta Tabung Pertahanan Negara (Pembubaran Dan Pemindahan) 1984), Laws of Malaysia Act 305, the reprint (Commissioner of Law Revision) as at 2011-12-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20305%20-%20National%20Defence%20Fund%20(Dissolution%20and%20Transfer)%20A.pdf
 
-In force: 2006-01-01 (the day up to which the reprint states it incorporates all amendments).
+In force: 2011-12-01 (the day the reprint states its text is "As at").
 
 | File | Provision |
 | --- | --- |
