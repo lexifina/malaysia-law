@@ -1,0 +1,133 @@
+# Rule 2. Interpretation
+
+2. In these Rules, unless the context otherwise requires—
+
+“prudent utility practices” means the practices, methods and standards generally followed by the electricity supply industry in Malaysia during the applicable period, with respect to the design, construction, installation, testing, operation and maintenance of electricity generating and distribution installations of the same or similar type used by the renewable energy installation, interconnection facilities, communication facilities or the electricity distribution network, as the case may be, and includes—
+
+(a) the requirements of all applicable laws including the Act, the Electricity Supply Act 1990 [Act 447] and their subsidiary legislation;
+
+(b) the requirements of all codes issued by the Commission;
+
+60
+
+(c) such requirements as may be determined by the Authority in the guidelines issued from time to time;
+
+(d) applicable guidelines issued by distribution licensees that are consistent with the requirements of paragraphs (a) to (c);
+
+(e) the operation and maintenance standards recommended by the suppliers and manufacturers of such electricity generating and distribution equipment; and
+
+(f) the International Electrotechnical Commission standards.
+
+“outage” means the occurrence of any loss of, interruption to or reduction in the ability of a renewable energy installation to generate renewable energy;
+
+“maintenance outage” means a planned outage for the purpose of performing work on a major renewable energy installation, in which work could be postponed by at least seventy-two hours, but in the opinion of the feed-in approval holder should not be postponed until the next scheduled outage;
+
+“scheduled outage” means a planned outage, other than a maintenance outage, that is required for—
+
+(a) the inspection, preventive maintenance or corrective maintenance, repair or improvement of a major renewable energy installation; or
+
+(b) a major overhaul of a major renewable energy installation in accordance with prudent utility practices,
+
+which has been co-ordinated with the distribution licensee in accordance with subparagraphs 4(1) to (3) of the Fourth Schedule;
+
+61 “insulation co-ordination study” means a study to determine the adequacy of insulation used in an electricity distribution network based on a proposed connection of a medium voltage renewable energy installation to a connection point;
+
+“protection co-ordination study” means a study on the co-ordination between the electrical protection schemes of a renewable energy installation and the distribution licensee’s electricity distribution network, including the calculation of all relay settings in the renewable energy installation based on the short circuit levels at the connection point;
+
+“power system study” means a study to determine the optimal technically feasible method for a proposed connection of a medium voltage renewable energy installation to a connection point, including the matters set out in paragraphs 4(6)(a) to (e);
+
+“net export capacity”, in relation to a non-PV installation, means the maximum level of electrical power which such installation can deliver to an electricity distribution network at the connection point;
+
+“emergency condition” means a situation that—
+
+(a) is described or regarded as such in any code issued by the Commission; or
+
+(b) in the distribution licensee’s reasonable judgment and based on prudent utility practices—
+
+(i) presents an imminent physical threat of danger to life, health or property;
+
+(ii) threatens the safety, reliability or security of its electricity distribution network;
+
+(iii) could reasonably be expected to cause a significant disruption to its electricity distribution network; or 62
+
+(iv) could reasonably be expected to adversely affect the distribution licensee’s ability to meet its obligations to provide safe, adequate and reliable electricity service to consumers, including other utilities with which the electricity distribution network is interconnected;
+
+“interconnection facilities” means the facilities and equipment necessary, in accordance with prudent utility practices, to connect a renewable energy installation to a connection point and enable a distribution licensee to receive renewable energy from the renewable energy installation while maintaining the stability of the electricity distribution network, including protection devices, metering equipment and applicable communication facilities;
+
+“communication facilities” means the facilities and equipment necessary, in accordance with prudent utility practices, to enable a designated control centre to communicate with a renewable energy installation connected to a connection point through a medium or high voltage direct connection;
+
+“network reinforcement works” means works or actions to upgrade or reinforce a distribution licensee’s electricity distribution network in order to distribute renewable energy generated by a renewable energy installation in accordance with prudent utility practices;
+
+“kW” means kilowatt;
+
+“kWp” means kilowatt peak;
+
+“rated kWp”, in relation to a PV installation, means the maximum direct current power such installation can produce under standard test conditions of 1000 watts per square meter of solar irradiation and 25 degrees Celsius ambient temperature;
+
+“MW” means megawatt;
+
+63 “revenue meter” means the metering equipment installed in accordance with rule 17 and utilized to measure the quantity of renewable energy generated by a renewable energy installation which is delivered through the interconnection cables up to a connection point;
+
+“consumption meter”, in relation to a low voltage renewable energy installation connected to a connection point through a low voltage indirect connection, means the meter used to record the electricity consumption referred to in paragraph 8(b);
+
+“qualified person” means a person possessing qualifications as set out in the Fifth Schedule;
+
+“low voltage renewable energy installation” means—
+
+(a) in relation to Peninsular Malaysia, a renewable energy installation having a net export capacity of up to and including 180kW or rated kWp of up to and including 180kWp; and
+
+(b) in relation to the State of Sabah and the Federal Territory of Labuan, a renewable energy installation having a net export capacity of up to and including 72kW or rated kWp of up to and including 72kWp;
+
+“major renewable energy installation” means—
+
+(a) in relation to Peninsular Malaysia, a renewable energy installation having a net export capacity exceeding 5MW or rated kWp exceeding 5,000kWp; and
+
+(b) in relation to the State of Sabah and the Federal Territory of Labuan, a renewable energy installation having a net export capacity exceeding 3MW or rated kWp exceeding 3,000kWp;
+
+“medium voltage renewable energy installation” means—
+
+64
+
+(a) in relation to Peninsular Malaysia, a renewable energy installation having a net export capacity exceeding 180kW or rated kWp exceeding 180kW; and
+
+(b) in relation to the State of Sabah and the Federal Territory of Labuan, a renewable energy installation having a net export capacity exceeding 72kW or rated kWp exceeding 72kWp;
+
+“non-PV installation” means a renewable energy installation utilizing renewable resources other than solar photovoltaic;
+
+“PV installation” means a renewable energy installation utilizing solar photovoltaic as its renewable resource;
+
+“protection devices” means devices and equipment within an electrical protection scheme including relays, their associated circuit breakers and fuses;
+
+“designated control centre”, in relation to a major renewable energy installation, means the control centre of the distribution licensee as designated in writing by the distribution licensee from time to time for the purposes of communicating with the major renewable energy installation;
+
+“low voltage direct connection” means the connection of a renewable energy installation directly to a low voltage supply line;
+
+“low voltage indirect connection” means the connection of a renewable energy installation to a low voltage supply line indirectly through the internal distribution board of the feed-in approval holder where the renewable energy installation is connected to an electrical point within the premises of the feed-in approval holder instead of the point of common connection;
+
+“medium voltage direct connection” means the connection of a renewable energy installation directly to a medium voltage supply line; 65 “high voltage direct connection” means the connection of a renewable energy installation directly to a high voltage supply line;
+
+“ownership boundary”, in relation to a renewable energy installation, means the connection point;
+
+“electrical protection scheme” means a scheme for detecting and protecting an installation from—
+
+(a) possible damage caused by electrical disturbances arising within the installation; and
+
+(b) other faults or malfunctions arising from the operation or non-operation of another person’s electrical protection scheme;
+
+“initial operation date”, in relation to a feed-in approval holder, means the date on which his or its renewable energy installation first delivers renewable energy to the distribution licensee’s electricity distribution network for testing purposes;
+
+“connection point” means the physical point where the supply lines of a renewable energy installation and electricity distribution network of a distribution licensee are connected;
+
+“reliability run” means a test to measure the generation stability of a renewable energy installation over a period of time;
+
+“acceptance test” means a test to measure the performance of a renewable energy installation at a designed generation output;
+
+“high voltage” means a voltage from and including fifty thousand volts and up to and including one hundred and thirty-two thousand volts;
+
+66 “low voltage” means a voltage exceeding fifty volts but less than one thousand volts;
+
+“medium voltage” means a voltage from and including one thousand volts but less than fifty thousand volts.
+
+PART II
+
+PLANNING
