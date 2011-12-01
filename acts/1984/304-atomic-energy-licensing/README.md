@@ -1,8 +1,8 @@
 # Atomic Energy Licensing Act 1984 [Act 304]
 
-Atomic Energy Licensing Act 1984 (Akta Pelesenan Tenaga Atom 1984), Laws of Malaysia Act 304, the reprint (Commissioner of Law Revision) incorporating all amendments up to 2006-01-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/16051_BI/Act%20304%20reprint%202006.pdf
+Atomic Energy Licensing Act 1984 (Akta Pelesenan Tenaga Atom 1984), Laws of Malaysia Act 304, the reprint (Commissioner of Law Revision) as at 2011-12-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20304%20-%20Atomic%20Energy%20Licensing%20Act%201984.pdf
 
-In force: 2006-01-01 (the day up to which the reprint states it incorporates all amendments).
+In force: 2011-12-01 (the day the reprint states its text is "As at").
 
 | File | Provision |
 | --- | --- |
@@ -19,7 +19,7 @@ In force: 2006-01-01 (the day up to which the reprint states it incorporates all
 | [s-011.md](s-011.md) | Section 11. Power of the Minister to issue directions |
 | [s-012.md](s-012.md) | Section 12. Licensing of nuclear installation and of activities |
 | [s-013.md](s-013.md) | Section 13. Classification of licences |
-| [s-014.md](s-014.md) | Section 14. Exclusion of activity of prospecting or mining and requirement for |
+| [s-014.md](s-014.md) | Section 14. Exclusion of activity of prospecting or mining and requirement for reporting |
 | [s-015.md](s-015.md) | Section 15. Licensing authority |
 | [s-016.md](s-016.md) | Section 16. Application for licence |
 | [s-017.md](s-017.md) | Section 17. Conditions in licences |
@@ -29,13 +29,13 @@ In force: 2006-01-01 (the day up to which the reprint states it incorporates all
 | [s-021.md](s-021.md) | Section 21. Return of every sale of radioactive material, etc. |
 | [s-022.md](s-022.md) | Section 22. Cancellation or suspension of licence |
 | [s-023.md](s-023.md) | Section 23. Renewal of licence |
-| [s-024.md](s-024.md) | Section 24. Licensee to obtain prior approval of appropriate authority for change |
+| [s-024.md](s-024.md) | Section 24. Licensee to obtain prior approval of appropriate authority for change of |
 | [s-025.md](s-025.md) | Section 25. Protection of workers |
 | [s-026.md](s-026.md) | Section 26. Control of disposal of radioactive waste |
 | [s-027.md](s-027.md) | Section 27. Control of accumulation of radioactive waste |
-| [s-028.md](s-028.md) | Section 28. Appropriate authority may direct licensee to rectify situation where |
-| [s-029.md](s-029.md) | Section 29. Appropriate authority may order licensee or other person to adopt |
-| [s-030.md](s-030.md) | Section 30. Transport of radioactive waste with prior authorization of appropriate |
+| [s-028.md](s-028.md) | Section 28. Appropriate authority may direct licensee to rectify situation where facilities |
+| [s-029.md](s-029.md) | Section 29. Appropriate authority may order licensee or other person to adopt measures to |
+| [s-030.md](s-030.md) | Section 30. Transport of radioactive waste with prior authorization of appropriate authority |
 | [s-031.md](s-031.md) | Section 31. Discretion to consult Director General of Environmental Quality |
 | [s-032.md](s-032.md) | Section 32. Appeals |
 | [s-033.md](s-033.md) | Section 33. Search warrant |
@@ -47,7 +47,7 @@ In force: 2006-01-01 (the day up to which the reprint states it incorporates all
 | [s-039.md](s-039.md) | Section 39. Obstruction of inspection, search or investigation an offence |
 | [s-040.md](s-040.md) | Section 40. Offence |
 | [s-041.md](s-041.md) | Section 41. Secrecy |
-| [s-042.md](s-042.md) | Section 42. Meaning of “installation operator” for purposes of Part |
+| [s-042.md](s-042.md) | Section 42. Meaning of “installation operator" for purposes of Part |
 | [s-043.md](s-043.md) | Section 43. Liability of installation operator |
 | [s-044.md](s-044.md) | Section 44. Liability for nuclear damage from nuclear material in transit |
 | [s-045.md](s-045.md) | Section 45. Absolute and exclusive liability |
@@ -56,9 +56,9 @@ In force: 2006-01-01 (the day up to which the reprint states it incorporates all
 | [s-048.md](s-048.md) | Section 48. Governments to claim compensation for nuclear damage to environment |
 | [s-049.md](s-049.md) | Section 49. Gross negligence or intentional act of claimant |
 | [s-050.md](s-050.md) | Section 50. Liability not affected by Act |
-| [s-051.md](s-051.md) | Section 51. Carrier of nuclear material or person handling radioactive waste designated |
+| [s-051.md](s-051.md) | Section 51. Carrier of nuclear material or person handling radioactive waste designated as |
 | [s-052.md](s-052.md) | Section 52. Several installation operators liable |
-| [s-053.md](s-053.md) | Section 53. Liability of single operator of several nuclear installations involved in |
+| [s-053.md](s-053.md) | Section 53. Liability of single operator of several nuclear installations involved in one |
 | [s-054.md](s-054.md) | Section 54. Non-nuclear damage deemed nuclear damage |
 | [s-055.md](s-055.md) | Section 55. Certificate to carrier |
 | [s-056.md](s-056.md) | Section 56. Several nuclear installations on same site |
