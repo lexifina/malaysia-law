@@ -1,0 +1,9 @@
+# Paragraph 5
+
+5. Bus 14.60 1.80 7.30 3.90 2.30 .”
+
+6 Made 11 May 2016 [KKR.PUU.110-1/7/1 Jld.17(38); PN(PU2)426/LXIII]
+
+DATO’ SRI HAJI FADILLAH BIN HAJI YUSOF Minister of Works
+
+7
