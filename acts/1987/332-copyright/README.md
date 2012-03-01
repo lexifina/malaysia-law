@@ -1,8 +1,8 @@
 # Copyright Act 1987 [Act 332]
 
-Copyright Act 1987 (Akta Hakcipta 1987), Laws of Malaysia Act 332, the reprint (Commissioner of Law Revision) incorporating all amendments up to 2006-01-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3314757_BI/Act%20332%20reprint%202006_unlocked.pdf
+Copyright Act 1987 (Akta Hakcipta 1987), Laws of Malaysia Act 332, the reprint (Commissioner of Law Revision) as at 2013-01-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/15366_BI/Act%20332%20-%20Reprint%202013.pdf
 
-In force: 2006-01-01 (the day up to which the reprint states it incorporates all amendments).
+In force: 2012-03-01 (the day the latest amendment the reprint incorporates, Act A1420, came into operation, as page 2 of the reprint states).
 
 | File | Provision |
 | --- | --- |
@@ -19,10 +19,10 @@ In force: 2006-01-01 (the day up to which the reprint states it incorporates all
 | [s-010-a.md](s-010-a.md) | Section 10A. Qualification for protection of performer |
 | [s-011.md](s-011.md) | Section 11. Copyright in works of Government, Government organizations and |
 | [s-012.md](s-012.md) | Section 12. Administration of Government copyright |
-| [s-013.md](s-013.md) | Section 13. Nature of copyright in literary, musical or artistic works, films and |
+| [s-013.md](s-013.md) | Section 13. Nature of copyright in literary, musical or artistic works, films and sound |
 | [s-013-a.md](s-013-a.md) | Section 13A. Design documents and models |
 | [s-013-b.md](s-013-b.md) | Section 13B. Effect of exploitation of design derived from artistic work |
-| [s-013-c.md](s-013-c.md) | Section 13C. Things done in reliance on registration of design |
+| [s-013-c.md](s-013-c.md) | Section 13C. (Deleted) |
 | [s-014.md](s-014.md) | Section 14. Nature of copyright in works of architecture |
 | [s-015.md](s-015.md) | Section 15. Nature of copyright in broadcasts |
 | [s-016.md](s-016.md) | Section 16. Broadcasting of works incorporated in films |
@@ -39,22 +39,26 @@ In force: 2006-01-01 (the day up to which the reprint states it incorporates all
 | [s-023-b.md](s-023-b.md) | Section 23B. Duration of an equitable remuneration |
 | [s-024.md](s-024.md) | Section 24. (Deleted) |
 | [s-025.md](s-025.md) | Section 25. Moral rights |
-| [s-025-a.md](s-025-a.md) | Section 25A. Moral right of a performer |
+| [s-025-a.md](s-025-a.md) | Section 25A. Moral rights of a performer |
 | [s-026.md](s-026.md) | Section 26. First ownership of copyright |
+| [s-026-a.md](s-026-a.md) | Section 26A. Voluntary notification of copyright |
+| [s-026-b.md](s-026-b.md) | Section 26B. Register of Copyright |
+| [s-026-c.md](s-026-c.md) | Section 26C. Amendments to the Register of Copyright |
 | [s-027.md](s-027.md) | Section 27. Assignment, licences and testamentary disposition |
-| [s-027-a.md](s-027-a.md) | Section 27A. Licensing schemes to which sections 27B to 27G apply |
+| [s-027-a.md](s-027-a.md) | Section 27A. Licensing body |
+| [s-027-aa.md](s-027-aa.md) | Section 27AA. Licensing schemes to which sections 27b to 27b apply |
 | [s-027-b.md](s-027-b.md) | Section 27B. Reference of proposed licensing scheme to Tribunal |
 | [s-027-c.md](s-027-c.md) | Section 27C. Reference of licensing scheme to Tribunal |
 | [s-027-d.md](s-027-d.md) | Section 27D. Further reference of licensing scheme to Tribunal |
-| [s-027-e.md](s-027-e.md) | Section 27E. Application for grant of licence in connection with licensing scheme |
+| [s-027-e.md](s-027-e.md) | Section 27E. Application for grant of licence in connection with licensing |
 | [s-027-f.md](s-027-f.md) | Section 27F. Application for review of order as to entitlement to licence |
 | [s-027-g.md](s-027-g.md) | Section 27G. Effect of order of Tribunal as to licensing scheme |
-| [s-027-h.md](s-027-h.md) | Section 27H. Licences to which sections 27I to 27L apply |
+| [s-027-h.md](s-027-h.md) | Section 27H. Licences to which sections 27i to 27l apply |
 | [s-027-i.md](s-027-i.md) | Section 27I. Reference to Tribunal of terms of proposed licence |
 | [s-027-j.md](s-027-j.md) | Section 27J. Reference to Tribunal of expiring licence |
 | [s-027-k.md](s-027-k.md) | Section 27K. Application for review of order as to licence |
 | [s-027-l.md](s-027-l.md) | Section 27L. Effect of order of Tribunal as to licence |
-| [s-028.md](s-028.md) | Section 28. Establishment of Copyright Tribunal |
+| [s-028.md](s-028.md) | Section 28. Establishment and powers of Copyright Tribunal |
 | [s-029.md](s-029.md) | Section 29. Appointment of Chairman and members of Tribunal |
 | [s-030.md](s-030.md) | Section 30. Proceedings before the Tribunal |
 | [s-030-a.md](s-030-a.md) | Section 30A. Reference of questions of law to High Court |
@@ -64,6 +68,8 @@ In force: 2006-01-01 (the day up to which the reprint states it incorporates all
 | [s-034.md](s-034.md) | Section 34. No action to lie against Tribunal |
 | [s-035.md](s-035.md) | Section 35. Regulations relating to Tribunal |
 | [s-036.md](s-036.md) | Section 36. Infringements |
+| [s-036-a.md](s-036-a.md) | Section 36A. Circumvention of technological protection measure |
+| [s-036-b.md](s-036-b.md) | Section 36B. Rights management information |
 | [s-037.md](s-037.md) | Section 37. Action by owner of copyright and relief |
 | [s-038.md](s-038.md) | Section 38. Proceedings in case of copyright subject to exclusive licence |
 | [s-039.md](s-039.md) | Section 39. Restriction on importation of infringing copies |
@@ -73,16 +79,29 @@ In force: 2006-01-01 (the day up to which the reprint states it incorporates all
 | [s-041-a.md](s-041-a.md) | Section 41A. Compounding of offences |
 | [s-042.md](s-042.md) | Section 42. Affidavit admissible in evidence |
 | [s-043.md](s-043.md) | Section 43. Penalty |
+| [s-043-a.md](s-043-a.md) | Section 43A. Offences relating to anti-camcording |
+| [s-043-b.md](s-043-b.md) | Section 43B. Interpretation |
+| [s-043-c.md](s-043-c.md) | Section 43C. Transmission, routing and provision of connections |
+| [s-043-d.md](s-043-d.md) | Section 43D. System caching |
+| [s-043-e.md](s-043-e.md) | Section 43E. Storage and information location tools |
+| [s-043-f.md](s-043-f.md) | Section 43F. Exemption of service provider from liability for removal of copy or |
+| [s-043-g.md](s-043-g.md) | Section 43G. Information on service provider |
+| [s-043-h.md](s-043-h.md) | Section 43H. Notification by copyright owner and its effect |
+| [s-043-i.md](s-043-i.md) | Section 43I. Maker of false notice guilty of offence and liable in damages |
 | [s-044.md](s-044.md) | Section 44. Entry by warrant or otherwise |
 | [s-045.md](s-045.md) | Section 45. Effecting entry, removal and detention |
+| [s-045-a.md](s-045-a.md) | Section 45A. Access to computerized or digitalized data |
 | [s-046.md](s-046.md) | Section 46. List of things seized |
 | [s-047.md](s-047.md) | Section 47. Sealing of things |
 | [s-048.md](s-048.md) | Section 48. Obstruction to search, etc. |
 | [s-049.md](s-049.md) | Section 49. Warrant admissible notwithstanding defects, etc. |
 | [s-050.md](s-050.md) | Section 50. Powers of investigation |
 | [s-050-a.md](s-050-a.md) | Section 50A. Power of arrest |
+| [s-050-b.md](s-050-b.md) | Section 50B. Power to intercept communications |
 | [s-051.md](s-051.md) | Section 51. Admissibility of statement |
+| [s-051-a.md](s-051-a.md) | Section 51A. Evidence of agent provocateur is admissible |
 | [s-052.md](s-052.md) | Section 52. Disclosure of information |
+| [s-052-a.md](s-052-a.md) | Section 52A. Tipping-off |
 | [s-053.md](s-053.md) | Section 53. Institution of prosecution |
 | [s-054.md](s-054.md) | Section 54. Forfeiture of articles |
 | [s-055.md](s-055.md) | Section 55. Proportional examination of articles seized to be accepted |
