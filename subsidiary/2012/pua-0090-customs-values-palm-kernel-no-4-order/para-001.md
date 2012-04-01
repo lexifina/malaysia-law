@@ -1,0 +1,5 @@
+# Paragraph 1. Citation and commencement
+
+1. This order may be cited as the Customs (Values) (Palm Kernel) (No. 4) Order 2012 and shall have effect for the period from 1 April 2012 to 30 April 2012.
+
+2
