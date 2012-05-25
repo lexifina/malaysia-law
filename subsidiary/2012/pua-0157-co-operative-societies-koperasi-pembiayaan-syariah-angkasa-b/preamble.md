@@ -1,0 +1,3 @@
+# Enacting words
+
+IN exercise of the powers conferred by section 87 of the Co-operatives Societies Act 1993 [Act 502], the Minister makes the following order:
