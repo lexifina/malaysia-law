@@ -1,12 +1,12 @@
 # Printing Presses and Publications Act 1984 [Act 301]
 
-Printing Presses and Publications Act 1984 (Akta Mesin Cetak Dan Penerbitan 1984), Laws of Malaysia Act 301, the reprint (Commissioner of Law Revision) incorporating all amendments up to 2006-01-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/16040_BI/Act%20301%20REPRINT%202006.pdf
+Printing Presses and Publications Act 1984 (Akta Mesin Cetak Dan Penerbitan 1984), Laws of Malaysia Act 301, the reprint (Commissioner of Law Revision) as at 2012-09-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20301%20-%20Printing%20Presses%20And%20Publications%20Act%201984.pdf
 
-In force: 2006-01-01 (the day up to which the reprint states it incorporates all amendments).
+In force: 2012-07-15 (the day the latest amendment the reprint incorporates, Act A1436, came into operation, as page 2 of the reprint states).
 
 | File | Provision |
 | --- | --- |
-| [s-001.md](s-001.md) | Section 1. Short title |
+| [s-001.md](s-001.md) | Section 1. Short title and commencement |
 | [s-002.md](s-002.md) | Section 2. Interpretation |
 | [s-003.md](s-003.md) | Section 3. Licence to use printing press |
 | [s-004.md](s-004.md) | Section 4. Printing press used for unlawful purpose |
@@ -24,7 +24,7 @@ In force: 2006-01-01 (the day up to which the reprint states it incorporates all
 | [s-012.md](s-012.md) | Section 12. Validity of licence and permit |
 | [s-013.md](s-013.md) | Section 13. Revocation, suspension and transfer of licence and permit |
 | [s-013-a.md](s-013-a.md) | Section 13A. Minister’s decision final |
-| [s-013-b.md](s-013-b.md) | Section 13B. Exclusion of right to be heard |
+| [s-013-b.md](s-013-b.md) | Section 13B. Right to be heard |
 | [s-014.md](s-014.md) | Section 14. Presumption |
 | [s-015.md](s-015.md) | Section 15. Presumption of printer and publisher |
 | [s-016.md](s-016.md) | Section 16. Search warrant |
