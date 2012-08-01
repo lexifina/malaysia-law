@@ -1,0 +1,3 @@
+# Rule 188
+
+188. Consent of Next Friend or Guardian ad litem of Person under 76 … 3 Disability… … … … … … … … … … … … … … … … … … … … … …
