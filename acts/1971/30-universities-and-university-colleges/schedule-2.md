@@ -26,9 +26,9 @@ Cessation from being a member
 
 (a) if he fails to attend three consecutive meetings of the Authority without leave of the chairman of the Authority; or
 
-(b) if his appointment is revoked. Universities and University Colleges 55
+(b) if his appointment is revoked or he resigns; or
 
-Resignation
+(c) if he is disqualified under paragraph 1. Resignation
 
 3. A member of the Authority may resign by giving one month’s notice in writing to the chairman of the Authority.
 
@@ -60,11 +60,9 @@ Disclosure of interest
 
 (a) an interest in a company or undertaking with which the Authority proposes to make a contract; or
 
-(b) an interest in a contract or matter under discussion by the Authority,
+(b) an interest in a contract or matter under discussion by the Authority, shall disclose to the Authority the fact of his interest and its nature.
 
-shall disclose to the Authority the fact of his interest and its nature.
-
-(2) A disclosure under subparagraph (1) shall be recorded in the minutes of the Authority and, unless specifically authorized by the chairman, such member shall take no part in the deliberation or decision of the Authority relating to the contract or matter. 56 Laws of Malaysia ACT 30
+(2) A disclosure under subparagraph (1) shall be recorded in the minutes of the Authority and, unless specifically authorized by the chairman, such member shall take no part in the deliberation or decision of the Authority relating to the contract or matter.
 
 Validity of acts and proceedings
 
@@ -74,7 +72,7 @@ Validity of acts and proceedings
 
 (b) a contravention by a member of the Authority of paragraph 8; or
 
-(c) an omission, a defect or an irregularity not affecting the merit of the case. 57
+(c) an omission, a defect or an irregularity not affecting the merit of the case. 70
 
 LAWS OF MALAYSIA
 
