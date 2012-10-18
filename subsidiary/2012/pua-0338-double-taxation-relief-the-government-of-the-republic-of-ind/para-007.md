@@ -1,0 +1,3 @@
+# Paragraph 7
+
+7. An enterprise shall not be deemed to have a permanent establishment in a Contracting State merely because it carries on business in that State through a broker, general commission agent or any other agent of an independent status, provided that such persons are acting in the ordinary course of their business. However, when the activities of such an agent are devoted wholly or almost wholly on behalf of that enterprise, and conditions are made or imposed between that enterprise and the agent in their commercial and financial relations which differ from those which would have been made between independent enterprises, he will not be considered an agent of an independent status within the meaning of this paragraph.
