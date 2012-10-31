@@ -1,0 +1,3 @@
+# Paragraph 10
+
+10. 8424.89.40 - - - Wet processing equipment, by projecting, dispersing or spraying, of chemical or electrochemical solutions for the application on printed circuit boards or printed wiring boards substrates; apparatus for the spot application of liquids, soldering pastes, solder ball, adhesives or sealant to printed circuit boards or printed wiring boards or their components; apparatus for the application of dry film or liquid photo resist, photo sensitive layers, soldering pastes, solder or adhesive materials on printed circuit boards or printed wiring boards substrates or their components
