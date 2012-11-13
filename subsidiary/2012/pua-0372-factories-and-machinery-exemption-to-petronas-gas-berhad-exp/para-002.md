@@ -1,0 +1,3 @@
+# Paragraph 2. Gas Berhad, Eksport Terminal, Kemaman, Terengganu) Order 2012. Exemption
+
+2. All unfired pressure vessel registered with the Chief Inspector, with the registration numbers and descriptions as specified in columns (1) and (2) of the Schedule, in the name of Petronas Gas Berhad, Eksport Terminal, Kemaman, Terengganu which have been issued with certificates of fitness, are exempted from the preparation required under paragraph 17(b) of the Factories and Machinery (Notification, Certificate of Fitness and Inspection) Regulations 1970 [P.U. (A) 43/1970] for subsequent regular inspection after the expiry of such certificates of fitness on 14 March 2012.
