@@ -1,0 +1,7 @@
+# Paragraph 9. Rate of annual premium for general insurance business
+
+9. (1) Subject to paragraph 11 and where the premium category in which an insurance company carrying on the business of general insurance is classified for an assessment year pursuant to the Malaysia Deposit Insurance Corporation (Differential Premium Systems in respect of Insurer Members) Regulations 2012, is as specified in the Second Schedule, the rate of the annual premium payable by such insurance company for that assessment year shall be the corresponding premium rate specified in the Second Schedule, calculated based on the total net premiums received by such insurance company in respect of the relevant protected benefits during the preceding assessment year.
+
+11
+
+(2) Subject to paragraph 11, a new insurance company as defined in regulation 3 of the Malaysia Deposit Insurance Corporation (Differential Premium Systems in respect of Insurer Members) Regulations 2012, carrying on the business of general insurance, shall be classified in premium category 1 for its second assessment year pursuant to the Malaysia Deposit Insurance Corporation (Differential Premium Systems in respect of Insurer Members) Regulations 2012, and the rate of the annual premium payable by such insurance company for that second assessment year shall be the corresponding premium rate specified in the Second Schedule, calculated based on the total net premiums received by such insurance company in respect of the relevant protected benefits during the preceding assessment year.
