@@ -1,12 +1,12 @@
 # Consumer Protection Act 1999 [Act 599]
 
-Consumer Protection Act 1999 (Akta Perlindungan Pengguna 1999), Laws of Malaysia Act 599, the reprint (Commissioner of Law Revision) incorporating all amendments up to 2006-01-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2257358_BI/ACT%20599%20-%20REPRINT%202006.pdf
+Consumer Protection Act 1999 (Akta Perlindungan Pengguna 1999), Laws of Malaysia Act 599, the reprint (Commissioner of Law Revision) as at 2013-02-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/15585_BI/ACT%20599%20-%20REPRINT%202013.pdf
 
-In force: 2006-01-01 (the day up to which the reprint states it incorporates all amendments).
+In force: 2013-02-01 (the day the reprint states its text is "As at").
 
 | File | Provision |
 | --- | --- |
-| [s-001.md](s-001.md) | Section 1. Short title |
+| [s-001.md](s-001.md) | Section 1. Short title and commencement |
 | [s-002.md](s-002.md) | Section 2. Application |
 | [s-003.md](s-003.md) | Section 3. Interpretation |
 | [s-004.md](s-004.md) | Section 4. Ouster of choice of law |
@@ -27,9 +27,20 @@ In force: 2006-01-01 (the day up to which the reprint states it incorporates all
 | [s-019.md](s-019.md) | Section 19. Safety standards |
 | [s-020.md](s-020.md) | Section 20. Compliance with safety standards |
 | [s-021.md](s-021.md) | Section 21. General safety requirement for goods |
+| [s-021-a.md](s-021-a.md) | Section 21A. General safety requirement for services |
 | [s-022.md](s-022.md) | Section 22. Defences |
-| [s-023.md](s-023.md) | Section 23. Prohibition against unsafe goods |
+| [s-023.md](s-023.md) | Section 23. Prohibition against unsafe goods and services |
 | [s-024.md](s-024.md) | Section 24. Prohibition of importation of goods or services |
+| [s-024-a.md](s-024-a.md) | Section 24A. Interpretation for purposes of Part IIIa |
+| [s-024-b.md](s-024-b.md) | Section 24B. Application of Part IIIa |
+| [s-024-c.md](s-024-c.md) | Section 24C. General procedural unfairness |
+| [s-024-d.md](s-024-d.md) | Section 24D. General substantive unfairness |
+| [s-024-e.md](s-024-e.md) | Section 24E. Burden of proof |
+| [s-024-f.md](s-024-f.md) | Section 24F. Power to raise an issue of unfairness |
+| [s-024-g.md](s-024-g.md) | Section 24G. Effect of unfair terms |
+| [s-024-h.md](s-024-h.md) | Section 24H. Executed contracts |
+| [s-024-i.md](s-024-i.md) | Section 24I. Contravention of Part IIIa to be an offence |
+| [s-024-j.md](s-024-j.md) | Section 24J. Regulations relating to unfair contract terms |
 | [s-025.md](s-025.md) | Section 25. Contravention of Parts II and III to be an offence |
 | [s-026.md](s-026.md) | Section 26. Offence caused by act or default of another person |
 | [s-027.md](s-027.md) | Section 27. Defence of mistake, accident, etc. |
@@ -57,7 +68,7 @@ In force: 2006-01-01 (the day up to which the reprint states it incorporates all
 | [s-049.md](s-049.md) | Section 49. Liability of assignees and financiers |
 | [s-050.md](s-050.md) | Section 50. Consumer’s right of redress against manufacturers |
 | [s-051.md](s-051.md) | Section 51. Exceptions to right of redress against manufacturers |
-| [s-052.md](s-052.md) | Section 52. Options against manufacturers where goods do not comply with guarantees |
+| [s-052.md](s-052.md) | Section 52. Options against manufacturers where goods do not comply with |
 | [s-053.md](s-053.md) | Section 53. Implied guarantee as to reasonable care and skill |
 | [s-054.md](s-054.md) | Section 54. Implied guarantee as to fitness for particular purpose |
 | [s-055.md](s-055.md) | Section 55. Implied guarantee as to time of completion |
@@ -90,6 +101,10 @@ In force: 2006-01-01 (the day up to which the reprint states it incorporates all
 | [s-082.md](s-082.md) | Section 82. Council may invite others to meetings |
 | [s-083.md](s-083.md) | Section 83. Validity of acts and proceedings |
 | [s-084.md](s-084.md) | Section 84. Regulations relating to the Council |
+| [s-084-a.md](s-084-a.md) | Section 84A. Committee on Advertisement |
+| [s-084-b.md](s-084-b.md) | Section 84B. Membership of Committee on Advertisement |
+| [s-084-c.md](s-084-c.md) | Section 84C. Provisions of Schedule to apply to Committee on Advertisement |
+| [s-084-d.md](s-084-d.md) | Section 84D. Regulations relating to the Committee on Advertisement |
 | [s-085.md](s-085.md) | Section 85. Establishment of the Tribunal for Consumer Claims |
 | [s-086.md](s-086.md) | Section 86. Membership of Tribunal |
 | [s-087.md](s-087.md) | Section 87. Temporary exercise of functions of Chairman |
@@ -108,7 +123,7 @@ In force: 2006-01-01 (the day up to which the reprint states it incorporates all
 | [s-100.md](s-100.md) | Section 100. Extension of jurisdiction by agreement |
 | [s-101.md](s-101.md) | Section 101. Abandonment to bring claim within jurisdiction |
 | [s-102.md](s-102.md) | Section 102. Cause of action not to be split |
-| [s-103.md](s-103.md) | Section 103. Additional jurisdiction of the Tribunal |
+| [s-103.md](s-103.md) | Section 103. (Deleted) |
 | [s-104.md](s-104.md) | Section 104. Exclusion of jurisdiction of court |
 | [s-105.md](s-105.md) | Section 105. Disposal of perishable goods |
 | [s-106.md](s-106.md) | Section 106. Notice of claim and hearing |
