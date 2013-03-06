@@ -1,0 +1,3 @@
+# Paragraph 2. Assumption of control
+
+2. The Commission has appointed Haji Mohd Azmy bin Deris to assume control of the whole of the property, business, activities and affairs of the Koperasi Kakitangan Kerajaan Dan Badan-Badan Berkanun Terengganu (KOKANUN) Berhad and its related corporations and carry on the whole of its business, activities and affairs commencing from 1 November 2011 for the remaining period of the assumption of control as prescribed under the Co-operative Societies (Assumption of Control) (No. 3) Order 2010 [P.U. (A) 356/2010] for a period not exceeding two years from 20 October 2010.
