@@ -1,0 +1,3 @@
+# Paragraph 71
+
+71. TADIKA BESTARI DBKK:314956 31 December 2013 1 August 2013 –

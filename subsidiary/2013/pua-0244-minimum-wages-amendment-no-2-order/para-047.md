@@ -1,0 +1,3 @@
+# Paragraph 47
+
+47. NIS MAJU ENTERPRISE KT0279646-B 31 December 2013 1 August 2013 –

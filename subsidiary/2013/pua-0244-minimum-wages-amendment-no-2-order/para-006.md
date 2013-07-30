@@ -1,0 +1,3 @@
+# Paragraph 6
+
+6. BGF TRAVEL AND TOURS SDN. BHD. 315551-K 31 December 2013 1 August 2013 –

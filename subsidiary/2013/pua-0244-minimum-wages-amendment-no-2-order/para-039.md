@@ -1,0 +1,3 @@
+# Paragraph 39
+
+39. KOPERASI RISDA UTARA BHD 4237 31 December 2013 1 August 2013 –

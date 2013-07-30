@@ -1,0 +1,3 @@
+# Paragraph 12
+
+12. CHUAH AH KEE TRADING SDN. BHD. 113945-A 31 December 2013 1 August 2013 –

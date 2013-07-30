@@ -1,0 +1,3 @@
+# Paragraph 11
+
+11. CHOSEN COMPUTERS SDN. BHD. 353113-M 31 December 2013 1 August 2013 –
