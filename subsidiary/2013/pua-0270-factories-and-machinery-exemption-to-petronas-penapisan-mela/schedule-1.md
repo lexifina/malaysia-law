@@ -1,0 +1,21 @@
+# Schedule
+
+(1) (2) Registration No. Description of Machinery MK PMT 1726 Unfired pressure vessel MK PMT 1727 Unfired pressure vessel MK PMT 1728 Unfired pressure vessel MK PMT 1729 Unfired pressure vessel MK PMT 1730 Unfired pressure vessel MK PMT 1731 Unfired pressure vessel MK PMT 1732 Unfired pressure vessel MK PMT 1733 Unfired pressure vessel MK PMT 1734 Unfired pressure vessel MK PMT 1735 Unfired pressure vessel MK PMT 1736 Unfired pressure vessel MK PMT 1737 Unfired pressure vessel MK PMT 1738 Unfired pressure vessel MK PMT 1739 Unfired pressure vessel MK PMT 1740 Unfired pressure vessel MK PMT 1741 Unfired pressure vessel MK PMT 1742 Unfired pressure vessel MK PMT 1743 Unfired pressure vessel MK PMT 1744 Unfired pressure vessel MK PMT 1745 Unfired pressure vessel MK PMT 1746 Unfired pressure vessel MK PMT 1747 Unfired pressure vessel MK PMT 1748 Unfired pressure vessel MK PMT 1749 Unfired pressure vessel MK PMT 1750 Unfired pressure vessel MK PMT 1751 Unfired pressure vessel MK PMT 1752 Unfired pressure vessel MK PMT 1753 Unfired pressure vessel MK PMT 1755 Unfired pressure vessel
+
+8
+
+(1) (2) Registration No. Description of Machinery MK PMT 1756 Unfired pressure vessel MK PMT 1757 Unfired pressure vessel MK PMT 1761 Unfired pressure vessel MK PMT 1762 Unfired pressure vessel MK PMT 1775 Unfired pressure vessel MK PMT 1776 Unfired pressure vessel MK PMT 1777 Unfired pressure vessel MK PMT 1778 Unfired pressure vessel MK PMT 1779 Unfired pressure vessel MK PMT 1780 Unfired pressure vessel MK PMT 1781 Unfired pressure vessel MK PMT 1783 Unfired pressure vessel MK PMT 1784 Unfired pressure vessel MK PMT 1785 Unfired pressure vessel MK PMT 1786 Unfired pressure vessel MK PMT 1787 Unfired pressure vessel MK PMT 1788 Unfired pressure vessel MK PMT 1789 Unfired pressure vessel MK PMT 1790 Unfired pressure vessel MK PMT 1791 Unfired pressure vessel MK PMT 1792 Unfired pressure vessel MK PMT 1793 Unfired pressure vessel MK PMT 1795 Unfired pressure vessel MK PMT 1796 Unfired pressure vessel MK PMT 1799 Unfired pressure vessel MK PMT 1801 Unfired pressure vessel MK PMT 1802 Unfired pressure vessel MK PMT 1803 Unfired pressure vessel MK PMT 1804 Unfired pressure vessel MK PMT 1805 Unfired pressure vessel
+
+9
+
+(1) (2) Registration No. Description of Machinery MK PMT 1806 Unfired pressure vessel MK PMT 1807 Unfired pressure vessel MK PMT 1808 Unfired pressure vessel MK PMT 1817 Unfired pressure vessel MK PMT 1818 Unfired pressure vessel MK PMT 1819 Unfired pressure vessel MK PMT 1820 Unfired pressure vessel MK PMT 1821 Unfired pressure vessel MK PMT 1822 Unfired pressure vessel MK PMT 1823 Unfired pressure vessel MK PMT 1824 Unfired pressure vessel MK PMT 1825 Unfired pressure vessel MK PMT 1826 Unfired pressure vessel MK PMT 1827 Unfired pressure vessel MK PMT 1828 Unfired pressure vessel MK PMT 1829 Unfired pressure vessel MK PMT 1830 Unfired pressure vessel MK PMT 1831 Unfired pressure vessel MK PMT 1832 Unfired pressure vessel MK PMT 1833 Unfired pressure vessel MK PMT 1834 Unfired pressure vessel MK PMT 1835 Unfired pressure vessel MK PMT 1836 Unfired pressure vessel MK PMT 1837 Unfired pressure vessel MK PMT 1838 Unfired pressure vessel MK PMT 1839 Unfired pressure vessel MK PMT 1841 Unfired pressure vessel MK PMT 1843 Unfired pressure vessel MK PMT 1844 Unfired pressure vessel MK PMT 1845 Unfired pressure vessel
+
+10
+
+(1) (2) Registration No. Description of Machinery MK PMT 1846 Unfired pressure vessel MK PMT 1850 Unfired pressure vessel MK PMT 1851 Unfired pressure vessel MK PMT 1852 Unfired pressure vessel MK PMT 1853 Unfired pressure vessel MK PMT 1854 Unfired pressure vessel MK PMT 1855 Unfired pressure vessel MK PMT 1856 Unfired pressure vessel MK PMT 1857 Unfired pressure vessel MK PMT 1858 Unfired pressure vessel MK PMT 1859 Unfired pressure vessel MK PMT 1860 Unfired pressure vessel MK PMT 1861 Unfired pressure vessel MK PMT 1862 Unfired pressure vessel MK PMT 1863 Unfired pressure vessel MK PMT 1864 Unfired pressure vessel MK PMT 1963 Unfired pressure vessel MK PMT 1964 Unfired pressure vessel MK PMT 1965 Unfired pressure vessel MK PMT 2021 Unfired pressure vessel
+
+Made 20 August 2013 [KSM/PUU/T/01/02/03 Jld.22; PN(PU2)235/XXXVII]
+
+DATUK RICHARD RIOT ANAK JAEM Minister of Human Resources
+
+11
