@@ -1,0 +1,11 @@
+# Paragraph 47
+
+47. V'SHIELD SECURITY SERVICES S/B 865070-T 31 December 2013 ”.
+
+28 Made 4 September 2013
+
+[KSM/PUU/R/01/09; PN(PU2)700/III]
+
+DATUK RICHARD RIOT ANAK JAEM Minister of Human Resources
+
+29
