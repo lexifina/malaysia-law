@@ -1,0 +1,9 @@
+# Schedule B
+
+(Deleted by Act A1242). 21
+
+LAWS OF MALAYSIA
+
+Act 275
+
+GOVERNMENT FUNDING ACT 1983
