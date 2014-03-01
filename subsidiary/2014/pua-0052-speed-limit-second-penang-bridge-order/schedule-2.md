@@ -1,0 +1,11 @@
+# Second Schedule
+
+MAP OF THE SECOND PENANG BRIDGE
+
+Made 24 February 2014
+
+[KKR.PUU.110-1/7/31; PN(PU2)460/LXXIV]
+
+DATUK HAJI FADILLAH BIN HAJI YUSOF Minister of Works
+
+5
