@@ -1,8 +1,8 @@
 # Syariah Courts (Criminal Jurisdiction) Act 1965 [Act 355]
 
-Syariah Courts (Criminal Jurisdiction) Act 1965 (Akta Mahkamah Syariah (Bidang Kuasa Jenayah) 1965), Laws of Malaysia Act 355, the reprint (Commissioner of Law Revision) incorporating all amendments up to 2006-01-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/15470_BI/Act%20355%20Reprint%202006.pdf
+Syariah Courts (Criminal Jurisdiction) Act 1965 (Akta Mahkamah Syariah (Bidang Kuasa Jenayah) 1965), Laws of Malaysia Act 355, the reprint (Commissioner of Law Revision) as at 2014-12-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20355%20-%20Syariah%20Courts%20(Criminal%20Jurisdiction)%201965.pdf
 
-In force: 2006-01-01 (the day up to which the reprint states it incorporates all amendments).
+In force: 2014-12-01 (the day the reprint states its text is "As at").
 
 | File | Provision |
 | --- | --- |
