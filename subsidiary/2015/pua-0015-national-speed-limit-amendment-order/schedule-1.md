@@ -1,0 +1,13 @@
+# Schedule
+
+[Paragraph 3]
+
+MAP OF KL-KUALA SELANGOR EXPRESSWAY
+
+Made 21 January 2015
+
+[KKR.PUU.110-1/7/28; PN(PU2)460/LXXVII]
+
+DATO’ SRI LIOW TIONG LAI Ministry of Transport
+
+7
