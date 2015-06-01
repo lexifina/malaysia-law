@@ -1,0 +1,3 @@
+# Paragraph 3
+
+3. The building/s erected thereon, including any provisional block, is used for the following purposes: …………………………………………………………………………………………………………............
