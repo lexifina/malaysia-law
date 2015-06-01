@@ -2,21 +2,27 @@
 
 [Subsection 5(3)]
 
-Person 1. A copy of the latest audited That person himself balance-sheet, if any, relating to all housing developments undertaken by that person
+(1) (2) (3)
 
-Body of 1. A copy of an agreement Any of the persons persons between or amongst persons forming that body forming that body
+Person 1. A copy of the latest audited balance-sheet, if any, That person relating to all housing developments undertaken by himself that person
 
-2. A copy of the latest audited balance-sheet, if any, relating to all housing developments undertaken by that body of persons . Company 1. A copy of memorandum of A director, managing association director, general manager, secretary
+Body of 1. A copy of an agreement between or amongst persons Any of the persons persons forming that body forming that body
 
-2. A copy of articles of association or any senior officer of the company
+2. A copy of the latest audited balance-sheet, if any, relating to all housing developments undertaken by that body of persons
 
-3. A copy of the latest audited balance-sheet Firm 1. A copy of the partnership A partner agreement
+Company 1. A copy of memorandum of association A director, managing director, general manager, secretary or
+
+2. A copy of articles of association any senior officer of the company
+
+3. A copy of the latest audited balance-sheet
+
+Firm 1. A copy of the partnership agreement A partner
 
 2. A copy of the latest audited balance-sheet
 
-Society 1. A copy of the rules or President or secretary by-laws of the society
+Society 1. A copy of the rules or by- laws of the society President or secretary
 
-2. A copy of the latest audited balance-sheet
+2. A copy of the latest audited balance-sheet 62
 
 LAWS OF MALAYSIA
 
