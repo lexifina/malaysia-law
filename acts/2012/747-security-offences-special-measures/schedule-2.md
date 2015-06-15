@@ -1,0 +1,55 @@
+# Second Schedule
+
+(Section 7)
+
+FORM
+
+IN THE SESSIONS COURT AT.................. IN THE STATE OF..................
+
+1. Name:.......................................................................................................................
+
+2. Case No.: .................................................................................................................
+
+3. Identity Card No.: ...................................................................................................
+
+4. Address:................................................................................................................... ..................................................................................................................................... .....................................................................................................................................
+
+5. Telephone No.: ........................................................................................................
+
+6. Family members to be contacted: ............................................................................ .....................................................................................................................................
+
+7. Period to be attached with electronic monitoring device (“device”): .....................
+
+8. Terms and conditions—
+
+(a) to report to the nearest police station at/for every .........................;
+
+(b) understands that all movements will be tracked and retained as an official record;
+
+(c) agrees to be required to report for device equipment checks if necessary;
+
+(d) to notify the police officer if there is any change of address;
+
+(e) to allow inspections of the device by the police officer;
+
+(f) to report to the nearest police station for removal of the device;
+
+(g) to return all the device equipment to the police officer;
+
+(h) to submit to procedures required by the police officer;
+
+(i) to maintain the device as instructed by the police officer;
+
+(j) to comply with any directions of the police officer;
+
+(k) to comply with any other conditions as the court may determine.
+
+9. Failure to comply with the terms and conditions is an offence under subsection 7(6) of this Act.
+
+I hereby agree to and shall comply with the terms and conditions as stated in this Form. ……………………………………………… ( ) 32
+
+LAWS OF MALAYSIA
+
+Act 747
+
+SECURITY OFFENCES (SPECIAL MEASURES)
