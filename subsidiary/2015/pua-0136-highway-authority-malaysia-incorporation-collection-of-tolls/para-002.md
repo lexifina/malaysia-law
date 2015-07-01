@@ -1,0 +1,7 @@
+# Paragraph 2. Imposition of toll
+
+2. (1) The tolls specified in column (2) of the First Schedule are imposed for the use by any class of vehicle specified in column (2), in either direction of any part of the East Coast Expressway-Phase 1 commencing from kilometre 76.10 at coordinate N+380860.267, E+445258.467 Rectified Skew Orthomorphic (RSO) Grid Geocentric (GDM 2000) and ending at kilometre 250.60 at coordinate N+435884.921, E+589311.032 RSO Geocentric Grid (GDM 2000) including Cheneh Toll Plaza at coordinate N+456379.279, E+585744.224 Grid RSO Geosentric (GDM 2000), Cukai Toll Plaza at coordinate N+468857.997, E+589927.446 Grid RSO Geosentric (GDM 2000), Kijal Toll Plaza at coordinate N+483928.764, E+596401.213 Grid RSO Geosentric (GDM 2000), Kertih Toll Plaza at coordinate N+495539.264, E+601443.073 Grid RSO Geosentric (GDM 2000), Paka Toll Plaza at coordinate N+507718.903, E+594694.809 Grid RSO Geosentric (GDM 2000), Kuala Dungun Toll Plaza at coordinate N+524357.059, E+592645.491 Grid RSO Geosentric (GDM 2000), Bukit Besi Toll Plaza at coordinate N+530949.732, E+577897.903 Grid RSO Geosentric (GDM 2000), Ajil Toll Plaza at coordinate N+562585.677, E+564404.521 Grid RSO Geosentric (GDM 2000), Telemung Toll Plaza at coordinate N+579364.884, E+556122.218 Grid RSO Geosentric
+
+9 (GDM 2000) and Kuala Terengganu Toll Plaza at coordinate N+590148.39, E+558610.799 Grid RSO Geosentric (GDM 2000) and its link roads.
+
+(2) The map for the East Coast Expressway-Phase 2 for the use of which tolls are imposed are shown in the Second Schedule.
