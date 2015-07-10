@@ -1,0 +1,13 @@
+# Second Schedule
+
+[subparagraph 2(2)]
+
+MAP OF BANDAR AINSDALE INTERCHANGE
+
+Made 26 June 2015
+
+[KKR.PUU.110-1/7/1; PN(PU2) 391/XXIX]
+
+DATO’ SRI HAJI FADILLAH BIN HAJI YUSOF Minister of Works
+
+7
