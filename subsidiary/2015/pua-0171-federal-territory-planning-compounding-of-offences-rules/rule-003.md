@@ -1,0 +1,9 @@
+# Rule 3. Offer and acceptance of compound
+
+3. (1) An offer to compound an offence shall be made in Form 1 of the Schedule.
+
+(2) A person who accepts an offer to compound a compoundable offence shall furnish payment for the compound in Form 2 of the Schedule.
+
+(3) Forms 1 and 2 of the Schedule shall be used for the purpose indicated by its content but no deviation from the Form shall invalidate or affect the legality of any composition made so far as the deviation has no substantial effect and is not calculated to mislead.
+
+9

@@ -1,0 +1,7 @@
+# Rule 4. Method of compounding
+
+4. (1) After an investigation has been conducted and it is found that a compoundable offence has been committed, the Commissioner may issue a Notice of Offer to Compound Offence in Form 1 of the Schedule.
+
+(2) An offer to compound an offence is for a period of fourteen days, and if full payment of the sum offered is made on or before the expiry of fourteen days, no further proceedings shall be taken against the person who committed such offence.
+
+(3) If no payment of the compound offered is made on or before the expiry of the period stated in subrule (2), prosecution may be instituted without further notice.
