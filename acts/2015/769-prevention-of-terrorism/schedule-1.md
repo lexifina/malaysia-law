@@ -46,8 +46,6 @@ IN THE SESSIONS COURT AT …………. IN THE STATE OF …………...
 
 (k) to comply with any other conditions as the court may determine.
 
-9. Failure to comply with the terms and conditions is an offence under subsection 7(6) of the Prevention of Terrorism Act 2015.
-
-I hereby agree to and shall comply with the terms and conditions as stated in this Form.
+9. Failure to comply with the terms and conditions is an offence under subsection 7(6) of the Prevention of Terrorism Act 2015. I hereby agree to and shall comply with the terms and conditions as stated in this Form.
 
 ......................................................... ( )
