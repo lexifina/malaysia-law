@@ -1,0 +1,15 @@
+# Income Tax (Multilateral Competent Authority Agreement on the Exchange of Country-By-Country Reports) Order 2016 [P.U. (A) 358/2016]
+
+Income Tax (Multilateral Competent Authority Agreement on the Exchange of Country-By-Country Reports) Order 2016 (Perintah Cukai Pendapatan (Perjanjian Multilateral Pihak Berkuasa Berwibawa Mengenai Pertukaran Laporan Mengikut Negara) 2016), P.U. (A) 358/2016, as published in the Federal Government Gazette on 2016-12-23, made under ACT 53 - INCOME TAX ACT 1967; English text from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/pua_20161223_(004)11112016Drafmuktamad23122016.pdf
+
+In force: 2016-12-24 (the day after its publication in the Gazette; it names no other day (Interpretation Acts 1948 and 1967 [Act 388], s. 19(1))).
+
+| File | Provision |
+| --- | --- |
+| [preamble.md](preamble.md) | Enacting words |
+| [para-001.md](para-001.md) | Paragraph 1. Citation |
+| [para-002.md](para-002.md) | Paragraph 2. Authority Agreement on the Exchange of Country-by-Country Reports) Order 2016. Country-by-country reporting |
+| [para-003.md](para-003.md) | Paragraph 3 |
+| [para-004.md](para-004.md) | Paragraph 4 |
+| [para-005.md](para-005.md) | Paragraph 5 |
+| [para-006.md](para-006.md) | Paragraph 6 |
