@@ -1,8 +1,8 @@
 # Lembaga Pembangunan Industri Pembinaan Malaysia Act 1994 [Act 520]
 
-Lembaga Pembangunan Industri Pembinaan Malaysia Act 1994 (Akta Lembaga Pembangunan Industri Pembinaan Malaysia 1994), Laws of Malaysia Act 520, the reprint (Commissioner of Law Revision) as at 2015-12-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2260234_BI/ACT%20520%20-%20REPRINT%202015.pdf
+Lembaga Pembangunan Industri Pembinaan Malaysia Act 1994 (Akta Lembaga Pembangunan Industri Pembinaan Malaysia 1994), Laws of Malaysia Act 520, the reprint (Commissioner of Law Revision) as at 2017-12-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20520%2024.5.2017.pdf
 
-In force: 2015-06-01 (the day the latest amendment the reprint incorporates, Act A1407, came into operation, as page 2 of the reprint states).
+In force: 2017-02-10 (the day the latest amendment the reprint incorporates, Act 49/2017, came into operation, as page 2 of the reprint states).
 
 | File | Provision |
 | --- | --- |
@@ -15,7 +15,7 @@ In force: 2015-06-01 (the day the latest amendment the reprint incorporates, Act
 | [s-007.md](s-007.md) | Section 7. Power of the Minister to give directions |
 | [s-008.md](s-008.md) | Section 8. Returns, reports, accounts and information |
 | [s-009.md](s-009.md) | Section 9. Power of the Lembaga to establish committees |
-| [s-010.md](s-010.md) | Section 10. The Chairman |
+| [s-010.md](s-010.md) | Section 10. 10. The Chairman |
 | [s-011.md](s-011.md) | Section 11. Chief Executive |
 | [s-012.md](s-012.md) | Section 12. Appointment of officers and servants of the Lembaga |
 | [s-013.md](s-013.md) | Section 13. Regulations with respect to conditions of service |
@@ -40,7 +40,7 @@ In force: 2015-06-01 (the day the latest amendment the reprint incorporates, Act
 | [s-031.md](s-031.md) | Section 31. Contractors are subject to this Act |
 | [s-032.md](s-032.md) | Section 32. Interpretation |
 | [s-033.md](s-033.md) | Section 33. Registration of construction personnel |
-| [s-033-a.md](s-033-a.md) | Section 33A. Accreditation and certification of construction site supervisor and |
+| [s-033-a.md](s-033-a.md) | Section 33A. Accreditation and certification of construction site supervisor and skilled |
 | [s-033-b.md](s-033-b.md) | Section 33B. Training institution, etc. |
 | [s-033-c.md](s-033-c.md) | Section 33C. Lembaga to certify construction materials |
 | [s-033-d.md](s-033-d.md) | Section 33D. Dealing with non-certified construction materials |
@@ -86,3 +86,7 @@ In force: 2015-06-01 (the day the latest amendment the reprint incorporates, Act
 | [s-039-a.md](s-039-a.md) | Section 39A. Offences by body corporate, etc. |
 | [s-040.md](s-040.md) | Section 40. Power to exempt |
 | [s-041.md](s-041.md) | Section 41. Transitional and saving provision |
+| [schedule-1.md](schedule-1.md) | First Schedule |
+| [schedule-2.md](schedule-2.md) | Second Schedule |
+| [schedule-3.md](schedule-3.md) | Third Schedule |
+| [schedule-4.md](schedule-4.md) | Fourth Schedule |
