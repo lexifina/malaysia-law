@@ -1,8 +1,8 @@
 # Pembangunan Sumber Manusia Berhad Act 2001 [Act 612]
 
-Pembangunan Sumber Manusia Berhad Act 2001 (Akta Pembangunan Sumber Manusia Berhad 2001), Laws of Malaysia Act 612, the reprint (Commissioner of Law Revision) incorporating all amendments up to 2006-01-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2257336_BI/Act%20612%20-%20Reprint%202006.pdf
+Pembangunan Sumber Manusia Berhad Act 2001 (Akta Pembangunan Sumber Manusia Berhad 2001), Laws of Malaysia Act 612, the reprint (Commissioner of Law Revision) as at 2017-11-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20612%20-%20Reprint%202017.pdf
 
-In force: 2006-01-01 (the day up to which the reprint states it incorporates all amendments).
+In force: 2017-04-01 (the day the latest amendment the reprint incorporates, Act 69/2017, came into operation, as page 2 of the reprint states).
 
 | File | Provision |
 | --- | --- |
