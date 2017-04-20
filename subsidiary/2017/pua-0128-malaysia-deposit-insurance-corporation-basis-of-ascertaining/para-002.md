@@ -1,0 +1,3 @@
+# Paragraph 2. Refund of takaful contribution
+
+2. Where a general takaful certificate ceases to be in force under subsection 83(1) of the Act, the general takaful certificate owner shall be eligible to claim as a debt due to him by the insurer member on account of the general takaful certificate a refund of a portion of the takaful contribution that is commensurate with the remaining period of the general takaful certificate based on the prorated amount of the general takaful certificate owner’s gross direct takaful contribution attributable to the period beginning on the date of the winding-up order and ending on the date that the general takaful certificate would have expired by its own terms.
