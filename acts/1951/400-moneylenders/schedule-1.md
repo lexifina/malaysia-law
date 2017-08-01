@@ -1,31 +1,39 @@
 # First Schedule
 
-[Section 19]
+[Subsection 2a(1)]
 
-TABLE 1
+1. Any authority or body established, appointed or constituted by any written law, including any local authority.
 
-PRINCIPAL AND INTEREST
+2. Any co-operative society registered under the Co-operative Societies Act 1993 [Act 502].
 
-Principal Date lent Rate per centum per annum or the Amount of interest
+3. Any authorized person as defined in section 2 of the Financial Services Act 2013 [Act 758].
 
-TABLE 2
+4. Any authorized person as defined in section 2 of the Islamic Financial Services Act 2013 [Act 759].
 
-REPAYMENT
+5. Any pawnbroker licensed under the Pawnbroker Act 1972 [Act 81].
 
-Amounts repaid Date
+6. Any prescribed institution as defined in section 3 of the Development Financial Institutions Act 2002 [Act 618].
 
-1. 2. 3. 4. 5. 6. 7.
+7. Any company who lends money to its related corporation as defined in section 2 of the Companies Act 2016 [Act 777].
 
-AMOUNT OF ARREARS
+8. Any company who lends money to its director, officer or employee as a benefit accorded to such person under his terms of employment.
 
-Principal Date Due Interest Date Due
+9. Any person who subscribes or purchases debt securities which include—
 
-1. 2. 3. 4. 5. 6. 7.
+(a) stocks issued under the Loan (Local) Act 1959 [Act 637];
 
-TABLE 4
+(b) Treasury Bills issued under the Treasury Bills (Local) Act 1946 [Act 188];
 
-SUMS NOT YET DUE
+(c) investments under the Government Funding Act 1983 [Act 275]; and
 
-Principal Date Due Interest Date Due
+(d) debentures as defined in section 2 of the Capital Markets and Services Act 2007 [Act 671].
 
-1. 2. 3. 4. 5. 6. 7.
+10. Any person licensed, registered or regulated under the Capital Markets and Services Act 2007.
+
+11. Any person prescribed as a prescribed financial institution under section 212 of the Financial Services Act 2013.
+
+12. Any person prescribed as a prescribed Islamic financial institution under section 223 of the Islamic Financial Services Act 2013.
+
+13. Any Labuan bank as defined in section 2 of the Labuan Financial Services and Securities Act 2010 [Act 704].
+
+14. Any insurance licensee as defined in section 2 of the Labuan Financial Services and Securities Act 2010.
