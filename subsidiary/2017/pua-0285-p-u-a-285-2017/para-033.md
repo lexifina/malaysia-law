@@ -1,0 +1,3 @@
+# Paragraph 33
+
+33. Section 53 - subsection (1) In the English language text, in item 48, in subitem “- subsection (1)”, in the particulars relating to it as specified in column (2), by deleting the following particulars: ‘Delete the words “of law”. Substitute for the word “wihout” the word “outside”.’. [Deemed to have come into operation on 1 February 2009] - paragraphs In item 48, by deleting subitem “- paragraphs (1)(a) and (b)” (1)(a) and (b) and the particulars relating to it as specified in column (2). [Deemed to have come into operation on 1 February 2009] - subsection (2) In item 48, by deleting subitem “- subsection (2)” and the particulars relating to it as specified in column (2). [Deemed to have come into operation on 1 February 2009] 69
