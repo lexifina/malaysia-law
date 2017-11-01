@@ -1,8 +1,8 @@
 # Town and Country Planning Act 1976 [Act 172]
 
-Town and Country Planning Act 1976 (Akta Perancangan Bandar Dan Desa 1976), Laws of Malaysia Act 172, the reprint (Commissioner of Law Revision) incorporating all amendments up to 2006-01-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2258260_BI/Reprint%202006-latest.pdf
+Town and Country Planning Act 1976 (Akta Perancangan Bandar Dan Desa 1976), Laws of Malaysia Act 172, the reprint (Commissioner of Law Revision) as at 2021-06-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1684325_BI/Act%20172%20Bersih%20As%20at%201st%20June%202021.pdf
 
-In force: 2006-01-01 (the day up to which the reprint states it incorporates all amendments).
+In force: 2017-11-01 (the day the latest amendment the reprint incorporates, Act A1522, came into operation, as page 2 of the reprint states).
 
 | File | Provision |
 | --- | --- |
@@ -36,6 +36,7 @@ In force: 2006-01-01 (the day up to which the reprint states it incorporates all
 | [s-019.md](s-019.md) | Section 19. Prohibition of development without planning permission |
 | [s-020.md](s-020.md) | Section 20. Prohibition of development contrary to planning permission |
 | [s-020-a.md](s-020-a.md) | Section 20A. Duty to consult |
+| [s-020-b.md](s-020-b.md) | Section 20B. Duty to seek advice |
 | [s-021.md](s-021.md) | Section 21. Application for planning permission |
 | [s-021-a.md](s-021-a.md) | Section 21A. Development proposal report |
 | [s-021-b.md](s-021-b.md) | Section 21B. Layout plans |
@@ -60,7 +61,7 @@ In force: 2006-01-01 (the day up to which the reprint states it incorporates all
 | [s-035-c.md](s-035-c.md) | Section 35C. Appeal against tree preservation order, etc. |
 | [s-035-d.md](s-035-d.md) | Section 35D. Compensation under a tree preservation order |
 | [s-035-e.md](s-035-e.md) | Section 35E. Replacement of trees |
-| [s-035-f.md](s-035-f.md) | Section 35F. Local planning authority to replace tree if the person whose duty it is |
+| [s-035-f.md](s-035-f.md) | Section 35F. Local planning authority to replace tree if the person whose duty it is to |
 | [s-035-g.md](s-035-g.md) | Section 35G. Revocation of a tree preservation order |
 | [s-035-h.md](s-035-h.md) | Section 35H. Prohibition to fell, etc., tree with girth exceeding 0.8 metre |
 | [s-036.md](s-036.md) | Section 36. The Appeal Board |
@@ -68,7 +69,7 @@ In force: 2006-01-01 (the day up to which the reprint states it incorporates all
 | [s-038.md](s-038.md) | Section 38. Declaration of development areas |
 | [s-039.md](s-039.md) | Section 39. Effect of declaration |
 | [s-040.md](s-040.md) | Section 40. Special provisions for compensation |
-| [s-041.md](s-041.md) | Section 41. Local planning authority may employ agents, enter into arrangements |
+| [s-041.md](s-041.md) | Section 41. Local planning authority may employ agents, enter into arrangements and |
 | [s-042.md](s-042.md) | Section 42. Power to borrow moneys |
 | [s-043.md](s-043.md) | Section 43. Power to dispose of land and property |
 | [s-044.md](s-044.md) | Section 44. Power to make rules |
