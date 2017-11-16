@@ -1,0 +1,3 @@
+# Rule 17. Objection to taxation of bill of costs
+
+17. Any person who may be dissatisfied with the allowance or disallowance by the Taxing Officer in any bill of costs taxed by him of the whole or any part of any items, may, at any time before the certificate or allocatur is signed, carry in before the Taxing Officer an objection in writing to such allowance or disallowance, specifying therein by a list, in a short and concise form, the items or parts thereof objected to and grounds and reasons for such objection, and may thereupon apply to the Taxing Officer to review the taxation in respect of the same.

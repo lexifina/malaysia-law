@@ -1,0 +1,3 @@
+# Rule 4. Solicitor’s remuneration
+
+4. In respect of business connected with sales, purchases, leases, mortgages and other matters of conveyancing, and in respect of other business not being transacted in court or in chambers, and not being otherwise contentious business, the solicitor’s remuneration shall (in the absence of any arrangement to the contrary) be regulated in the Legal Profession Act 1976 [Act 166], and in other States by the corresponding provision of law in force in such other States: 23 Provided that, in respect of the sale of mortgaged property, the remuneration of the Director General of Insolvency’s solicitor shall be payable only out of the proceeds of sale.

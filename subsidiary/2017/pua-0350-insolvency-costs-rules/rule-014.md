@@ -1,0 +1,3 @@
+# Rule 14. Taxation of bill of costs for same solicitor employed for two or more persons
+
+14. Where the same solicitor is employed for two or more persons having the same interest, and separate papers are delivered, or other proceedings had by or for two or more such persons separately, the Taxing Officer shall consider in the taxation of such solicitor’s bill of costs, either between party and party, or between solicitor and client, whether such separate papers or other proceedings were necessary or proper; and if he is of opinion that any part of the costs occasioned thereby has been unnecessarily or improperly incurred, the same shall be disallowed.

@@ -1,0 +1,3 @@
+# Rule 19. Application to a judge for an order to review taxation
+
+19. Any person who may be dissatisfied with the certificate or allocatur of the Taxing Officer as to any item or part of an item which may have been objected to as aforesaid, may, within fourteen days from the date of the certificate or allocatur or such other time as the court or judge or Taxing Officer at the time he signs his certificate or allocatur may allow, apply to a judge for an order to review the taxation as to the same item, or part of an item, and such judge may thereupon make such order as he may think just; but the certificate or allocatur of the Taxing Officer shall be final and conclusive as to all matters which shall not have been objected to in manner aforesaid.

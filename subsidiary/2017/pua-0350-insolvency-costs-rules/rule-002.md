@@ -1,0 +1,3 @@
+# Rule 2. Discretion of Taxing Officer on fees and allowances
+
+2. All fees or allowances which are discretionary shall, unless otherwise provided, be allowed at the discretion of the Taxing Officer, who, in the exercise of such discretion, shall take into consideration other fees and allowances to the solicitor, and counsel if any, in respect of the work to which any such allowance applies, the nature and importance of the matter, the amount involved, the interest of the parties, the estate or persons to bear the costs, the general conduct and costs of the proceedings and all other circumstances.
