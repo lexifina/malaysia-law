@@ -14,13 +14,19 @@ PART I
 
 (iii) maintain secrecy as to their objects.
 
-2. Persons who belong to any group, body, gang or association of five or more persons who associate for purposes which include the commission of offences involving violence or extortion.
+2. Persons who belong to or consort with any group, body, gang or association of two or more persons who associate for purposes which include the commission of offences under the Penal Code.
 
-3. All traffickers in opium, candu, bhang or other deleterious drugs, whether of the same kind as opium, candu and bhang or not.
+3. All traffickers in dangerous drugs, including persons who live wholly or in part on the proceeds of drug trafficking.
 
-4. All traffickers in women and girls, including persons who live wholly or in part on the proceeds of prostitution.
+4. All traffickers in persons, including persons who live wholly or in part on the proceeds of trafficking in persons.
 
-5. All persons habitually concerned in the organization and promotion of unlawful gaming.
+5. All persons concerned in the organization and promotion of unlawful gaming.
+
+6. All smugglers of migrants, including persons who live wholly or in part on the proceeds of smuggling or migrants.
+
+7. Persons who recruit, or agree to recruit, another person to be a member of an unlawful society or a gang or to participate in the commission of an offence.
+
+8. Persons who engage in the commission or support of terrorist acts under the Penal Code.
 
 PART II
 
@@ -30,6 +36,8 @@ PART II
 
 2. All persons, who have been convicted of offences against subsection 52(3) of the Societies Act 1966 [Act 335].
 
-3. All persons who have at any time been the subject of banishment orders under any law for the time being in force relating to banishment, whether or not such orders have been revoked or cancelled or are spent.
+3. (Deleted by P.U. (A) 122/2014).
 
-4. All persons who are subject to orders under the Restricted Residence Act 1933 [Act 377].
+4. (Deleted by P.U. (A) 122/2014).
+
+_______________
