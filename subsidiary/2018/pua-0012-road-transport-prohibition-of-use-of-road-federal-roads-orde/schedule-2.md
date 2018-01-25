@@ -1,0 +1,19 @@
+# Second Schedule
+
+Sg. Kumbang
+
+55 55 Kuala Lumpur Kuala Kubu Baru
+
+section 2.1 section 2.2
+
+LEGEND:
+
+ROAD TO WHICH PROHIBITION ORDER IS APPLICABLE
+
+TEMPORARY DIVERSION ROAD
+
+Made 24 January 2018 [KKR.PUU.110-1/6/15 Jld.4; PN(PU2)460/XCV]
+
+DATO’ SRI HAJI FADILLAH BIN HAJI YUSOF Minister of Works
+
+7
