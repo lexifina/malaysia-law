@@ -8,7 +8,7 @@ A trust deed or contractual agreement shall contain the following covenants:
 
 (a) that the management company will use its best endeavours to carry on and conduct its business in a proper and efficient manner and to ensure that any contract, arrangement, undertaking or enterprise to which the trust deed or contractual agreement relates is carried on and conducted in a proper and efficient manner;
 
-(b) that the management company will not sell any interest to which the trust deed or contractual agreement relates otherwise than at a price calculated in accordance with the trust deed or contractual agreement; Interest Schemes 97
+(b) that the management company will not sell any interest to which the trust deed or contractual agreement relates otherwise than at a price calculated in accordance with the trust deed or contractual agreement;
 
 (c) that no moneys available for investment under the trust deed or contractual agreement will be invested in or lent to the management company, the trustee or any company other than which is allowed under this Act;
 
@@ -24,7 +24,7 @@ A trust deed or contractual agreement shall contain the following covenants:
 
 (ii) that the units or sub-units of interests purchased or subscribed pursuant to the prospectus or product disclosure statement issued under section 33 of the Act shall not be allotted later than six months after the date of the prospectus or product disclosure statement;
 
-(iii) that certificates in respect of units or sub-units of interests purchased or subscribed for pursuant to the prospectus or product disclosure statement are issued by the management company not later than two months after the allotment of the units or sub-units, unless the conditions of issuance expressly provide that certificates need to be issued; and 98 Laws of Malaysia ACT 778
+(iii) that certificates in respect of units or sub-units of interests purchased or subscribed for pursuant to the prospectus or product disclosure statement are issued by the management company not later than two months after the allotment of the units or sub-units, unless the conditions of issuance expressly provide that certificates need to be issued; and
 
 (iv) where the trust deed or contractual agreement requires, or confers a right on, interest holders to enter into an agreement in connection with the contract, arrangement, undertaking, or enterprise, a provision incorporating, whether by way of annexure or otherwise, the terms and form of that trust deed or contractual agreement;
 
@@ -44,7 +44,7 @@ A trust deed or contractual agreement shall contain the following covenants:
 
 (vii) the conditions governing the distribution of income to the interest holders;
 
-(viii) the appointment of a trustee; Interest Schemes 99
+(viii) the appointment of a trustee;
 
 (ix) the retirement, removal and replacement of the trustee;
 
@@ -66,9 +66,7 @@ A trust deed or contractual agreement shall contain the following covenants:
 
 2. Covenants binding on the management company in respect of the trustees and auditors:
 
-(a) that the management company will give to the trustee or auditor such oral or written information as the trustee or auditor requires in respect of all matters relating to the contract, arrangement, undertaking or enterprise of the management company or any property, whether acquired before or after the date of the trust deed 100 Laws of Malaysia ACT 778
-
-or contractual agreement, of the management company or otherwise relating to the affairs of the scheme;
+(a) that the management company will give to the trustee or auditor such oral or written information as the trustee or auditor requires in respect of all matters relating to the contract, arrangement, undertaking or enterprise of the management company or any property, whether acquired before or after the date of the trust deed or contractual agreement, of the management company or otherwise relating to the affairs of the scheme;
 
 (b) that the management company will make available to the trustee or auditor appointed by the management company, for the inspection of all the books of the management company whether kept at the management company’s registered office or any other place of which notification to the Registrar has been given;
 
@@ -86,7 +84,7 @@ or contractual agreement, of the management company or otherwise relating to the
 
 (b) that the trustee will ensure that the interest of interest holders are preserved and protected at all times;
 
-(c) that the trustee will investigate and take appropriate steps to ensure any complaints made by interest holders are resolved; Interest Schemes 101
+(c) that the trustee will investigate and take appropriate steps to ensure any complaints made by interest holders are resolved;
 
 (d) that the trustee will keep or cause to be kept proper books of account in relation to the scheme;
 

@@ -12,7 +12,7 @@ PART I – Matters required to be stated in the prospectus and product disclosur
 
 2. The date of and parties to the trust deed or contractual agreement.
 
-3. The date of and parties to any trust deed or contractual agreement or instrument by which any of the provisions of the approved trust deed or contractual agreement relating to the interest has been amended or abrogated. 102 Laws of Malaysia ACT 778
+3. The date of and parties to any trust deed or contractual agreement or instrument by which any of the provisions of the approved trust deed or contractual agreement relating to the interest has been amended or abrogated.
 
 4. The name and address of the registered office of the trustee or representative under any such trust deed or contractual agreement.
 
@@ -40,7 +40,7 @@ PART I – Matters required to be stated in the prospectus and product disclosur
 
 16. The address which the register of interest holders is or will be kept and the days on and the hours during which it is or will be accessible to the public.
 
-17. The method of calculation provided by the trust deed or contractual agreement of the price at which the management company may sell the interest or any right in respect of the interest or any unit or sub-unit of the interest. Interest Schemes 103
+17. The method of calculation provided by the trust deed or contractual agreement of the price at which the management company may sell the interest or any right in respect of the interest or any unit or sub-unit of the interest.
 
 18. The particulars as are sufficient to describe the duties and obligations imposed on the trustee or representative appointed by the trust deed or contractual agreement relating to the interest.
 
@@ -60,7 +60,7 @@ PART I – Matters required to be stated in the prospectus and product disclosur
 
 24. The particulars as are sufficient to disclose the true nature and extent of the interest, if any, of each director of the management company, whether as a director, direct or indirect shareholder, partner or otherwise, in the business of each vendor and in such property.
 
-25. The obligations imposed upon the management company or any other person to purchase any interest or rights or the units or sub-units of the interest from any interest holder and a statement of the method provided by the trust deed or contractual agreement for the calculation of the purchase price. 104 Laws of Malaysia ACT 778
+25. The obligations imposed upon the management company or any other person to purchase any interest or rights or the units or sub-units of the interest from any interest holder and a statement of the method provided by the trust deed or contractual agreement for the calculation of the purchase price.
 
 26. A summary of the rights and obligations of the management company and of the trustee or representative governing the valuation of any investment made or property held in relation to the interest.
 
@@ -80,7 +80,7 @@ PART I – Matters required to be stated in the prospectus and product disclosur
 
 34. The name and description and the date of commencement of operation of other scheme involving the issue of interests to the public conducted by the management company within five years immediately preceding the date of the prospectus or product disclosure statement.
 
-35. A declaration—Interest Schemes 105
+35. A declaration—
 
 (a) that units or sub-units of interests issued in accordance with the prospectus or product disclosure statement shall not be allotted later than the period as determined by the Registrar after the date appearing in the statement under paragraph 1; and
 
@@ -102,7 +102,7 @@ PART II—Reports to be set out in the prospectus or product disclosure statemen
 
 (ii) the amount of each distribution and the extent to which each distribution consisted of any component other than dividends, interest and bonuses; and
 
-(iii) where the distribution consisted of any component other than dividend, interest and bonus, the nature and value of each of those components; 106 Laws of Malaysia ACT 778
+(iii) where the distribution consisted of any component other than dividend, interest and bonus, the nature and value of each of those components;
 
 (b) the information as sufficiently discloses the selling and purchase price, of those interests, units or sub-units on the date upon which each distribution was made;
 
