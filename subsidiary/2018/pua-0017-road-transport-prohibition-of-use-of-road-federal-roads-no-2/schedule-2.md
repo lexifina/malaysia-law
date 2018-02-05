@@ -1,0 +1,19 @@
+# Second Schedule
+
+section 454.5 section 454.7
+
+Kuala Lumpur 1 Tanjung Malim 1
+
+Sg. Kerling
+
+LEGEND:
+
+ROAD TO WHICH PROHIBITION ORDER IS APPLICABLE
+
+TEMPORARY DIVERSION ROAD
+
+Made 30 January 2018 [KKR.PUU.110-1/6/15 Jld.4; PN(PU2)460/XCV]
+
+DATO’ SRI HAJI FADILLAH BIN HAJI YUSOF Minister of Works
+
+7
