@@ -1,0 +1,11 @@
+# Rule 4. Amendment of rule 23
+
+4. Rule 23 of the principal Rules is amended—
+
+(a) by renumbering the existing rule as subrule (1);
+
+(b) in subrule (1) as renumbered, by substituting for the words “The driver” the words “Subject to subrule (2), the driver”; and
+
+(c) by inserting after subrule (1) as renumbered the following subrule:
+
+“(2) Notwithstanding subrule (1), in the event of a hiring of a taxi-cab in which the arrangement, booking or transaction is facilitated through an electronic mobile application provided by an intermediation business licensee, the driver of the taxi-cab shall not keep the taximeter in motion.”.
