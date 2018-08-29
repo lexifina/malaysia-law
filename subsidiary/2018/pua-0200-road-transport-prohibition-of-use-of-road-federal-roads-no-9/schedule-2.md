@@ -1,0 +1,25 @@
+# Second Schedule
+
+N
+
+SUNGAI
+
+PINJI Simpang Pulai
+
+Lahat
+
+SUNGAI
+
+PINJI section 2.38 section 2.42
+
+LEGEND :
+
+ROAD TO WHICH PROHIBITION ORDER IS APPLICABLE
+
+TEMPORARY DIVERSION ROAD
+
+Made 27 August 2018 [KKR.PUU.110-1/6/15 Jld.5; PN(PU2)460/XCVIII]
+
+BARU BIAN Minister of Works
+
+7
