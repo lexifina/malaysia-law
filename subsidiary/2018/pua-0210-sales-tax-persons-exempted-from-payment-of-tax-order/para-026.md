@@ -1,0 +1,3 @@
+# Paragraph 26
+
+26. Any international airline Spare parts, regular (a) That the goods are imported or purchased The person approved by the entitled under the equipment and stores for from a registered manufacturer solely to be Director General provisions of an Air aircraft used by and in aircraft of an international Services Agreement airline departing to a destination outside entered into with the Malaysia; Government of Malaysia to exemption from (b) that the goods shall be subject to such customs duty on goods conditions as the Director General may deem imported for the use of fit to impose. the airline
