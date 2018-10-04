@@ -1,0 +1,7 @@
+# Paragraph 2. Amendment of paragraph 4
+
+2. The Customs (Anti-Dumping Duties) (Expedited Review) (No.2) Order 2014 [P.U. (A) 258/2014], which is referred to as the “principal Order” in this Order, is amended in paragraph 4—
+
+(a) in subparagraph (1), by substituting for the words “Customs Duties Order 2012 [P.U. (A) 275/2012]” the words “Customs Duties Order 2017 [P.U. (A) 5/2017]”; and
+
+(b) in subparagraph (2), by deleting the words “heading or”.
