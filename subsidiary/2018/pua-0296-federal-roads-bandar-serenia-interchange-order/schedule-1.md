@@ -1,0 +1,49 @@
+# Schedule
+
+S –91764.525
+
+N E 20812.704
+
+BANDAR SERENIA
+
+ENTRY/EXIT TOLL KLIA Kuala
+
+PLAZA Interchange Lumpur Nilai North Bound Interchange
+
+KLIA Entry/Exit Toll Plaza
+
+KM33.867
+
+S –91961.110
+
+E 19163.182
+
+KM36.041 Seremban
+
+LEGEND: Bound
+
+S –92736.873
+
+BANDAR SERENIA
+
+ROAD TO BE GAZETTED AS FEDERAL ROAD E 21145.679
+
+INTERCHANGE
+
+NORTH SOUTH EXPRESSWAY CENTRAL LINK
+
+OTHER ROADS
+
+LMR LIMIT OF MAINTENANCE RESPONSIBILITY
+
+NOTE: NOT TO SCALE
+
+RSO GEOCENTRIC (GDM 2000) COORDINATE
+
+1 [KKR.PUU.110-1/7/1 Jld.19; PN(PU2)391/XXXVI]
+
+BARU BIAN Minister of Works
+
+[To be laid before the Dewan Rakyat pursuant to section 4 of the Federal Roads Act 1959]
+
+1
