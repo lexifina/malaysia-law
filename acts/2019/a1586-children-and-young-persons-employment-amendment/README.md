@@ -1,6 +1,6 @@
 # Children and Young Persons (Employment) (Amendment) Act 2019 [Act A1586]
 
-Children and Young Persons (Employment) (Amendment) Act 2019 (Akta Kanak-Kanak Dan Orang Muda (Pekerjaan) (Pindaan) 2019), Laws of Malaysia Act A1586, as enacted, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1695988_BI/06.%20A1586%20BI_unlocked.pdf
+Children and Young Persons (Employment) (Amendment) Act 2019 (Akta Kanak-Kanak Dan Orang Muda (Pekerjaan) (Pindaan) 2019), Laws of Malaysia Act A1586, as enacted, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/A1586%20BI%20(1).pdf
 
 In force: 2019-02-01 (the commencement the portal lists for it: "1-2-2019 [P.U. (B) 62/2019").
 
