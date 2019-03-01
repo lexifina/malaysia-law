@@ -1,6 +1,6 @@
 # Road Transport (Amendment) Act 2019 [Act A1585]
 
-Road Transport (Amendment) Act 2019 (Akta Pengangkutan Jalan (Pindaan) 2019), Laws of Malaysia Act A1585, as enacted, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/13.ACT%20A1585.pdf
+Road Transport (Amendment) Act 2019 (Akta Pengangkutan Jalan (Pindaan) 2019), Laws of Malaysia Act A1585, as enacted, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1695987_BI/ACT%20A1585.pdf
 
 In force: 2019-03-01 (the commencement the portal lists for it: "1-3-2019 [P.U. (B) 113/2019]").
 
