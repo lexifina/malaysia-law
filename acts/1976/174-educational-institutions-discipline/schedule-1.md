@@ -1,0 +1,5 @@
+# First Schedule
+
+[Sections 2, 22, 24 and 25]
+
+INSTITUTIONS TO WHICH ACT IS APPLICABLE
