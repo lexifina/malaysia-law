@@ -1,0 +1,5 @@
+# Rule 3. Offer and acceptance of compound
+
+3. (1) An offer to compound an offence referred to in subrule 2(1) shall be made in Form 2 of the Second Schedule.
+
+(2) A person who accepts an offer to compound an offence referred to in subrule 2(1) shall accept the offer in Form 3 of the Second Schedule.
