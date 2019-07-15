@@ -1,0 +1,19 @@
+# Second Schedule
+
+Sg. Ayer Kuning
+
+58 58 Bidor Teluk Intan
+
+Section 35.000 Section 35.640
+
+LEGEND:
+
+ROAD TO WHICH PROHIBITION ORDER IS APPLICABLE
+
+TEMPORARY DIVERSION ROAD
+
+Made 11 July 2019 [KKR.PUU.110-1/6/15 Jld.6; PN(PU2)460/CIII]
+
+BARU BIAN Minister of Works
+
+7
