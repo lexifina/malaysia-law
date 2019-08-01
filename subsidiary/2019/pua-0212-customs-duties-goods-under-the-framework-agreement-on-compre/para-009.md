@@ -1,0 +1,3 @@
+# Paragraph 9
+
+9. MOVEMENT CERTIFICATE: In cases of Movement Certificate, in accordance with Rule 12 of Attachment A of the Rules of Origin of the ACFTA Upgrading Protocol (Operational Certification Procedures): (i) “Movement Certificate” in Box 13 should be ticked (√); (ii) the indicated value in Box 9 shall be the invoice value of the products exported from the intermediate Party. The indicated value in Box 9 is only required when the RVC criterion is applied; (iii) The name of the original Issuing Authorities of the Party, date of the issuance and the reference number of the original Certificate of Origin (Form E) to be indicated in Box 7.
