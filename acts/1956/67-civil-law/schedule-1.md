@@ -16,9 +16,7 @@ F. M. S Cap. 19 … … Executors (Powers) and Fatal The whole Accident Enactmen
 
 Johore Enactment No. Probate and Administration S. 82 22 Enactment
 
-Johore Enactment No. Fatal Accidents Enactment … The whole 99 Civil Law 37
-
-Kelantan Enactment No. Executors (Powers) and Fatal The whole 15 of 1931 Accidents Enactment
+Johore Enactment No. Fatal Accidents Enactment … The whole 99 Kelantan Enactment No. Executors (Powers) and Fatal The whole 15 of 1931 Accidents Enactment
 
 Kedah Enactment No. 2 Fatal Accident Enactment 1360 The whole of 1360
 

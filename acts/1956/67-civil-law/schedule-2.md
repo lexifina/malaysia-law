@@ -8,9 +8,7 @@ CONTINUE IN FORCE IN SARAWAK
 
 Swk. Vol. V1 page Law Reform Subsection 1(7), In sections 2 and 4, 1455 (8 and 9 (Contributory sections 2, 3, 4 the references to the Geo. 6 c. 28) Negligence) Act and 7 Workmen’s 1945 Compensation Acts 1925 to 1943 and to sections thereof shall be read as references to the Workmen’s Compensation Ordinance Cap. 80 of Sarawak and to the corresponding sections thereof
 
-Swk. Vol .VI page Law Reform The whole None 1459 (2 and 3 (Enforcement of Eliz. 2 c. 34) 38 Laws of Malaysia Act 67
-
-Contracts) Act 1954
+Swk. Vol .VI page Law Reform The whole None 1459 (2 and 3 (Enforcement of Eliz. 2 c. 34) Contracts) Act 1954
 
 Swk. Vol. VI page Law Reform Subsection 4(1), None 1461 (12, 13 and (Miscellaneous 7(1) and 2 14 Geo. c. 100) Provisions) Act 1949
 
