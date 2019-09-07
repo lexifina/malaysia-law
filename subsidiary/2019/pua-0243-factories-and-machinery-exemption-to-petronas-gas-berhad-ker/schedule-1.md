@@ -1,0 +1,39 @@
+# Schedule
+
+(1) (2) Registration No. Description of Machinery PMT 139907 Unfired pressure vessel PMT 69090 Unfired pressure vessel PMT 69091 Unfired pressure vessel PMT 69092 Unfired pressure vessel PMT 69093 Unfired pressure vessel PMT 69094 Unfired pressure vessel PMT 69095 Unfired pressure vessel PMT 69096 Unfired pressure vessel PMT 69097 Unfired pressure vessel PMT 69098 Unfired pressure vessel PMT 69099 Unfired pressure vessel PMT 69100 Unfired pressure vessel PMT 69101 Unfired pressure vessel PMT 69102 Unfired pressure vessel PMT 69103 Unfired pressure vessel PMT 69104 Unfired pressure vessel PMT 69105 Unfired pressure vessel PMT 69106 Unfired pressure vessel PMT 69107 Unfired pressure vessel PMT 69108 Unfired pressure vessel PMT 69109 Unfired pressure vessel PMT 69110 Unfired pressure vessel PMT 69111 Unfired pressure vessel PMT 69112 Unfired pressure vessel PMT 69113 Unfired pressure vessel PMT 69114 Unfired pressure vessel PMT 69115 Unfired pressure vessel
+
+12
+
+(1) (2) Registration No. Description of Machinery PMT 69116 Unfired pressure vessel PMT 69117 Unfired pressure vessel PMT 69118 Unfired pressure vessel PMT 69119 Unfired pressure vessel PMT 69121 Unfired pressure vessel PMT 69122 Unfired pressure vessel PMT 69123 Unfired pressure vessel PMT 69124 Unfired pressure vessel PMT 69125 Unfired pressure vessel PMT 69126 Unfired pressure vessel PMT 69127 Unfired pressure vessel PMT 69128 Unfired pressure vessel PMT 69129 Unfired pressure vessel PMT 69130 Unfired pressure vessel PMT 69131 Unfired pressure vessel PMT 69132 Unfired pressure vessel PMT 69133 Unfired pressure vessel PMT 69134 Unfired pressure vessel PMT 69135 Unfired pressure vessel PMT 69136 Unfired pressure vessel PMT 69137 Unfired pressure vessel PMT 69138 Unfired pressure vessel PMT 69139 Unfired pressure vessel PMT 69140 Unfired pressure vessel PMT 69141 Unfired pressure vessel PMT 69142 Unfired pressure vessel PMT 69143 Unfired pressure vessel PMT 69144 Unfired pressure vessel PMT 69145 Unfired pressure vessel
+
+13
+
+(1) (2) Registration No. Description of Machinery PMT 69146 Unfired pressure vessel PMT 69147 Unfired pressure vessel PMT 69148 Unfired pressure vessel PMT 69149 Unfired pressure vessel PMT 69150 Unfired pressure vessel PMT 69151 Unfired pressure vessel PMT 69152 Unfired pressure vessel PMT 69153 Unfired pressure vessel PMT 69154 Unfired pressure vessel PMT 69155 Unfired pressure vessel PMT 69156 Unfired pressure vessel PMT 69157 Unfired pressure vessel PMT 69158 Unfired pressure vessel PMT 69159 Unfired pressure vessel PMT 69160 Unfired pressure vessel PMT 69161 Unfired pressure vessel PMT 69162 Unfired pressure vessel PMT 69163 Unfired pressure vessel PMT 69164 Unfired pressure vessel PMT 69165 Unfired pressure vessel PMT 69166 Unfired pressure vessel PMT 69167 Unfired pressure vessel PMT 69168 Unfired pressure vessel PMT 69169 Unfired pressure vessel PMT 69170 Unfired pressure vessel PMT 69171 Unfired pressure vessel PMT 69172 Unfired pressure vessel PMT 69173 Unfired pressure vessel PMT 69174 Unfired pressure vessel
+
+14
+
+(1) (2) Registration No. Description of Machinery PMT 69175 Unfired pressure vessel PMT 69176 Unfired pressure vessel PMT 69179 Unfired pressure vessel PMT 69180 Unfired pressure vessel PMT 69206 Unfired pressure vessel PMT 69207 Unfired pressure vessel PMT 69208 Unfired pressure vessel PMT 69210 Unfired pressure vessel PMT 69211 Unfired pressure vessel PMT 69212 Unfired pressure vessel PMT 69213 Unfired pressure vessel PMT 69214 Unfired pressure vessel PMT 69215 Unfired pressure vessel PMT 69216 Unfired pressure vessel PMT 69217 Unfired pressure vessel PMT 69218 Unfired pressure vessel PMT 69219 Unfired pressure vessel PMT 69220 Unfired pressure vessel PMT 69221 Unfired pressure vessel PMT 69222 Unfired pressure vessel PMT 69223 Unfired pressure vessel PMT 69225 Unfired pressure vessel PMT 69228 Unfired pressure vessel PMT 69229 Unfired pressure vessel PMT 69230 Unfired pressure vessel PMT 69232 Unfired pressure vessel PMT 69234 Unfired pressure vessel PMT 69235 Unfired pressure vessel PMT 69236 Unfired pressure vessel
+
+15
+
+(1) (2) Registration No. Description of Machinery PMT 69237 Unfired pressure vessel PMT 69238 Unfired pressure vessel PMT 69239 Unfired pressure vessel PMT 69240 Unfired pressure vessel PMT 69241 Unfired pressure vessel PMT 69242 Unfired pressure vessel PMT 69244 Unfired pressure vessel PMT 69245 Unfired pressure vessel PMT 69247 Unfired pressure vessel PMT 69248 Unfired pressure vessel PMT 69249 Unfired pressure vessel PMT 69250 Unfired pressure vessel PMT 69253 Unfired pressure vessel PMT 69256 Unfired pressure vessel PMT 69257 Unfired pressure vessel TG PMT 1689 Unfired pressure vessel TG PMT 1690 Unfired pressure vessel TG PMT 1691 Unfired pressure vessel TG PMT 1692 Unfired pressure vessel TG PMT 1693 Unfired pressure vessel TG PMT 2445 Unfired pressure vessel TG PMT 2446 Unfired pressure vessel TG PMT 5885 Unfired pressure vessel TG PMT 5887 Unfired pressure vessel TG PMT 5888 Unfired pressure vessel TG PMT 5889 Unfired pressure vessel TG PMT 5890 Unfired pressure vessel TG PMT 5891 Unfired pressure vessel TG PMT 5892 Unfired pressure vessel
+
+16
+
+(1) (2) Registration No. Description of Machinery TG PMT 6566 Unfired pressure vessel TG PMT 6567 Unfired pressure vessel TG PMT 6568 Unfired pressure vessel TG PMT 6569 Unfired pressure vessel TG PMT 6570 Unfired pressure vessel TG PMT 6571 Unfired pressure vessel TG PMT 6572 Unfired pressure vessel TG PMT 6573 Unfired pressure vessel TG PMT 6574 Unfired pressure vessel TG PMT 6575 Unfired pressure vessel TG PMT 6576 Unfired pressure vessel TG PMT 6577 Unfired pressure vessel TG PMT 6578 Unfired pressure vessel TG PMT 6579 Unfired pressure vessel TG PMT 6580 Unfired pressure vessel TG PMT 6581 Unfired pressure vessel TG PMT 6582 Unfired pressure vessel TG PMT 6583 Unfired pressure vessel TG PMT 6584 Unfired pressure vessel TG PMT 6585 Unfired pressure vessel TG PMT 6586 Unfired pressure vessel TG PMT 6587 Unfired pressure vessel TG PMT 6588 Unfired pressure vessel TG PMT 6589 Unfired pressure vessel TG PMT 6590 Unfired pressure vessel TG PMT 6591 Unfired pressure vessel TG PMT 6592 Unfired pressure vessel TG PMT 6593 Unfired pressure vessel TG PMT 6594 Unfired pressure vessel
+
+17
+
+(1) (2) Registration No. Description of Machinery TG PMT 6595 Unfired pressure vessel TG PMT 6596 Unfired pressure vessel TG PMT 6597 Unfired pressure vessel TG PMT 6598 Unfired pressure vessel TG PMT 6599 Unfired pressure vessel TG PMT 6600 Unfired pressure vessel TG PMT 6602 Unfired pressure vessel TG PMT 6603 Unfired pressure vessel TG PMT 6604 Unfired pressure vessel TG PMT 6605 Unfired pressure vessel TG PMT 6606 Unfired pressure vessel TG PMT 6607 Unfired pressure vessel TG PMT 6608 Unfired pressure vessel TG PMT 6609 Unfired pressure vessel TG PMT 6610 Unfired pressure vessel TG PMT 6647 Unfired pressure vessel TG PMT 6648 Unfired pressure vessel TG PMT 6649 Unfired pressure vessel TG PMT 6650 Unfired pressure vessel TG PMT 6651 Unfired pressure vessel TG PMT 6652 Unfired pressure vessel TG PMT 6656 Unfired pressure vessel TG PMT 6657 Unfired pressure vessel TG PMT 6807 Unfired pressure vessel TG PMT 6808 Unfired pressure vessel TG PMT 6809 Unfired pressure vessel TG PMT 6810 Unfired pressure vessel TG PMT 7860 Unfired pressure vessel TG PMT 7861 Unfired pressure vessel
+
+18
+
+(1) (2) Registration No. Description of Machinery TG PMT 8161 Unfired pressure vessel TG PMT 8162 Unfired pressure vessel TG PMT 8163 Unfired pressure vessel TG PMT 8164 Unfired pressure vessel TG PMT 8165 Unfired pressure vessel TG PMT 8166 Unfired pressure vessel TG PMT 8167 Unfired pressure vessel TG PMT 8168 Unfired pressure vessel
+
+Made 21 August 2019
+
+[KSM/PUU(S) 600-1/2/10/2 JLD.6(17); PN(PU2)235/XLVIII]
+
+M. KULASEGARAN Minister of Human Resources
+
+19
