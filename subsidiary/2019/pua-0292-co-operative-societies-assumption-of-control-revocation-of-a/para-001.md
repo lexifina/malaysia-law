@@ -1,0 +1,5 @@
+# Paragraph 1. Citation
+
+1. This order may be cited as the Co-operative Societies (Assumption of Control)
+
+(Revocation of Appointment) Order 2019.
