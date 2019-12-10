@@ -1,0 +1,29 @@
+# Paragraph 3. Amendment of Second Schedule
+
+3. The principal Order is amended in the Second Schedule by inserting after MAP:
+
+BERUAS INTERCHANGE the following maps:
+
+11 “MAP: NNKSB INTERCHANGE TO BANDAR BUKIT RAJA NORTH INTERCHANGE
+
+MAP: NNKSB INTERCHANGE
+
+1. NOT TO SCALE MAP: BANDAR
+
+2. COORDINATE RSO GDM 2000 BU
+
+12
+
+MAP: BANDAR BUKIT RAJA SOUTH INTERCHANGE
+
+MAP: BANDAR BUKIT RAJA NORTH INTERCHANGE
+
+.”.
+
+13 Made 6 December 2019
+
+[KKR.PUU.110-1/6/20/PN(PU2)460/CV]
+
+BARU BIAN Minister of Works
+
+14
