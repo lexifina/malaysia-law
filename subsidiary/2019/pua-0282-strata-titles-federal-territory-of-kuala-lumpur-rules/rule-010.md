@@ -1,0 +1,3 @@
+# Rule 10. Replacement of certificate
+
+10. If the certificate certifying the establishment of the management corporation or certificate of subsidiary management corporation issued under the Act or the Certificate of Share Unit Formula issued under these Rules, by the Director, is lost, defaced or destroyed, the Director may, upon receipt of an application for replacement, and upon payment of the fee as specified in Schedule 3, issue a replacement of the certificate certifying the establishment of the management corporation, certificate of subsidiary management corporation or Certificate of Share Unit Formula to the applicant.
