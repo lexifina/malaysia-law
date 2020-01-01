@@ -1,0 +1,3 @@
+# Paragraph 7. Disposal of building, factory, machinery or plant within two years
+
+7. Where a qualifying capital expenditure is incurred by a qualifying company on a building, factory, machinery or plant used for the purposes of a qualifying project and such building, factory, machinery or plant is disposed of at any time within the period of two years from the date of acquisition of the building, factory, machinery or plant, the exemption granted under subparagraph 5(1) shall be withdrawn in the basis period for the year of assessment in which the building, factory, machinery or plant is disposed of.
