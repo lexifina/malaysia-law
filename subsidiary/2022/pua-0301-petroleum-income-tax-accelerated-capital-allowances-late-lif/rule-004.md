@@ -1,0 +1,5 @@
+# Rule 4. Late-Life Assets
+
+4. The Minister may determine a project as a Late-Life Assets project which is a brownfield oil or gas field and has an economic lifespan not exceeding ten years commencing from the year a Late-Life Assets production sharing contract is signed.
+
+6
