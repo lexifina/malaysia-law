@@ -1,0 +1,3 @@
+# Rule 9
+
+9. Address of *company/business where the manufacturing of pesticides *is/will be carried out (if different from no. 3): ……………………………………………………………………………………………………………………………… ……………………………………………………………………………………………………………………………… ………………………………………………………………………………………………………………
