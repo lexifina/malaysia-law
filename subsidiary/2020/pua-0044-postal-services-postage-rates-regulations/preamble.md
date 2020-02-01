@@ -1,0 +1,3 @@
+# Enacting words
+
+IN exercise of the powers conferred by section 37 and paragraph 100(g) of the Postal Services Act 2012 [Act 741], the Minister, on the recommendation of the Commission, makes the following regulations:
