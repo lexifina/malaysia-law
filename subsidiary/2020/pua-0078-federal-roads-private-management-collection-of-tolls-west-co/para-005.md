@@ -1,0 +1,33 @@
+# Paragraph 5
+
+5. The principal Order is amended by substituting for the Second Schedule the following schedule:
+
+18
+
+“SECOND SCHEDULE [Subparagraph 2(2)]
+
+MAP A
+
+HUTAN MELINTANG INTERCHANGE – TELUK INTAN INTERCHANGE
+
+19
+
+MAP B
+
+KG. LEKIR INTERCHANGE - BERUAS INTERCHANGE
+
+LEGEND: BERUAS
+
+20
+
+NNKSB INTERCHANGE – BANDAR BUKIT RAJA NORTH INTERCHANGE
+
+.”.
+
+Made 26 February 2020
+
+[KKR.PUU.110-1/6/20; PN(PU2)426/LXVIII]
+
+TUN DR. MAHATHIR BIN MOHAMAD Prime Minister @ Interim
+
+21
