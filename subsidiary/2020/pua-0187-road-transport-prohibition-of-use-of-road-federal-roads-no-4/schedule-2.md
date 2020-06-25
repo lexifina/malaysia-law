@@ -1,0 +1,19 @@
+# Second Schedule
+
+Sg. Alur Serdang
+
+Kuala Terengganu 3 3 Kota Bharu
+
+Section 626.733 Section 626.863
+
+LEGEND :
+
+ROAD TO WHICH PROHIBITION ORDER IS APPLICABLE
+
+TEMPORARY DIVERSION ROAD
+
+Made 24 June 2020 [KKR.PUU.110-1/6/15 Jld.7; PN(PU2)460/XCVIII]
+
+DATO’ SRI HAJI FADILLAH BIN HAJI YUSOF Senior Minister of Works
+
+7
