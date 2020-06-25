@@ -1,0 +1,21 @@
+# Second Schedule
+
+Tanjung Pasir
+
+1486 section 1.30 section 1.65 1486
+
+Bukit Goh Sg. Mabuk
+
+RTP Bukit Goh
+
+LEGEND :
+
+ROAD TO WHICH PROHIBITION ORDER IS APPLICABLE
+
+TEMPORARY DIVERSION ROAD
+
+Made 23 June 2020 [KKR.PUU.110-1/6/15 Jld.7; PU(PU2)460/CVII]
+
+DATO’ SRI HAJI FADILLAH BIN HAJI YUSOF Senior Minister of Works
+
+7
