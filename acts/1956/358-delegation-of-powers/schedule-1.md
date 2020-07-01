@@ -2,7 +2,7 @@
 
 [Section 18]
 
-(1) (2) Chief Secretary Deputy Chief Secretary Minister Secretary to Minister Menteri Besar Deputy Menteri Besar State Secretary Resident Commissioner Settlement Secretary
+(1) (2) Chief Secretary Deputy Chief Secretary Minister Secretary to Minister Menteri Besar Deputy Menteri Besar State Secretary Resident Commissioner Settlement Secretary 14
 
 LAWS OF MALAYSIA Act 358
 
