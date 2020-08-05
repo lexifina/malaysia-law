@@ -1,0 +1,5 @@
+# Paragraph 12
+
+12. If a resident of a Contracting Jurisdiction to a Covered Tax Agreement is neither a qualified person pursuant to the provisions of paragraph 9, nor entitled to benefits under paragraph 10 or 11, the competent authority of the other Contracting Jurisdiction may, nevertheless, grant the benefits of the Covered Tax Agreement, or benefits with
+
+113 respect to a specific item of income, taking into account the object and purpose of the Covered Tax Agreement, but only if such resident demonstrates to the satisfaction of such competent authority that neither its establishment, acquisition or maintenance, nor the conduct of its operations, had as one of its principal purposes the obtaining of benefits under the Covered Tax Agreement. Before either granting or denying a request made under this paragraph by a resident of a Contracting Jurisdiction, the competent authority of the other Contracting Jurisdiction to which the request has been made shall consult with the competent authority of the first-mentioned Contracting Jurisdiction.

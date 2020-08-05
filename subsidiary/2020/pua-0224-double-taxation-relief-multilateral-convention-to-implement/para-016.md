@@ -1,0 +1,3 @@
+# Paragraph 16
+
+16. Except where the Simplified Limitation on Benefits Provision applies with respect to the granting of benefits under a Covered Tax Agreement by one or more Parties pursuant to paragraph 7, a Party that chooses pursuant to paragraph 6 to apply the Simplified Limitation on Benefits Provision may reserve the right for the entirety of this Article not to apply with respect to its Covered Tax Agreements for which one or more of the other Contracting Jurisdictions has not chosen to apply the Simplified Limitation on Benefits Provision. In such cases, the Contracting Jurisdictions shall endeavour to reach a mutually satisfactory solution which meets the minimum standard for preventing treaty abuse under the OECD/G20 BEPS package.
