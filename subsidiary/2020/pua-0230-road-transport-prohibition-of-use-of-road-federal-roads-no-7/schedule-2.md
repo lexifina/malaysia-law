@@ -1,0 +1,17 @@
+# Second Schedule
+
+section 633.625 section 633.750
+
+Kuala Terengganu 3 3 Kota Bharu Sg. Renek
+
+LEGEND :
+
+ROAD TO WHICH PROHIBITION ORDER IS APPLICABLE
+
+TEMPORARY DIVERSION ROAD
+
+Made 13 August 2020 [KKR.PUU.110-1/6/15 Jld.8; PN(PU2)460/CVII]
+
+DATO’ SRI HAJI FADILLAH BIN HAJI YUSOF Senior Minister of Works
+
+7
