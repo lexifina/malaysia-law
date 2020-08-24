@@ -1,0 +1,21 @@
+# Second Schedule
+
+section section 631.265 631.135
+
+Sg. Tok Dor
+
+Kuala 3 3 Kota Bharu Terengganu
+
+LEGENDS :
+
+ROAD TO WHICH PROHIBITION ORDER IS
+
+APPLICABLE
+
+TEMPORARY DIVERSION ROAD
+
+Made 18 August 2020 [KKR.PUU.110-1/6/15 Jld.8; PN(PU2)460/CVIII]
+
+DATO‘ SRI HAJI FADILLAH BIN HAJI YUSOF Senior Minister of Works
+
+7
