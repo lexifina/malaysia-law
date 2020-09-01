@@ -28,7 +28,7 @@ Board may invite others to meetings
 
 Minutes
 
-5. (1) The Board shall cause minutes of all its meetings to be maintained and kept in proper form. Technologists and Technicians 39
+5. (1) The Board shall cause minutes of all its meetings to be maintained and kept in proper form.
 
 (2) The minutes of meetings of the Board, if duly signed, shall, in any legal proceedings, be admissible as prima facie evidence of the facts stated in the minutes without further proof.
 
