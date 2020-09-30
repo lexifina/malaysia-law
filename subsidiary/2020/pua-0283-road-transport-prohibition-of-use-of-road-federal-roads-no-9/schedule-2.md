@@ -1,0 +1,23 @@
+# Second Schedule
+
+Ringlet
+
+section 3.20 59
+
+Sg. Karma
+
+59 section 2.80
+
+LEGEND :
+
+ROAD TO WHICH PROHIBITION ORDER IS APPLICABLE
+
+Tapah
+
+TEMPORARY DIVERSION ROAD
+
+Made 29 September 2020 [KKR.PUU.110-1/6/15 Jld.8; PN(PU2)460/XCVIII]
+
+DATO’ SRI HAJI FADILLAH BIN HAJI YUSOF Senior Minister of Works
+
+7
