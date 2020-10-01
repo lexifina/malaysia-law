@@ -1,8 +1,8 @@
 # Central Bank of Malaysia Act 2009 [Act 701]
 
-Central Bank of Malaysia Act 2009 (Akta Bank Negara Malaysia 2009), Laws of Malaysia Act 701, the reprint (Commissioner of Law Revision) as at 2019-09-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3667498_BI/Act%20701%20(Reprint%202019).pdf
+Central Bank of Malaysia Act 2009 (Akta Bank Negara Malaysia 2009), Laws of Malaysia Act 701, the reprint (Commissioner of Law Revision) as at 2020-11-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1683920_BI/Draf%20Kedua%20Act%20701%20(final)(KU)%20(1).pdf
 
-In force: 2013-02-08 (the day the latest amendment the reprint incorporates, Act A1448, came into operation, as page 2 of the reprint states).
+In force: 2020-10-01 (the day the latest amendment the reprint incorporates, Act A1616, came into operation, as page 2 of the reprint states).
 
 | File | Provision |
 | --- | --- |
@@ -46,7 +46,7 @@ In force: 2013-02-08 (the day the latest amendment the reprint incorporates, Act
 | [s-038.md](s-038.md) | Section 38. Powers and functions of the Financial Stability Executive Committee |
 | [s-039.md](s-039.md) | Section 39. Nature of relief |
 | [s-040.md](s-040.md) | Section 40. Arrangements with other supervisory authorities |
-| [s-041.md](s-041.md) | Section 41. Advice or recommendations on financial stability to supervisory |
+| [s-041.md](s-041.md) | Section 41. Advice or recommendations on financial stability to supervisory authorities |
 | [s-042.md](s-042.md) | Section 42. Confidentiality |
 | [s-043.md](s-043.md) | Section 43. Rules, guidelines, etc., for money market, etc. |
 | [s-044.md](s-044.md) | Section 44. The Bank may establish system for funds, debt securities, etc. |
@@ -67,11 +67,12 @@ In force: 2013-02-08 (the day the latest amendment the reprint incorporates, Act
 | [s-059.md](s-059.md) | Section 59. The Bank to issue circulars, guidelines, etc., on Shariah matters |
 | [s-060.md](s-060.md) | Section 60. Promotion of Malaysia as an international Islamic financial centre |
 | [s-061.md](s-061.md) | Section 61. Unit of currency |
-| [s-062.md](s-062.md) | Section 62. Right to issue, print or mint currency |
-| [s-063.md](s-063.md) | Section 63. Legal tender |
-| [s-064.md](s-064.md) | Section 64. The Bank may call in currency |
+| [s-062.md](s-062.md) | Section 62. (Deleted) |
+| [s-063.md](s-063.md) | Section 63. (Deleted) |
+| [s-064.md](s-064.md) | Section 64. (Deleted) |
 | [s-065.md](s-065.md) | Section 65. The Bank may buy and sell ringgit |
 | [s-066.md](s-066.md) | Section 66. Exchange rate regime for ringgit |
+| [s-066-a.md](s-066-a.md) | Section 66A. PART IX |
 | [s-067.md](s-067.md) | Section 67. Duty of the Bank to hold and manage foreign reserves |
 | [s-068.md](s-068.md) | Section 68. Policies and guidelines on foreign reserves |
 | [s-069.md](s-069.md) | Section 69. Banker and financial agent to Government |
@@ -97,7 +98,7 @@ In force: 2013-02-08 (the day the latest amendment the reprint incorporates, Act
 | [s-089.md](s-089.md) | Section 89. Power to compound |
 | [s-090.md](s-090.md) | Section 90. Prosecution |
 | [s-091.md](s-091.md) | Section 91. Offence by body corporate |
-| [s-092.md](s-092.md) | Section 92. The Bank may be represented by officer or employee of the Bank in |
+| [s-092.md](s-092.md) | Section 92. The Bank may be represented by officer or employee of the Bank in civil |
 | [s-093.md](s-093.md) | Section 93. Fees and charges |
 | [s-094.md](s-094.md) | Section 94. Power to make regulations |
 | [s-095.md](s-095.md) | Section 95. Power to issue guidelines, etc. |
@@ -106,3 +107,6 @@ In force: 2013-02-08 (the day the latest amendment the reprint incorporates, Act
 | [s-098.md](s-098.md) | Section 98. Power to impose administrative penalty |
 | [s-099.md](s-099.md) | Section 99. Repeal |
 | [s-100.md](s-100.md) | Section 100. Savings and transitional |
+| [schedule-1.md](schedule-1.md) | First Schedule |
+| [schedule-2.md](schedule-2.md) | Second Schedule |
+| [schedule-3.md](schedule-3.md) | Third Schedule |
