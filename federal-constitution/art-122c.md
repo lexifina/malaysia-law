@@ -1,0 +1,2 @@
+# Article 122C. Transfer of judge of one High Court to another
+122C. Article 122B shall not apply to the transfer to a High Court, otherwise than as Chief Judge, of a judge of another High Court other than the Chief Judge; and such a transfer may be made by the Yang di-Pertuan Agong, on the recommendation of the Chief Justice of the Federal Court, after consulting the Chief Judges of the two High Courts.

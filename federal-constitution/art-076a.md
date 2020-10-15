@@ -1,0 +1,4 @@
+# Article 76A. Power of Parliament to extend legislative powers of States
+76A. (1) It is hereby declared that the power of Parliament to make laws with respect to a matter enumerated in the Federal List includes power to authorize the Legislatures of the States or any of them, subject to such conditions or restrictions (if any) as Parliament may impose, to make laws with respect to the whole or any part of that matter.
+(2) Notwithstanding Article 75, a State law made under authority conferred by Act of Parliament as mentioned in Clause (1) may, if and to the extent that the Act so provides, amend or repeal (as regards the State in question) any federal law passed before that Act.
+(3) Any matter with respect to which the Legislature of a State is for the time being authorized by Act of Parliament to make laws shall for purposes of Articles 79, 80 and 82 be treated as regards the State in question as if it were a matter enumerated in the Concurrent List.

@@ -1,0 +1,4 @@
+# Article 141A. Education Service Commission
+141A. (1) There shall be an Education Service Commission, whose jurisdiction shall, subject to Article 144, extend to all persons who are members of the service mentioned in paragraph (h) of Clause (1) of Article 132.
+(2) The Education Service Commission shall consist of the following members appointed by the Yang di-Pertuan Agong in his discretion but after considering the advice of the Prime Minister and after consultation with the Conference of Rulers, that is to say, a Chairman, a Deputy Chairman and not less than four other members; but the number of the other members shall not, until the Yang di-Pertuan Agong by order otherwise provides, exceed eight.
+(3) A member of any of the public services appointed to be Chairman or Deputy Chairman shall not be eligible for any further appointment in the service of the Federation other than as a member of a Commission to which this Part applies.

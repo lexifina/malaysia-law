@@ -1,0 +1,2 @@
+# Article 26A. Deprivation of citizenship of child of person losing citizenship
+26A. Where a person has renounced his citizenship or been deprived thereof under Clause (1) of Article 24 or paragraph (a) of Clause (1) of Article 26, the Federal Government may by order deprive of his citizenship any child of that person under the age of twenty-one who has been registered as a citizen pursuant to this Constitution and was so registered as being the child of that person or of that person's wife or husband.

@@ -1,0 +1,3 @@
+# Article 26B. General provisions as to loss of citizenship
+26B. (1) Renunciation or deprivation of citizenship shall not discharge a person from liability in respect of anything done or omitted before he ceased to be a citizen.
+(2) No person shall be deprived of citizenship under Article 25, 26 or 26A unless the Federal Government is satisfied that it is not conducive to the public good that he should continue to be a citizen; and no person shall be deprived of citizenship under Article 25, paragraph (b) of Clause (1) of Article 26, or Article 26A if the Federal Government is satisfied that as a result of the deprivation he would not be a citizen of any country.

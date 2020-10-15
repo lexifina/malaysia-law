@@ -1,0 +1,12 @@
+# Fifth Schedule
+[Article 38(1)]
+The Conference of Rulers
+1. The Conference of Rulers shall, subject to the following provisions of this Schedule, consist of Their Royal Highnesses the Rulers and the Yang di-Pertua-Yang di-Pertua Negeri of States not having a Ruler.
+2. The place of His Royal Highness the Ruler of any State or the Yang di-Pertua Negeri of any State as a member of the Conference of Rulers may in any case in which the Constitution of that State so provides be taken by such person as that Constitution may provide.
+3. The Conference of Rulers shall have a Rulers' Seal, which shall be kept in the custody of a person appointed by the Conference.
+4. The person appointed under section 3 shall be known as the Penyimpan Mohor Besar Raja-Raja (Keeper of the Rulers' Seal), shall act as secretary to the Conference of Rulers and shall hold his office at the pleasure of the Conference.
+5. A majority of the members of the Conference of Rulers shall form a quorum and, subject to the provisions of this Constitution, the Conference may determine its own procedure.
+6. The Keeper of the Rulers' Seal shall convene the Conference of Rulers whenever required to do so by the Yang di-Pertuan Agong or by not less than three members of the Conference and, without being so required, not later than four weeks before the expiry of the term of office of the Yang di-Pertuan Agong and whenever a vacancy occurs in that office or in the office of the Timbalan Yang di-Pertuan Agong.
+7. The Yang di-Pertua-Yang di-Pertua Negeri of States not having a Ruler shall not be members of the Conference of Rulers for the purposes of any proceedings relating to the election or removal of the Yang di-Pertuan Agong or the election of the Timbalan Yang di-Pertuan Agong or relating solely to the privileges, position, honours and dignities of Their Royal Highnesses or to religious acts, observances or ceremonies.
+8. In any case where the Conference of Rulers is not unanimous it shall take its decision by a majority of the members voting, subject however to the provisions of the Third Schedule.
+9. Any consent, appointment or advice of the Conference of Rulers required under this Constitution shall be signified under the Rulers' Seal; and where, in the case of any proposed appointment, a majority of the members of the Conference have indicated, by writing addressed to the Keeper of the Rulers' Seal, that they are in favour of the appointment, he shall so signify the advice of the Conference without convening it.

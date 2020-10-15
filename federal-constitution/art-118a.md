@@ -1,0 +1,2 @@
+# Article 118A. Method of questioning election petition of no return
+118A. A petition complaining of no return to the House of Representatives or the Legislative Assembly shall be deemed to be an election petition and the High Court may make such order thereon as it may think fit for compelling a return to be made, but the failure to make a return within any period specified by Article 54 or 55 or by the corresponding provision of the Constitution of any State, as the case may be, shall not be a ground for declaring that a member has not been duly elected.

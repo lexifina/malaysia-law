@@ -1,0 +1,2 @@
+# Article 160A. Reprint of the Constitution
+160A. The authority appointed under federal law for the purpose of revising laws may, with consent of the Yang di-Pertuan Agong, authorize the printing of copies of this Constitution, including all amendments in force at the date of such authorization; and any copy of this Constitution so printed shall be deemed for all purposes to be a true and correct copy of the Federal Constitution.

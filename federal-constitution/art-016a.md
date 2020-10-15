@@ -1,0 +1,6 @@
+# Article 16A. Citizenship by registration (persons resident in States of Sabah and Sarawak on Malaysia Day)
+16A. Subject to Article 18, any person of or over the age of eighteen years who is on Malaysia Day ordinarily resident in the State of Sabah or Sarawak is entitled, upon making application to the Federal Government before September 1971, to be registered as a citizen if he satisfies the Federal Government—
+(a) that he has resided before Malaysia Day in the territories comprised in those States and after Malaysia Day in the Federation for periods which amount in the aggregate to not less than seven years in the ten years immediately preceding the date of the application, and which include the twelve months immediately preceding that date;
+(b) that he intends to reside permanently in the Federation;
+(c) that he is of good character; and
+(d) except where the application is made before September 1965, and the applicant has attained the age of forty-five years at the date of the application, that he has a sufficient knowledge of the Malay language or the English language or, in the case of an applicant ordinarily resident in Sarawak, the Malay language, the English language or any native language in current use in Sarawak.

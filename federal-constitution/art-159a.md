@@ -1,0 +1,2 @@
+# Article 159A. Operation of transitional provisions of Malaysia Act
+159A. The provisions of Part IV of the Malaysia Act (which contains temporary and transitional provisions in connection with the operation of that Act) shall have effect as if embodied in this Constitution, and shall have effect notwithstanding anything in this Constitution as amended by that Act; and the provisions of this Constitution, and in particular Clause (1) of Article 4 and Articles 159 and 161E shall have effect in relation thereto accordingly.

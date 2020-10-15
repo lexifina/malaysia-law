@@ -1,0 +1,8 @@
+# Article 95B. Modifications for States of Sabah and Sarawak of distribution of legislative powers
+95B. (1) In the case of the States of Sabah and Sarawak—
+(a) the supplement to List II set out in the Ninth Schedule shall be deemed to form part of the State List, and the matters enumerated therein shall be deemed not to be included in the Federal List or Concurrent List; and
+(b) the supplement to List III set out in the Ninth Schedule shall, subject to the State List, be deemed to form part of the Concurrent List, and the matters enumerated therein shall be deemed not to be included in the Federal List (but not so as to affect the construction of the State List, where it refers to the Federal List).
+(2) Where by virtue of Clause (1) an item is included in the Concurrent List for a State for a period only, the expiration or termination of that period shall not affect the continued operation of any State law passed by virtue of the item, save as provided by federal or State law.
+(3) The Legislature of the State of Sabah or Sarawak may also make laws for imposing sales taxes, and any sales tax imposed by State law in the State of Sabah or Sarawak shall be deemed to be among the matters enumerated in the State List and not in the Federal List; but—
+(a) there shall not in the charging or administration of a State sales tax be any discrimination between goods of the same description according to the place in which they originate; and
+(b) the charge for any federal sales tax shall be met out of sums collected from a person liable for that tax before the charge for a State sales tax.
