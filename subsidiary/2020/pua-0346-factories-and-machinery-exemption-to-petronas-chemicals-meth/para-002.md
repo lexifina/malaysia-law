@@ -1,0 +1,3 @@
+# Paragraph 2. Exemption
+
+2. All machinery registered with the Chief Inspector, with the registration numbers and descriptions as specified in columns (1) and (2) of the First Schedule, in the name of PETRONAS Chemicals Methanol Sdn. Bhd., Federal Territory of Labuan which have been issued with certificates of fitness, shall be exempted from the preparation required under paragraphs 17(a) and (b) of the Factories and Machinery (Notification, Certificate of Fitness and Inspection) Regulations 1970 [P.U. (A) 43/1970] for subsequent regular inspections after the expiry of such certificates of fitness as specified in column (3).
