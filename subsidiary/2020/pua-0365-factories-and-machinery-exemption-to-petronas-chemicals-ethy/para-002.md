@@ -1,0 +1,3 @@
+# Paragraph 2. Exemption
+
+2. Machinery registered with the Chief Inspector, with the registration number of PMT 70091 that is unfired pressure vessel in the name of PETRONAS Chemicals Ethylene Sdn. Bhd., Kertih, Terengganu which have been issued with certificate of fitness, shall be exempted from the preparation required under regulation 20 of the Factories and Machinery (Special Scheme of Inspection) (Risk-Based Inspection) Regulations 2014 [P.U. (A) 96/2014] for subsequent regular inspections from 22 April 2020 until 21 July 2020 after the expiry of such certificate of fitness on 21 April 2020.
