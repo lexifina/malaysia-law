@@ -1,0 +1,3 @@
+# Paragraph 2. Exemption
+
+2. All unfired pressure vessels registered with the Chief Inspector, with the registration numbers as specified in column (1) of the Schedule, in the name of Malaysia LNG Sdn. Bhd., Bintulu, Sarawak which have been issued with certificates of fitness, are exempted from the preparation required under regulation 20 of the Factories and Machinery (Special Scheme of Inspection) (Risk-Based Inspection) Regulations 2014 [P.U. (A) 96/2014] for subsequent regular inspections for a period of three months after the expiry of such certificates of fitness as specified in column (2).

@@ -1,0 +1,115 @@
+# Paragraph 3. Condition of exemption
+
+3. The exemption under paragraph 2 is subject to the condition that all of the unfired pressure vessels with the registration numbers specified in column (1) of the Schedule undergo an external inspection and non-destructive tests and that the Inspector is satisfied with the results of such inspection and tests.
+
+3
+
+(1) (2) No. Pendaftaran/ Tarikh Habis Tempoh/ Registration No. Expiry Dates
+
+PMT 143148 27/07/2020
+
+PMT 143149 27/07/2020
+
+PMT143150 27/07/2020
+
+PMT 143161 27/07/2020
+
+PMT 143167 15 /07/2020
+
+PMT 143168 15 /07/2020
+
+PMT 143169 15 /07/2020
+
+PMT 143170 15 /07/2020
+
+PMT 143171 15 /07/2020
+
+PMT 143180 15 /07/2020
+
+PMT 143181 15 /07/2020
+
+PMT 143182 15 /07/2020
+
+PMT 143183 15 /07/2020
+
+PMT 143199 15 /07/2020
+
+PMT 143200 15 /07/2020
+
+PMT 143207 15 /07/2020
+
+PMT 143208 15 /07/2020
+
+PMT 143172 18/08/2020
+
+PMT 143173 19/08/2020
+
+PMT 143174 19/08/2020
+
+4
+
+PMT 143175 19/08/2020
+
+PMT 143176 19/08/2020
+
+PMT 143184 18/08/2020
+
+PMT 143185 18/08/2020
+
+PMT 143186 18/08/2020
+
+PMT 143187 18/08/2020
+
+PMT 143204 18/08/2020
+
+PMT 143205 18/08/ 2020
+
+PMT 143213 18/08/ 2020
+
+PMT 143214 18/08/2020
+
+PMT 143235 16/07/2020
+
+PMT 143236 16/07/2020
+
+PMT 143237 15 /07/2020
+
+PMT 143238 19/08/2020
+
+PMT 143239 18/08/2020
+
+PMT 143240 20/07/ 2020
+
+PMT 85025 26/09/2020
+
+PMT 156077 16/09/2020
+
+PMT 156078 16/09/2020
+
+PMT 156079 16/09/2020
+
+PMT 156080 16/09/2020
+
+PMT 156081 16/09/2020
+
+PMT 30809 4/09/2020
+
+PMT 30810 4/09/2020
+
+PMT 30811 3/09/2020 5
+
+PMT 30813 3/09/2020
+
+PMT 30980 4/09/2020
+
+PMT 30998 4/09/2020
+
+PMT 30999 4/09/2020
+
+Dibuat 16 Februari 2021 Made 16 February 2021
+
+[KSM/PUU(S)600-1/2/10/2; PN(PU2)235/XLIX]
+
+DATUK SERI M. SARAVANAN Menteri Sumber Manusia/ Minister of Human Resources
+
+6
