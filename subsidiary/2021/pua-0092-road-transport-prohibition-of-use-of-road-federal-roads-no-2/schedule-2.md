@@ -1,0 +1,21 @@
+# Second Schedule
+
+Kuala Kota Bharu 3684 3684 Terengganu
+
+Section Section 31.28 30.93
+
+LEGEND:
+
+ROAD TO WHICH PROHIBITION ORDER IS
+
+APPLICABLE
+
+TEMPORARY DIVERSION
+
+ROAD
+
+Made 26 February 2021 [KKR.PUU.110-1/6/15 Jld. 8; PN(PU2)460/CIX]
+
+DATO’ SRI HAJI FADILLAH BIN HAJI YUSOF Senior Minister of Works
+
+7
