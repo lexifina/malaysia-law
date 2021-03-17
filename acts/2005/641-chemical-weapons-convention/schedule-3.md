@@ -1,0 +1,9 @@
+# Schedule 3
+
+(Chapters 1 and 3) 50
+
+LAWS OF MALAYSIA
+
+Act 641
+
+CHEMICAL WEAPONS CONVENTION 2005
