@@ -30,7 +30,7 @@ INDUSTRY
 
 (c) the tapping, production and marketing of the rubber and rubber products as defined under the Malaysian Rubber Board (Incorporation) Act 1996 [Act 551]; and
 
-(d) the harvesting, production and marketing of the padi as defined under the Control of Padi and Rice Act 1994 [Act 522]. Self-Employment Social Security 63
+(d) the harvesting, production and marketing of the padi as defined under the Control of Padi and Rice Act 1994 [Act 522].
 
 3. The taking of forest produce as defined under the National Forestry Act 1984 [Act 313].
 
@@ -60,7 +60,7 @@ INDUSTRY
 
 13. The services relating to the communication and multimedia which is governed under the Communications and Multimedia Act 1998 [Act 588] which includes—
 
-(a) provide of any network facilities; 64 Laws of Malaysia ACT 789
+(a) provide of any network facilities;
 
 (b) provide of any network services; or
 
@@ -96,7 +96,7 @@ INDUSTRY
 
 (i) quality control or routine testing of materials, devices or products;
 
-(ii) research in the social sciences or the humanities; Self-Employment Social Security 65
+(ii) research in the social sciences or the humanities;
 
 (iii) routine data collection;
 
@@ -130,7 +130,7 @@ INDUSTRY
 
 (v) any person who conducted any business in providing a private support services which is registered under the Registration of Business Act 1956 [Act 197], the Trades Licensing Ordinance (Sabah Cap. 144) or the Business Name Ordinance (Sarawak Cap. 64).
 
-(b) For the purpose of this paragraph, private support services includes services provided through any online applications. 66 Laws of Malaysia ACT 789
+(b) For the purpose of this paragraph, private support services includes services provided through any online applications.
 
 18. (a) The services in any performance, film activities and any activity which includes artistic work and graphic work.
 
@@ -142,4 +142,4 @@ INDUSTRY
 
 19. The services in any care, treatment and recovery of health, mental, physical or social.
 
-20. The household services. Self-Employment Social Security 67
+20. The household services.

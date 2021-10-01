@@ -60,9 +60,7 @@ Selected Insured Monthly Earning Monthly Contribution by Self-Employed Person
 
 24. RM3,350 RM41.90
 
-25. RM3,450 RM43.10 68 Laws of Malaysia ACT 789
-
-Selected Insured Monthly Earning Monthly Contribution by Self-Employed Person
+25. RM3,450 RM43.10 Selected Insured Monthly Earning Monthly Contribution by Self-Employed Person
 
 26. RM3,550 RM44.40
 
@@ -94,7 +92,7 @@ Selected Insured Monthly Earning Monthly Contribution by Self-Employed Person
 
 (b) for each child, two-fifths of the daily rate of permanent total disablement benefit referred to in paragraph (a).
 
-6. If the total of the dependants’ benefit distributed among the widow or widower and child or children exceeds at any time the daily rate of permanent total disablement benefit, the share of each dependant shall be proportionately reduced so that the total amount payable does not exceed the daily rate of permanent total disablement benefit. Self-Employment Social Security 69
+6. If the total of the dependants’ benefit distributed among the widow or widower and child or children exceeds at any time the daily rate of permanent total disablement benefit, the share of each dependant shall be proportionately reduced so that the total amount payable does not exceed the daily rate of permanent total disablement benefit.
 
 7. In case the deceased self-employed insured person does not leave a widow or widower or if the widow or widower dies, the daily rate of benefit for each child shall be three-fifths of the daily rate of permanent total disablement benefit, and if there be more than one child, the amount payable shall be equally divided between them.
 
