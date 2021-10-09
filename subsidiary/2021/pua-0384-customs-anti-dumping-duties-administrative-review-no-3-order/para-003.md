@@ -1,0 +1,3 @@
+# Paragraph 3. Payment of anti-dumping duties
+
+3. The anti-dumping duties payable under this Order shall be paid in cash.
