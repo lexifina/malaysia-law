@@ -1,8 +1,8 @@
 # Consumer Protection Act 1999 [Act 599]
 
-Consumer Protection Act 1999 (Akta Perlindungan Pengguna 1999), Laws of Malaysia Act 599, the reprint (Commissioner of Law Revision) as at 2013-02-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/15585_BI/ACT%20599%20-%20REPRINT%202013.pdf
+Consumer Protection Act 1999 (Akta Perlindungan Pengguna 1999), Laws of Malaysia Act 599, the reprint (Commissioner of Law Revision) as at 2021-11-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1690994_BI/011121_Act%20599_final.pdf
 
-In force: 2013-02-01 (the day the reprint states its text is "As at").
+In force: 2021-11-01 (the day the reprint states its text is "As at").
 
 | File | Provision |
 | --- | --- |
@@ -28,7 +28,7 @@ In force: 2013-02-01 (the day the reprint states its text is "As at").
 | [s-020.md](s-020.md) | Section 20. Compliance with safety standards |
 | [s-021.md](s-021.md) | Section 21. General safety requirement for goods |
 | [s-021-a.md](s-021-a.md) | Section 21A. General safety requirement for services |
-| [s-022.md](s-022.md) | Section 22. Defences |
+| [s-022.md](s-022.md) | Section 22. Defence |
 | [s-023.md](s-023.md) | Section 23. Prohibition against unsafe goods and services |
 | [s-024.md](s-024.md) | Section 24. Prohibition of importation of goods or services |
 | [s-024-a.md](s-024-a.md) | Section 24A. Interpretation for purposes of Part IIIa |
@@ -41,6 +41,22 @@ In force: 2013-02-01 (the day the reprint states its text is "As at").
 | [s-024-h.md](s-024-h.md) | Section 24H. Executed contracts |
 | [s-024-i.md](s-024-i.md) | Section 24I. Contravention of Part IIIa to be an offence |
 | [s-024-j.md](s-024-j.md) | Section 24J. Regulations relating to unfair contract terms |
+| [s-024-k.md](s-024-k.md) | Section 24K. Application of Part IIIb |
+| [s-024-l.md](s-024-l.md) | Section 24L. Interpretation for purposes of Part IIIb |
+| [s-024-m.md](s-024-m.md) | Section 24M. Power of Minister to prescribe goods |
+| [s-024-n.md](s-024-n.md) | Section 24N. Preconditions of credit sale agreement |
+| [s-024-o.md](s-024-o.md) | Section 24O. Credit sale agreement to be made in writing |
+| [s-024-p.md](s-024-p.md) | Section 24P. Contents of credit sale agreement |
+| [s-024-q.md](s-024-q.md) | Section 24Q. Ownership in purchased goods under credit sale agreement |
+| [s-024-r.md](s-024-r.md) | Section 24R. Rights and obligations of purchaser |
+| [s-024-s.md](s-024-s.md) | Section 24S. Rights and obligations of credit facility provider |
+| [s-024-t.md](s-024-t.md) | Section 24T. Limitation on terms charges |
+| [s-024-u.md](s-024-u.md) | Section 24U. Limitation on period of payment of instalments and charges |
+| [s-024-v.md](s-024-v.md) | Section 24V. Default in payment of instalments by purchaser |
+| [s-024-w.md](s-024-w.md) | Section 24W. Surrender of goods |
+| [s-024-x.md](s-024-x.md) | Section 24X. Restriction on disclosure or circulation of personal data |
+| [s-024-y.md](s-024-y.md) | Section 24Y. Prohibition on repossession of goods |
+| [s-024-z.md](s-024-z.md) | Section 24Z. Contravention of section 24x or 24y to be an offence |
 | [s-025.md](s-025.md) | Section 25. Contravention of Parts II and III to be an offence |
 | [s-026.md](s-026.md) | Section 26. Offence caused by act or default of another person |
 | [s-027.md](s-027.md) | Section 27. Defence of mistake, accident, etc. |
@@ -68,7 +84,7 @@ In force: 2013-02-01 (the day the reprint states its text is "As at").
 | [s-049.md](s-049.md) | Section 49. Liability of assignees and financiers |
 | [s-050.md](s-050.md) | Section 50. Consumer’s right of redress against manufacturers |
 | [s-051.md](s-051.md) | Section 51. Exceptions to right of redress against manufacturers |
-| [s-052.md](s-052.md) | Section 52. Options against manufacturers where goods do not comply with |
+| [s-052.md](s-052.md) | Section 52. Options against manufacturers where goods do not comply with guarantees |
 | [s-053.md](s-053.md) | Section 53. Implied guarantee as to reasonable care and skill |
 | [s-054.md](s-054.md) | Section 54. Implied guarantee as to fitness for particular purpose |
 | [s-055.md](s-055.md) | Section 55. Implied guarantee as to time of completion |
@@ -145,21 +161,32 @@ In force: 2013-02-01 (the day the reprint states its text is "As at").
 | [s-121.md](s-121.md) | Section 121. Act or omission done in good faith |
 | [s-122.md](s-122.md) | Section 122. Regulations in respect of the Tribunal |
 | [s-123.md](s-123.md) | Section 123. Power of investigation |
+| [s-123-a.md](s-123-a.md) | Section 123A. Complaints to Assistant Controller |
 | [s-124.md](s-124.md) | Section 124. Authority cards |
+| [s-124-a.md](s-124-a.md) | Section 124A. Power of Assistant Controller to require provision of information |
+| [s-124-b.md](s-124-b.md) | Section 124B. Assistant Controller may retain documents |
+| [s-124-c.md](s-124-c.md) | Section 124C. Access to records |
+| [s-124-d.md](s-124-d.md) | Section 124D. Power to enter premises, and inspect goods and documents, etc. |
+| [s-124-e.md](s-124-e.md) | Section 124E. Power of arrest |
 | [s-125.md](s-125.md) | Section 125. Search by warrant |
 | [s-126.md](s-126.md) | Section 126. Search and seizure without warrant |
+| [s-126-a.md](s-126-a.md) | Section 126A. Warrant admissible notwithstanding defects |
+| [s-126-b.md](s-126-b.md) | Section 126B. Access to recorded information, computerized data, etc. |
 | [s-127.md](s-127.md) | Section 127. List of things seized |
-| [s-128.md](s-128.md) | Section 128. Power to require attendance of person acquainted with case |
-| [s-129.md](s-129.md) | Section 129. Examination of person acquainted with case |
-| [s-130.md](s-130.md) | Section 130. Statement to be admissible in evidence |
+| [s-128.md](s-128.md) | Section 128. (Deleted) |
+| [s-129.md](s-129.md) | Section 129. (Deleted) |
+| [s-130.md](s-130.md) | Section 130. (Deleted) |
 | [s-131.md](s-131.md) | Section 131. Forfeiture of goods, etc., seized |
 | [s-132.md](s-132.md) | Section 132. Cost of holding goods, etc., seized |
 | [s-133.md](s-133.md) | Section 133. No costs or damages arising from seizure to be recoverable |
 | [s-134.md](s-134.md) | Section 134. Protection of informers |
+| [s-134-a.md](s-134-a.md) | Section 134A. Evidence of agent provocateur is admissible |
+| [s-134-b.md](s-134-b.md) | Section 134B. Presumption and examination with regards to sample |
 | [s-135.md](s-135.md) | Section 135. Reward for information |
-| [s-136.md](s-136.md) | Section 136. Disappearance or destruction of goods, etc., to be seized |
+| [s-135-a.md](s-135-a.md) | Section 135A. Tipping-off |
+| [s-136.md](s-136.md) | Section 136. Destruction, concealment, mutilation and alteration of records, etc. |
 | [s-137.md](s-137.md) | Section 137. Offences with respect to information |
-| [s-138.md](s-138.md) | Section 138. Obstruction of Assistant Controller |
+| [s-138.md](s-138.md) | Section 138. Obstruction, etc. |
 | [s-139.md](s-139.md) | Section 139. Use of confidential information |
 | [s-140.md](s-140.md) | Section 140. Receipts |
 | [s-141.md](s-141.md) | Section 141. Power to order compliance |
