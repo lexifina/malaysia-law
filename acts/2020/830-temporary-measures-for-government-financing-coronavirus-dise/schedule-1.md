@@ -42,7 +42,7 @@ AND ECONOMIC RECOVERY PLANS
 
 15. Special assistance to students of higher 300,000,000 educational institutions
 
-16. Bumiputera Relief Financing 200,000,000 10 Laws of Malaysia ACT 830
+16. Bumiputera Relief Financing 200,000,000
 
 (1) (2) Programmes Amount
 
