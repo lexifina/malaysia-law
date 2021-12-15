@@ -1,0 +1,2 @@
+# Article 119A. Non-application of Article 119 to Rulers, etc., by order
+119A. Notwithstanding Article 119, the Yang di-Pertuan Agong may, with the consent of the Conference of Rulers, by order published in the Gazette, prescribe for an exemption to any Ruler and his Consort, any Yang di-Pertua Negeri and his Consort, and any heir apparent, heir presumptive and other heirs of a Ruler and their consorts, and any other persons, from the application of Article 119 and any laws relating to registration of electors.
