@@ -1,8 +1,8 @@
 # Copyright Act 1987 [Act 332]
 
-Copyright Act 1987 (Akta Hakcipta 1987), Laws of Malaysia Act 332, the reprint (Commissioner of Law Revision) as at 2013-01-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/15366_BI/Act%20332%20-%20Reprint%202013.pdf
+Copyright Act 1987 (Akta Hakcipta 1987), Laws of Malaysia Act 332, the reprint (Commissioner of Law Revision) as at 2022-06-30, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1736259_BI/Act%20332_Muktamad%207.2.2023.pdf
 
-In force: 2012-03-01 (the day the latest amendment the reprint incorporates, Act A1420, came into operation, as page 2 of the reprint states).
+In force: 2022-03-18 (the day the latest amendment the reprint incorporates, Act A1645, came into operation, as page 2 of the reprint states).
 
 | File | Provision |
 | --- | --- |
@@ -19,7 +19,7 @@ In force: 2012-03-01 (the day the latest amendment the reprint incorporates, Act
 | [s-010-a.md](s-010-a.md) | Section 10A. Qualification for protection of performer |
 | [s-011.md](s-011.md) | Section 11. Copyright in works of Government, Government organizations and |
 | [s-012.md](s-012.md) | Section 12. Administration of Government copyright |
-| [s-013.md](s-013.md) | Section 13. Nature of copyright in literary, musical or artistic works, films and sound |
+| [s-013.md](s-013.md) | Section 13. Nature of copyright in literary, musical or artistic works, films and |
 | [s-013-a.md](s-013-a.md) | Section 13A. Design documents and models |
 | [s-013-b.md](s-013-b.md) | Section 13B. Effect of exploitation of design derived from artistic work |
 | [s-013-c.md](s-013-c.md) | Section 13C. (Deleted) |
@@ -34,7 +34,7 @@ In force: 2012-03-01 (the day the latest amendment the reprint incorporates, Act
 | [s-020.md](s-020.md) | Section 20. Duration of copyright in broadcasts |
 | [s-021.md](s-021.md) | Section 21. (Deleted) |
 | [s-022.md](s-022.md) | Section 22. Duration of copyright in films |
-| [s-023.md](s-023.md) | Section 23. Duration of copyright in works of Government, Government organizations |
+| [s-023.md](s-023.md) | Section 23. Duration of copyright in works of Government, Government |
 | [s-023-a.md](s-023-a.md) | Section 23A. Duration of performers’ rights |
 | [s-023-b.md](s-023-b.md) | Section 23B. Duration of an equitable remuneration |
 | [s-024.md](s-024.md) | Section 24. (Deleted) |
@@ -45,19 +45,20 @@ In force: 2012-03-01 (the day the latest amendment the reprint incorporates, Act
 | [s-026-b.md](s-026-b.md) | Section 26B. Register of Copyright |
 | [s-026-c.md](s-026-c.md) | Section 26C. Amendments to the Register of Copyright |
 | [s-027.md](s-027.md) | Section 27. Assignment, licences and testamentary disposition |
-| [s-027-a.md](s-027-a.md) | Section 27A. Licensing body |
-| [s-027-aa.md](s-027-aa.md) | Section 27AA. Licensing schemes to which sections 27b to 27b apply |
+| [s-027-a.md](s-027-a.md) | Section 27A. Collective management organization |
+| [s-027-aa.md](s-027-aa.md) | Section 27AA. Licensing schemes to which sections 27B to 27G apply |
 | [s-027-b.md](s-027-b.md) | Section 27B. Reference of proposed licensing scheme to Tribunal |
 | [s-027-c.md](s-027-c.md) | Section 27C. Reference of licensing scheme to Tribunal |
 | [s-027-d.md](s-027-d.md) | Section 27D. Further reference of licensing scheme to Tribunal |
-| [s-027-e.md](s-027-e.md) | Section 27E. Application for grant of licence in connection with licensing |
+| [s-027-e.md](s-027-e.md) | Section 27E. Application for grant of licence in connection with licensing scheme |
 | [s-027-f.md](s-027-f.md) | Section 27F. Application for review of order as to entitlement to licence |
 | [s-027-g.md](s-027-g.md) | Section 27G. Effect of order of Tribunal as to licensing scheme |
-| [s-027-h.md](s-027-h.md) | Section 27H. Licences to which sections 27i to 27l apply |
+| [s-027-h.md](s-027-h.md) | Section 27H. Licences to which sections 27I to 27L apply |
 | [s-027-i.md](s-027-i.md) | Section 27I. Reference to Tribunal of terms of proposed licence |
 | [s-027-j.md](s-027-j.md) | Section 27J. Reference to Tribunal of expiring licence |
 | [s-027-k.md](s-027-k.md) | Section 27K. Application for review of order as to licence |
 | [s-027-l.md](s-027-l.md) | Section 27L. Effect of order of Tribunal as to licence |
+| [s-027-m.md](s-027-m.md) | Section 27M. Guidelines |
 | [s-028.md](s-028.md) | Section 28. Establishment and powers of Copyright Tribunal |
 | [s-029.md](s-029.md) | Section 29. Appointment of Chairman and members of Tribunal |
 | [s-030.md](s-030.md) | Section 30. Proceedings before the Tribunal |
@@ -80,6 +81,7 @@ In force: 2012-03-01 (the day the latest amendment the reprint incorporates, Act
 | [s-042.md](s-042.md) | Section 42. Affidavit admissible in evidence |
 | [s-043.md](s-043.md) | Section 43. Penalty |
 | [s-043-a.md](s-043-a.md) | Section 43A. Offences relating to anti-camcording |
+| [s-043-aa.md](s-043-aa.md) | Section 43AA. Offences relating to streaming technology |
 | [s-043-b.md](s-043-b.md) | Section 43B. Interpretation |
 | [s-043-c.md](s-043-c.md) | Section 43C. Transmission, routing and provision of connections |
 | [s-043-d.md](s-043-d.md) | Section 43D. System caching |
@@ -100,8 +102,10 @@ In force: 2012-03-01 (the day the latest amendment the reprint incorporates, Act
 | [s-050-b.md](s-050-b.md) | Section 50B. Power to intercept communications |
 | [s-051.md](s-051.md) | Section 51. Admissibility of statement |
 | [s-051-a.md](s-051-a.md) | Section 51A. Evidence of agent provocateur is admissible |
+| [s-051-b.md](s-051-b.md) | Section 51B. Test purchase |
 | [s-052.md](s-052.md) | Section 52. Disclosure of information |
 | [s-052-a.md](s-052-a.md) | Section 52A. Tipping-off |
+| [s-052-b.md](s-052-b.md) | Section 52B. Power of the Assistant Controller to require provision of information |
 | [s-053.md](s-053.md) | Section 53. Institution of prosecution |
 | [s-054.md](s-054.md) | Section 54. Forfeiture of articles |
 | [s-055.md](s-055.md) | Section 55. Proportional examination of articles seized to be accepted |
@@ -111,5 +115,6 @@ In force: 2012-03-01 (the day the latest amendment the reprint incorporates, Act
 | [s-059.md](s-059.md) | Section 59. Regulations |
 | [s-059-a.md](s-059-a.md) | Section 59A. Extension of application of Act |
 | [s-059-b.md](s-059-b.md) | Section 59B. Power of Minister to exclude from definition of “broadcast” |
+| [s-059-c.md](s-059-c.md) | Section 59C. Dispute relating to royalties |
 | [s-060.md](s-060.md) | Section 60. Savings |
 | [s-061.md](s-061.md) | Section 61. Repeal |
