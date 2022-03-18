@@ -1,0 +1,3 @@
+# Paragraph 7
+
+7. Notwithstanding paragraph 6, a Party shall not be required to provide the specimen signatures of its issuing body to the RCEP Secretariat for dissemination to the other Parties if it has established its own secured website, containing relevant information of the Certificates of Origin it issues, including their Certificate of Origin numbers, HS Codes, descriptions of goods, quantities, dates of issuance, and names of the exporters, that is accessible to the Parties. The Parties shall review the requirement to provide specimen signatures of the issuing bodies three years after the date of entry into force of this Agreement for all signatory States.
