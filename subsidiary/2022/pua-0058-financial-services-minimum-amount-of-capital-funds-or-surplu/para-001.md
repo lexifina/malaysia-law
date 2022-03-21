@@ -1,0 +1,5 @@
+# Paragraph 1. Citation and commencement
+
+1. (1) This order may be cited as the Financial Services (Minimum Amount of Capital Funds or Surplus of Assets over Liabilities) (Licensed Person) (Amendment) Order 2022.
+
+(2) This Order comes into operation on 21 March 2022.
