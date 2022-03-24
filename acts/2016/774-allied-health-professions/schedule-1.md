@@ -12,7 +12,7 @@ Alternate member
 
 2. (1) The Minister may appoint in respect of each member of the Council from the public sector an alternate member who shall be similarly qualified as the member.
 
-(2) An alternate member may attend meetings of the Council in place of the member when the member is for any reason unable to attend. 38 Laws of Malaysia ACT 774
+(2) An alternate member may attend meetings of the Council in place of the member when the member is for any reason unable to attend.
 
 (3) An alternate member attending any meeting of the Council shall be deemed for all purposes to be a member of the Council.
 
@@ -44,7 +44,7 @@ Vacation of office
 
 (h) if he ceases to be a registered practitioner or he is suspended as a registered practitioner.
 
-(2) Where the office of a member of the Council from the private sector or an institution of higher learning becomes vacant before the expiration of his term of office, a person from the same profession shall be appointed by the Minister to fill the vacancy to represent the respective profession and shall hold office for the unexpired portion of the term of office of the member whose office has become vacant. Allied Health Professions 39
+(2) Where the office of a member of the Council from the private sector or an institution of higher learning becomes vacant before the expiration of his term of office, a person from the same profession shall be appointed by the Minister to fill the vacancy to represent the respective profession and shall hold office for the unexpired portion of the term of office of the member whose office has become vacant.
 
 (3) Any period of appointment made under paragraph 1 of this Schedule shall not be taken into consideration in the reckoning of the period of appointment of a member referred to in subparagraph (2).
 
@@ -70,7 +70,7 @@ Council and committee may invite others to meeting
 
 Frequency and venue of meetings
 
-7. (1) The Council and the committee shall hold as many meetings as are necessary for the efficient performance of its functions and such meetings are to be held at such places and times as specified in a written notice issued by the Chairman in respect of the Council or chairman of the committee in respect of the committee, provided that meetings are held at least twice a year. 40 Laws of Malaysia ACT 774
+7. (1) The Council and the committee shall hold as many meetings as are necessary for the efficient performance of its functions and such meetings are to be held at such places and times as specified in a written notice issued by the Chairman in respect of the Council or chairman of the committee in respect of the committee, provided that meetings are held at least twice a year.
 
 (2) The members of the Council may request a meeting of the Council by submitting a requisition notice to the Secretary in accordance with subparagraph (3).
 
@@ -96,9 +96,7 @@ Minutes
 
 (3) Every meeting of the Council and the committee of which minutes have been made in accordance with subparagraphs (1) and (2) shall be deemed to have been duly convened and held and all members at the meeting to have been duly qualified to act.
 
-(4) A committee shall cause copies of the minutes of all its meetings to be submitted to the Council as soon as practicable. Allied Health Professions 41
-
-Procedure
+(4) A committee shall cause copies of the minutes of all its meetings to be submitted to the Council as soon as practicable. Procedure
 
 11. The Council and the committee may regulate its own procedure.
 
@@ -124,4 +122,4 @@ Validity of acts and proceedings
 
 (a) any vacancy in the membership of, or any defect in the constitution of, the Council or a committee; or
 
-(b) any omission, defect or irregularity not affecting the merits of the case. 42 Laws of Malaysia ACT 774
+(b) any omission, defect or irregularity not affecting the merits of the case.

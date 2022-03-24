@@ -30,9 +30,7 @@
 
 14. Dental Technologist
 
-15. Environmental Health Officer
-
-16 Health Education Officer
+15. Environmental Health Officer 16 Health Education Officer
 
 LAWS OF MALAYSIA
 
