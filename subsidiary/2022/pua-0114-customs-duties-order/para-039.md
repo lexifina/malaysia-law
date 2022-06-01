@@ -1,0 +1,3 @@
+# Paragraph 39. SECTION VII PLASTICS AND ARTICLES THEREOF; RUBBER AND ARTICLES THEREOF
+
+39. Plastics and articles thereof
