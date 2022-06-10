@@ -1,0 +1,9 @@
+# Schedule
+
+(Deleted by Act A1367) 195
+
+LAWS OF MALAYSIA
+
+Act 441
+
+LABUAN COMPANIES ACT 1990
