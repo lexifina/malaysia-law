@@ -8,7 +8,7 @@ RATES OF BENEFITS
 
 (a) eighty percent (80%) of the assumed monthly wages for the first month;
 
-(b) fifty percent (50%) of the assumed monthly wages for the second month; Employment Insurance System 73
+(b) fifty percent (50%) of the assumed monthly wages for the second month;
 
 (c) forty percent (40%) of the assumed monthly wages for the third and fourth months;
 
@@ -36,7 +36,7 @@ RATES OF BENEFITS
 
 (a) shall be paid at the rate of twenty-five percent (25%) of the assumed monthly wages calculated on daily basis but shall be subject to a minimum of ten ringgit and a maximum of twenty ringgit per day; and
 
-(b) shall be paid monthly according to the number of training days attended by the insured person. 74 Laws of Malaysia ACT 800
+(b) shall be paid monthly according to the number of training days attended by the insured person.
 
 5. The maximum amount of the training fee shall be four thousand ringgit.
 
@@ -60,9 +60,7 @@ Actual monthly wages of the month Total Corresponding contribution assumed month
 
 3. When wages exceed RM50 but not 30 sen RM60 exceed RM70
 
-4. When wages exceed RM70 but not 40 sen RM85 exceed RM100 Employment Insurance System 75
-
-Actual monthly wages of the month Total Corresponding contribution assumed monthly wages for the month
+4. When wages exceed RM70 but not 40 sen RM85 exceed RM100 Actual monthly wages of the month Total Corresponding contribution assumed monthly wages for the month
 
 5. When wages exceed RM100 but not 50 sen RM120 exceed RM140
 
@@ -106,9 +104,7 @@ RM4.60
 
 RM5.00
 
-17. When wages exceed RM1,200 but RM1,250 not exceed RM1,300 76 Laws of Malaysia ACT 800
-
-Actual monthly wages of the month Total Corresponding contribution assumed monthly wages for the month
+17. When wages exceed RM1,200 but RM1,250 not exceed RM1,300 Actual monthly wages of the month Total Corresponding contribution assumed monthly wages for the month
 
 RM5.40
 
@@ -156,9 +152,7 @@ RM9.40
 
 When wages exceed RM2,400 but RM9.80 RM2,450 29. not exceed RM2,500
 
-When wages exceed RM2,500 but RM10.20 RM2,550 30. not exceed RM2,600 Employment Insurance System 77
-
-Actual monthly wages of the month Total Corresponding contribution assumed monthly wages for the month
+When wages exceed RM2,500 but RM10.20 RM2,550 30. not exceed RM2,600 Actual monthly wages of the month Total Corresponding contribution assumed monthly wages for the month
 
 RM10.60
 
@@ -186,9 +180,7 @@ RM10.60
 
 42. When wages exceed RM3,700 but RM15.00 RM3,750 not exceed RM3,800
 
-43. When wages exceed RM3,800 but RM15.40 RM3,850 not exceed RM3,900 78 Laws of Malaysia ACT 800
-
-Actual monthly wages of the month Total Corresponding contribution assumed monthly wages for the month
+43. When wages exceed RM3,800 but RM15.40 RM3,850 not exceed RM3,900 Actual monthly wages of the month Total Corresponding contribution assumed monthly wages for the month
 
 44. When wages exceed RM3,900 but RM15.80 RM3,950 not exceed RM4,000
 
@@ -212,4 +204,4 @@ Actual monthly wages of the month Total Corresponding contribution assumed month
 
 54. When wages exceed RM4,900 but RM19.80 RM4,950 not exceed RM5,000
 
-55. When wages exceed RM5,000 RM19.80 RM4,950 Employment Insurance System 79
+55. When wages exceed RM5,000 RM19.80 RM4,950

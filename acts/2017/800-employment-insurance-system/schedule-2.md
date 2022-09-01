@@ -24,9 +24,7 @@ Monthly Wages Employer’s Employee’s Total Contribution Contribution
 
 5. When wages exceed RM100 25 sen 25 sen 50 sen but not exceed RM140
 
-6. When wages exceed RM140 35 sen 35 sen 70 sen but not exceed RM200 68 Laws of Malaysia ACT 800
-
-Monthly Wages Employer’s Employee’s Total Contribution Contribution
+6. When wages exceed RM140 35 sen 35 sen 70 sen but not exceed RM200 Monthly Wages Employer’s Employee’s Total Contribution Contribution
 
 7. When wages exceed RM200 50 sen 50 sen RM1.00 but not exceed RM300
 
@@ -68,9 +66,7 @@ RM2.70 RM2.70 RM5.40
 
 18. When wages exceed RM1,300 but not exceed
 
-RM1,400 Employment Insurance System 69
-
-Monthly Wages Employer’s Employee’s Total Contribution Contribution
+RM1,400 Monthly Wages Employer’s Employee’s Total Contribution Contribution
 
 RM2.90 RM2.90 RM5.80
 
@@ -120,9 +116,7 @@ RM4.70 RM4.70 RM9.40
 
 28. When wages exceed RM2,300 but not exceed
 
-RM2,400 70 Laws of Malaysia ACT 800
-
-Monthly Wages Employer’s Employee’s Total Contribution Contribution
+RM2,400 Monthly Wages Employer’s Employee’s Total Contribution Contribution
 
 RM4.90 RM4.90 RM9.80
 
@@ -176,9 +170,7 @@ RM3,300
 
 When wages exceed RM6.70 RM6.70 RM13.40 38. RM3,300 but not exceed
 
-RM3,400 Employment Insurance System 71
-
-Monthly Wages Employer’s Employee’s Total Contribution Contribution
+RM3,400 Monthly Wages Employer’s Employee’s Total Contribution Contribution
 
 RM6.90 RM6.90 RM13.80
 
@@ -224,9 +216,7 @@ RM4,300
 
 48. When wages exceed RM8.70 RM8.70 RM17.40 RM4,300 but not exceed
 
-RM4,400 72 Laws of Malaysia ACT 800
-
-Monthly Wages Employer’s Employee’s Total Contribution Contribution
+RM4,400 Monthly Wages Employer’s Employee’s Total Contribution Contribution
 
 49. When wages exceed RM8.90 RM8.90 RM17.80 RM4,400 but not exceed
 

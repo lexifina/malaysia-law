@@ -18,9 +18,7 @@ Contributions qualifying conditions Period of payment for job search allowance a
 
 (b) Second claim
 
-(i) 18 to 23 months of contributions made in the 3 months eligibility period of 36 consecutive months immediately preceding the loss of 80 Laws of Malaysia ACT 800
-
-Contributions qualifying conditions Period of payment for job search allowance and reduced income allowance
+(i) 18 to 23 months of contributions made in the 3 months eligibility period of 36 consecutive months immediately preceding the loss of Contributions qualifying conditions Period of payment for job search allowance and reduced income allowance
 
 employment which shall include the month in which the loss of employment occurs.
 
@@ -36,9 +34,7 @@ employment which shall include the month in which the loss of employment occurs.
 
 (ii) 32 to 39 months of contributions made in the 4 months eligibility period of 48 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
-(iii) 40 to 47 months of contributions made in the 5 months eligibility period of 48 consecutive months immediately preceding the loss of employment Employment Insurance System 81
-
-Contributions qualifying conditions Period of payment for job search allowance and reduced income allowance
+(iii) 40 to 47 months of contributions made in the 5 months eligibility period of 48 consecutive months immediately preceding the loss of employment Contributions qualifying conditions Period of payment for job search allowance and reduced income allowance
 
 which shall include the month in which the loss of employment occurs.
 
@@ -56,9 +52,7 @@ which shall include the month in which the loss of employment occurs.
 
 (e) Fifth claim
 
-(i) 36 to 47 months of contributions made in the 3 months eligibility period of 72 consecutive months 82 Laws of Malaysia ACT 800
-
-Contributions qualifying conditions Period of payment for job search allowance and reduced income allowance
+(i) 36 to 47 months of contributions made in the 3 months eligibility period of 72 consecutive months Contributions qualifying conditions Period of payment for job search allowance and reduced income allowance
 
 immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
@@ -74,9 +68,7 @@ immediately preceding the loss of employment which shall include the month in wh
 
 (ii) 56 to 69 months of contributions made in the 4 months eligibility period of 84 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
-(iii) 70 to 83 months of contributions made in the 5 months eligibility period of 84 consecutive months Employment Insurance System 83
-
-Contributions qualifying conditions Period of payment for job search allowance and reduced income allowance
+(iii) 70 to 83 months of contributions made in the 5 months eligibility period of 84 consecutive months Contributions qualifying conditions Period of payment for job search allowance and reduced income allowance
 
 immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
@@ -92,9 +84,7 @@ immediately preceding the loss of employment which shall include the month in wh
 
 (iv) 96 months of contributions made in the 6 months eligibility period of 96 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
-(h) Eighth claim 84 Laws of Malaysia ACT 800
-
-Contributions qualifying conditions Period of payment for job search allowance and reduced income allowance
+(h) Eighth claim Contributions qualifying conditions Period of payment for job search allowance and reduced income allowance
 
 (i) 54 to 71 months of contributions made in the 3 months eligibility period of 108 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
@@ -108,9 +98,7 @@ Contributions qualifying conditions Period of payment for job search allowance a
 
 (i) 60 to 79 months of contributions made in the 3 months eligibility period of 120 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
-(ii) 80 to 99 months of contributions made in the 4 months eligibility period of 120 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs. Employment Insurance System 85
-
-Contributions qualifying conditions Period of payment for job search allowance and reduced income allowance
+(ii) 80 to 99 months of contributions made in the 4 months eligibility period of 120 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs. Contributions qualifying conditions Period of payment for job search allowance and reduced income allowance
 
 (iii) 100 to 119 months of contributions made in the 5 months eligibility period of 120 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
@@ -124,9 +112,7 @@ Contributions qualifying conditions Period of payment for job search allowance a
 
 (iii) 110 to 131 months of contributions made in the 5 months eligibility period of 132 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
-(iv) 132 months of contributions made in the 6 months eligibility period of 132 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs. 86 Laws of Malaysia ACT 800
-
-Contributions qualifying conditions Period of payment for job search allowance and reduced income allowance
+(iv) 132 months of contributions made in the 6 months eligibility period of 132 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs. Contributions qualifying conditions Period of payment for job search allowance and reduced income allowance
 
 (k) Eleventh claim
 
@@ -142,9 +128,7 @@ Contributions qualifying conditions Period of payment for job search allowance a
 
 (i) 78 to 103 months of contributions made in the 3 months eligibility period of 156 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
-(ii) 104 to 129 months of contributions made in the 4 months eligibility period of 156 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs. Employment Insurance System 87
-
-Contributions qualifying conditions Period of payment for job search allowance and reduced income allowance
+(ii) 104 to 129 months of contributions made in the 4 months eligibility period of 156 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs. Contributions qualifying conditions Period of payment for job search allowance and reduced income allowance
 
 (iii) 130 to 155 months of contributions made in the 5 months eligibility period of 156 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 

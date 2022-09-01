@@ -30,6 +30,6 @@
 
 (ii) is allowed to reside in Malaysia for a period of twelve months and above; and
 
-(iii) is issued with an identity card as described under paragraph 5(3)(c) of the National Registration Regulations 1990; and Employment Insurance System 67
+(iii) is issued with an identity card as described under paragraph 5(3)(c) of the National Registration Regulations 1990; and
 
 (c) a person who is born in Malaysia but whose citizenship status cannot be determined, and issued with an identity card as described under paragraph 5(3)(c) of the National Registration Regulations 1990.
