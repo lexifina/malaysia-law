@@ -1,0 +1,3 @@
+# Paragraph 8
+
+8. With respect to a Preexisting Account held by an individual who is not a resident of Malaysia or by an Entity, the Financial Institution must review those Preexisting Accounts in accordance with the procedures set forth in Annex I applicable to Preexisting Accounts to identify any U.S. Reportable Account or Financial Account held by a Non-Participating Financial Institution, and must report such Financial Account as would be required if the Financial Institution were a Reporting Malaysian Financial Institution (including by following the applicable registration requirements on the IRS FATCA registration website) or close such Financial Account;

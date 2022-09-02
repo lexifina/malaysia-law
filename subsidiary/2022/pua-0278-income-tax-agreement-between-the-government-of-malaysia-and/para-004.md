@@ -1,0 +1,3 @@
+# Paragraph 4
+
+4. Notwithstanding paragraph 3 of this Article, with respect to each U.S. Reportable Account maintained by a Reporting Malaysian Financial Institution as of June 30, 2014, and subject to paragraph 2 of Article 6 of this Agreement, Malaysia is not required to obtain and include in the exchanged information the U.S. TIN of any relevant person if such U.S. TIN is not in the records of the Reporting Malaysian Financial Institution. In such a case, Malaysia shall obtain and include in the exchanged information the date of birth of the relevant person, if the Reporting Malaysian Financial Institution has such date of birth in its records.
