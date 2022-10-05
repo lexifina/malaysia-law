@@ -59,9 +59,21 @@ Disqualification for membership of Legislative Assembly
 other court proceeding is disposed of by the court; or
 (c) if within the period specified in paragraph (a) or the period after the disposal of the appeal or other court proceeding specified in paragraph (b) there is filed a petition for a pardon, such disqualification shall take effect immediately upon the petition being disposed of.
 (4) Subsection (3) shall not apply for the purpose of nomination or election of any person to the Legislative Assembly, for which purpose the disqualification shall take effect immediately upon the occurrence of the event referred to in paragraph (e) or (f), as the case may be, of subsection (1).
-(5) A person who resigns his membership of the Legislative Assembly of this State or any other State, shall, for a period of five years beginning with the date on which his resignation takes effect, be disqualified from being a member of the Legislative Assembly of this State.
+(5) (Repealed).
 Provision against double membership
 7. A person shall not at the same time be a member of the Legislative Assembly for more than one constituency.
+Change of a member's political party, etc.
+7A. (1) Subject to the provisions of this section, a member of the Legislative Assembly shall cease to be a member of that Legislative Assembly and his seat shall become vacant immediately on a date a casual vacancy is established by the Speaker under subsection (3) if—
+(a) having been elected to the Legislative Assembly as a member of a political party—
+(i) he resigns as a member of the political party; or
+(ii) he ceases to be a member of the political party; or
+(b) having been elected to the Legislative Assembly otherwise than as a member of a political party, he joins a political party as a member.
+(2) A member of the Legislative Assembly shall not cease to be a member of that Legislative Assembly pursuant to this section only by reason of—
+(a) the dissolution or cancellation of the registration of his political party;
+(b) his resignation from the membership of his political party upon election as a Speaker; or
+(c) the expulsion of his membership of his political party.
+(3) Whenever the Speaker receives a written notice from any member of the Legislative Assembly on the occurrence of a casual vacancy among the members of the Legislative Assembly under this section, the Speaker shall establish that there is such a casual vacancy and notify the Election Commission accordingly within twenty-one days from the date he received the written notice.
+(4) For the purposes of holding an election under subsection (5) of section 9, such casual vacancy shall be filled within sixty days from the date the Election Commission receives the notification from the Speaker.
 Decision as to disqualification
 8. (1) If any question arises whether a member of the Legislative Assembly has become disqualified for membership, the decision of the Assembly shall be taken and shall be final:
 Provided that this section shall not be taken to prevent the practice of the Assembly postponing a decision in order to allow for the taking or determination of any proceedings that may affect the decision (including proceedings for the removal of the disqualification).
@@ -86,8 +98,7 @@ Provided that paragraph (b) shall not have effect for the purposes of the provis
 (c) upon being disqualified under subsection (4); or
 (d) if the Assembly at any time so resolves.
 (3) During any absence of the Speaker from a sitting of the Legislative Assembly such member as may be determined by the rules of procedure of the Assembly shall act as Speaker.
-(4) A member who is elected to be the Speaker shall be disqualified from holding such office if after three months of his election to such office or at any time thereafter he is or becomes a member of any board of directors or board of management, or an officer or employee, or engages in the affairs or business, of any organization or body, whether corporate or otherwise, or of any commercial, industrial or other undertaking, whether or not he receives any remuneration, reward, profit or benefit from it:
-Provided that such disqualification shall not apply where such organization or body carries out any welfare or voluntary work or objective beneficial to the community or any part thereof, or any other work or objective of a charitable or social nature, and the member does not receive any remuneration, reward, profit or benefit from it.
+(4) A member who is elected to be the Speaker shall be disqualified from holding such office if after three months of his election to such office or at any time thereafter he is or becomes a member of any board of directors or board of management, or an officer or employee, or engages in the affairs or business, of any organization or body, whether corporate or otherwise, or of any commercial, industrial or other undertaking, whether or not he receives any remuneration, reward, profit or benefit from it: Provided that such disqualification shall not apply where such organization or body carries out any welfare or voluntary work or objective beneficial to the community or any part thereof, or any other work or objective of a charitable or social nature, and the member does not receive any remuneration, reward, profit or benefit from it.
 (5) Where any question arises regarding the disqualification of the Speaker under subsection (4) the decision of the Legislative Assembly shall be taken and shall be final.
 Exercise of legislative power
 11. (1) The power of the Legislature to make laws shall be exercised by Bills passed by the Legislative Assembly and assented to by the Ruler.
@@ -162,8 +173,7 @@ Qualifications and disabilities of Yang di-Pertua Negeri
 Civil List of Yang di-Pertua Negeri
 19C. The Legislature shall by law provide a Civil List of the Yang di-Pertua Negeri, which shall be charged on the Consolidated Fund and shall not be diminished during his continuance in office.
 Oath of office of Yang di-Pertua Negeri
-19D. (1) The Yang di-Pertua Negeri shall before exercising his functions take and subscribe in the presence of the Chief Judge or of a judge of the High Court, an oath or affirmation in the following form, that is to say:
-"I,.............................................................................................................. having been appointed Yang di-Pertua Negeri of the State of.............................. do solemnly swear (or affirm) that I will faithfully discharge my duties as such to the best of my ability, that I will bear true faith and allegiance to the State of.......................................................................................................... and to the Federation of Malaysia, and that I will preserve, protect and defend the Constitution of the Federation of Malaysia and the Constitution of the State of........................................................".
+19D. (1) The Yang di-Pertua Negeri shall before exercising his functions take and subscribe in the presence of the Chief Judge or of a judge of the High Court, an oath or affirmation in the following form, that is to say: "I,.............................................................................................................. having been appointed Yang di-Pertua Negeri of the State of.............................. do solemnly swear (or affirm) that I will faithfully discharge my duties as such to the best of my ability, that I will bear true faith and allegiance to the State of.......................................................................................................... and to the Federation of Malaysia, and that I will preserve, protect and defend the Constitution of the Federation of Malaysia and the Constitution of the State of........................................................".
 (2) Any law made under subsection (3) of section 19A shall make provision corresponding (with necessary modifications) to subsection (1).
 PART II
 TEMPORARY PROVISIONS ALTERNATIVE TO
