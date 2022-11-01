@@ -1,8 +1,8 @@
 # Tabung Angkatan Tentera Act 1973 [Act 101]
 
-Tabung Angkatan Tentera Act 1973 (Akta Tabung Angkatan Tentera 1973), Laws of Malaysia Act 101, the reprint (Commissioner of Law Revision) as at 2018-11-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2249728_BI/Act%20101%20BI%20(REPRINT%202018).pdf
+Tabung Angkatan Tentera Act 1973 (Akta Tabung Angkatan Tentera 1973), Laws of Malaysia Act 101, the reprint (Commissioner of Law Revision) as at 2022-11-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1747884_BI/Final%20Act%20101%20(1.11.2022)%20(Online).docx.pdf
 
-In force: 2018-11-01 (the day the reprint states its text is "As at").
+In force: 2022-11-01 (the day the latest amendment the reprint incorporates, Act A1668, came into operation, as page 2 of the reprint states).
 
 | File | Provision |
 | --- | --- |
@@ -11,12 +11,12 @@ In force: 2018-11-01 (the day the reprint states its text is "As at").
 | [s-003.md](s-003.md) | Section 3. The Tabung and its objects |
 | [s-003-a.md](s-003-a.md) | Section 3A. (Deleted) |
 | [s-004.md](s-004.md) | Section 4. Establishment and incorporation of Lembaga Tabung |
-| [s-005.md](s-005.md) | Section 5. Functions of the Lembaga and establishment of committees by the |
+| [s-005.md](s-005.md) | Section 5. Functions of the Lembaga and establishment of committees by the Lembaga |
 | [s-006.md](s-006.md) | Section 6. Establishment of an Investment Panel |
 | [s-007.md](s-007.md) | Section 7. Power of Minister in relation to the Lembaga |
-| [s-008.md](s-008.md) | Section 8. Liability of members |
-| [s-009.md](s-009.md) | Section 9. Compulsory contributions of servicemen to the Tabung |
-| [s-009-a.md](s-009-a.md) | Section 9A. Compulsory contributions of officers to the Tabung |
+| [s-008.md](s-008.md) | Section 8. Duties and responsibilities of members, etc. |
+| [s-009.md](s-009.md) | Section 9. Contribution of servicemen |
+| [s-009-a.md](s-009-a.md) | Section 9A. Contribution of officers |
 | [s-010.md](s-010.md) | Section 10. Voluntary contributions to the Tabung |
 | [s-011.md](s-011.md) | Section 11. Declaration of profit |
 | [s-012.md](s-012.md) | Section 12. Withdrawals |
@@ -31,10 +31,15 @@ In force: 2018-11-01 (the day the reprint states its text is "As at").
 | [s-016.md](s-016.md) | Section 16. Annual estimates |
 | [s-017.md](s-017.md) | Section 17. Accounts and audit |
 | [s-018.md](s-018.md) | Section 18. Annual report |
-| [s-019.md](s-019.md) | Section 19. Appointment of Chief Executive, Deputy Chief Executive and officers |
+| [s-019.md](s-019.md) | Section 19. Appointment of Chief Executive, Deputy Chief Executive and officers and |
 | [s-020.md](s-020.md) | Section 20. Members, officers and servants to be deemed public servants |
 | [s-021.md](s-021.md) | Section 21. Application of Public Authorities Protection Act 1948 |
 | [s-022.md](s-022.md) | Section 22. Power of Lembaga to make regulations |
 | [s-022-a.md](s-022-a.md) | Section 22A. Power of Lembaga to make regulations relating to conduct and discipline |
 | [s-022-b.md](s-022-b.md) | Section 22B. Surcharge |
 | [s-023.md](s-023.md) | Section 23. Lembaga may establish corporation |
+| [s-024.md](s-024.md) | Section 24. Lembaga may incorporate company |
+| [s-025.md](s-025.md) | Section 25. Provision for advancement from Federal Consolidated Fund |
+| [schedule-1.md](schedule-1.md) | First Schedule |
+| [schedule-2.md](schedule-2.md) | Second Schedule |
+| [schedule-3.md](schedule-3.md) | Third Schedule |
