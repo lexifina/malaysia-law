@@ -1,0 +1,13 @@
+# Second Schedule
+
+MAP 1: SECTION 24.0–SECTION 24.5
+
+8
+
+MAP 2: SECTION 25.0–SECTION 25.5
+
+Made 14 November 2022 [KKR.100-1/2/79 Jld.4; PN(PU2)460/Jld. 120]
+
+DATO’ SRI HAJI FADILLAH BIN HAJI YUSOF Senior Minister of Works
+
+9
