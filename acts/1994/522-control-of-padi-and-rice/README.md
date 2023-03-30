@@ -1,14 +1,14 @@
 # Control of Padi and Rice Act 1994 [Act 522]
 
-Control of Padi and Rice Act 1994 (Akta Kawalan Padi Dan Beras 1994), Laws of Malaysia Act 522, the reprint (Commissioner of Law Revision) as at 2020-07-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1674611_BI/Act%20522%20(Reprint%202020).pdf
+Control of Padi and Rice Act 1994 (Akta Kawalan Padi Dan Beras 1994), Laws of Malaysia Act 522, the reprint (Commissioner of Law Revision) as at 2025-09-15, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1960836_BI/WJW24%EF%80%A20825%20Act%20522%20(Reprint%202025).pdf
 
-In force: 2020-07-01 (the day the reprint states its text is "As at").
+In force: 2023-03-30 (the day the latest amendment the reprint incorporates, Act A1659, came into operation, as page 2 of the reprint states).
 
 | File | Provision |
 | --- | --- |
 | [s-001.md](s-001.md) | Section 1. Short title, application and commencement |
 | [s-002.md](s-002.md) | Section 2. Interpretation |
-| [s-003.md](s-003.md) | Section 3. Appointment of Director General |
+| [s-003.md](s-003.md) | Section 3. Appointment of Director General and Deputy Director General |
 | [s-004.md](s-004.md) | Section 4. Duties and functions of Director General |
 | [s-005.md](s-005.md) | Section 5. Power of the Minister to give directions |
 | [s-006.md](s-006.md) | Section 6. Authorization of officer to exercise powers under this Part |
@@ -34,6 +34,7 @@ In force: 2020-07-01 (the day the reprint states its text is "As at").
 | [s-026.md](s-026.md) | Section 26. Effect of forfeiture |
 | [s-027.md](s-027.md) | Section 27. Jurisdiction of Court |
 | [s-028.md](s-028.md) | Section 28. Protection of authorized person |
+| [s-028-a.md](s-028-a.md) | Section 28A. Compounding of offences |
 | [s-029.md](s-029.md) | Section 29. Power to make regulations |
 | [s-030.md](s-030.md) | Section 30. Secrecy and penalty |
 | [s-031.md](s-031.md) | Section 31. Non-application of certain laws to padi and rice |
