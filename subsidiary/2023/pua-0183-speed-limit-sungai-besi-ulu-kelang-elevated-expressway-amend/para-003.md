@@ -1,0 +1,33 @@
+# Paragraph 3. Amendment of Second Schedule
+
+3. The Second Schedule to the pricipal Order is amended by inserting after
+
+MAP 13 - BUKIT ANTARABANGSA INTERCHANGE the following maps:
+
+13
+
+“MAP 14 - MAIN ROUTE SUNGAI BESI-ULU KELANG EXPRESSWAY
+
+(ULU KELANG BOUND)
+
+14
+
+MAP 15 - MAIN ROUTE SUNGAI BESI-ULU KELANG EXPRESSWAY
+
+(SUNGAI BESI BOUND)
+
+15
+
+MAP 16 - SRI PETALING INTERCHANGE
+
+16
+
+MAP 17 - SUNGAI BESI INTERCHANGE
+
+”.
+
+Made 13 June 2023 [KKR.100-1/2/24; PN(PU2)460/Jld. 125]
+
+DATO SRI ALEXANDER NANTA LINGGI Minister of Works
+
+17
