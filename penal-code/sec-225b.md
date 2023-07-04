@@ -1,0 +1,2 @@
+# Section 225B. Offences against laws of Malaysia where no special punishment is provided
+225B. Whoever does anything which by any law in force in Malaysia he is prohibited from doing, or omits to do anything which he is so enjoined to do, shall, when no special punishment is provided by the law for such commission or omission, be punished with imprisonment for a term which may extend to twelve months or with fine which may extend to two thousand ringgit or, with both.

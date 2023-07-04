@@ -1,0 +1,3 @@
+# Section 372A. Persons living on or trading in prostitution
+372A. (1) Whoever knowingly lives wholly or in part on the earnings of the prostitution of another person shall be punished with imprisonment for a term which may extend to fifteen years and with whipping, and shall also be liable to fine.
+(2) Where any person is proved to have exercised control, direction or influence over the movements of a prostitute in such a manner as to show that that person is aiding, abetting or compelling the prostitution of the prostitute with any other person or generally that person shall, in the absence of any proof to the contrary, be deemed to be knowingly living on the earnings of prostitution.

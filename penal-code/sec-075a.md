@@ -1,0 +1,2 @@
+# Section 75A. Punishment of mandatory imprisonment for persons convicted of multiple serious offences
+75A. Whoever, having been convicted at least two times of a serious offence and was punished with at least two years of imprisonment for each of those convictions, shall be punished with mandatory imprisonment for the third and subsequent offences and the term of imprisonment shall not be less than double the term of the longer term of imprisonment imposed for the previous convictions.

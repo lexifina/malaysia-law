@@ -1,0 +1,4 @@
+# Section 120B. Punishment of criminal conspiracy
+120B. (1) Whoever is a party to a criminal conspiracy to commit an offence punishable with death, imprisonment for a term of two years or upwards shall, where no express provision is made in this Code for the punishment of such a conspiracy, be punished in the same manner as if he had abetted such offence.
+(2) Subject to subsection (3), whoever is a party to a criminal conspiracy other than a criminal conspiracy to commit an offence punishable as aforesaid shall be punished with imprisonment for a term not exceeding six months or with fine or with both.
+(3) If the offence, the commission of which is the object of the conspiracy, is a minor offence under the Minor Offences Act 1955 [Act 336] the punishment for such conspiracy shall not exceed the maximum punishment provided for such minor offence.

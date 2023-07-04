@@ -1,0 +1,2 @@
+# Section 382A. Persons convicted of an offence against section 379, 380 or 382 committing subsequent offence against such sections
+382A. Whoever, having been convicted of an offence under section 379, 380 or 382 subsequently commits an offence under any other of the said three sections, shall be deemed to have committed a second offence under the section under which he has been subsequently convicted.

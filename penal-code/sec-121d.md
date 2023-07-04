@@ -1,0 +1,2 @@
+# Section 121D. Intentional omission to give information of offences against section 121, 121A, 121B or 121C by a person bound to inform
+121D. Whoever knowing or having reason to believe that any offence punishable under section 121, 121A, 121B or 121C has been committed intentionally omits to give any information respecting that offence, which he is legally bound to give, shall be punished with imprisonment for a term which may extend to seven years or with fine or with both.

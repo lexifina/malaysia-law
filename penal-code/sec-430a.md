@@ -1,0 +1,2 @@
+# Section 430A. Mischief affecting any public transportation
+430A. Whoever commits mischief by doing any act with intent or with the knowledge that such act is likely to obstruct, upset, overthrow, injure or destroy any railway engine, train, tender, carriage, truck or any form of public transportation, shall be punished with imprisonment for a term which may extend to twenty years, and shall also be liable to fine or to whipping.

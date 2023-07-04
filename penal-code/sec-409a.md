@@ -1,0 +1,3 @@
+# Section 409A. Defence not available
+409A. It is no defence for any offence prescribed in sections 403, 404, 405, 406, 407, 408 and 409 to show that the property was openly appropriated or that the appropriation was duly recorded and entered in the books and accounts of any company or association or body of person whether incorporated or not.
+Explanation—The property of a company shall be regarded as belonging to the company notwithstanding that the directors of the said company are, either singly or jointly, entitled to the entire beneficial interest, of the shareholding in the said company.

@@ -1,0 +1,4 @@
+# Section 489A. Forging or counterfeiting currency notes or bank notes
+489A. Whoever forges or counterfeits, or knowingly performs any part of the process of forging or counterfeiting, any currency note or bank note shall be punished with imprisonment for a term which may extend to twenty years, and shall also be liable to fine.
+Explanation 1—For the purposes of this section and of sections 489B, 489C and 489D, the expression "bank note" means a promissory note or engagement for the payment of money to bearer on demand issued by any person carrying on the business of banking in any part of the world, or issued by or under the authority of any State or Sovereign Power, and intended to be used as equivalent to, or as a substitute for, money.
+Explanation 2—For the purpose of this section and of sections 489B, 489C and 489D the expression "currency note" includes any note (by whatever name called) which is legal tender in the country in which it is issued.

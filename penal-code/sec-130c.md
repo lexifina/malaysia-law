@@ -1,0 +1,5 @@
+# Section 130C. Committing terrorist acts
+130C. (1) Whoever, by any means, directly or indirectly, commits a terrorist act shall be punished—
+(a) if the act results in death, with death or imprisonment for a term of not less than thirty years but not exceeding forty years and if not sentenced to death, shall also be punished with whipping of not less than twelve strokes; and
+(b) in any other case, with imprisonment for a term of not less than seven years but not exceeding thirty years, and shall also be liable to fine.
+(2) Where in any criminal proceeding it is necessary to decide whether any item or substance is a weapon, a hazardous, radioactive or harmful substance, a toxic chemical or a microbial or other biological agent or toxin, a certificate purporting to be signed by an appropriate authority to the effect that the item or substance described in the certificate is a weapon, a hazardous, radioactive or harmful substance, a toxic chemical or a microbial or other biological agent or toxin shall be sufficient evidence of the facts stated in it.

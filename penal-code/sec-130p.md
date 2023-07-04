@@ -1,0 +1,2 @@
+# Section 130P. Arranging for retention or control of terrorist property
+130P. Whoever knowingly enters into an arrangement that facilitates the acquisition, retention or control by or on behalf of another person of terrorist property by concealment, by a removal out of jurisdiction, by transfer to a nominee or in any other way shall be punished with imprisonment for a term which may extend to thirty years, and shall also be liable to fine and to forfeiture of any property so acquired, retained or controlled.

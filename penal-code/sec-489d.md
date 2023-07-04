@@ -1,0 +1,2 @@
+# Section 489D. Making or possessing instruments or materials for forging or counterfeiting currency notes or bank notes
+489D. Whoever makes or performs any part of the process of making, or buys or sells or disposes of, or has in his possession, any machinery, instrument or material for the purpose of being used, or knowing or having reason to believe that it is intended to be used, for forging or counterfeiting any currency note or bank note, shall be punished with imprisonment for a term which may extend to twenty years, and shall also be liable to fine.

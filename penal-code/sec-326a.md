@@ -1,0 +1,3 @@
+# Section 326A. Punishment for causing hurt to spouse, former spouse, etc.
+326A. (1) Whoever causes hurt to his spouse or former spouse, a child, an incapacitated adult or other member of the family and commits an offence under section 323, 324, 325, 326, 334 or 335 shall be punished with imprisonment for a term which may extend to twice of the maximum term for which he would have been liable on conviction for that offence under the relevant section notwithstanding any other punishment provided for that offence.
+(2) For the purpose of this section, "spouse", "child", "incapacitated adult" and "other member of the family" have the meanings assigned to them in section 2 of the Domestic Violence Act 1994 [Act 521].

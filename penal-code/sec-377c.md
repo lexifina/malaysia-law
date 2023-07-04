@@ -1,0 +1,2 @@
+# Section 377C. Committing carnal intercourse against the order of nature without consent, etc.
+377C. Whoever voluntarily commits carnal intercourse against the order of nature on another person without the consent, or against the will, of the other person, or by putting the other person in fear of death or hurt to the person or any other person, shall be punished with imprisonment for a term of not less than five years and not more than twenty years, and shall also be punished with whipping.

@@ -1,0 +1,2 @@
+# Section 125A. Harbouring or attempting to harbour any person in Malaysia or person residing in a foreign State at war or in hostility against the Yang di-Pertuan Agong
+125A. Whoever by any act, harbours or attempts to harbour, either in Malaysia or in the territories of any power at war with, or otherwise in actual hostility against, the Yang di-Pertuan Agong, or elsewhere, the enemies of the Yang di-Pertuan Agong, shall be punished with imprisonment for a term not exceeding forty years, to which fine may be added, or with fine.

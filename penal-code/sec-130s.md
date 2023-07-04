@@ -1,0 +1,2 @@
+# Section 130S. Intentional omission to give information relating to terrorism financing offence
+130S. Whoever knowing or having reason to believe that any offence punishable under section 130N, 130O, 130P or 130Q has been or will be committed intentionally omits to give any information respecting that offence, which he is legally bound to give, shall be punished with imprisonment for a term which may extend to seven years or with fine or with both.

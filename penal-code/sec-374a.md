@@ -1,0 +1,4 @@
+# Section 374A. Hostage-taking
+374A. Whoever seizes or detains and threatens to kill, to injure or to continue to detain another person ("the hostage") to compel the Government of Malaysia or the Government of any State in Malaysia, any other government, or any international organization or any other person or group of persons to do or refrain from doing any act as an explicit or implicit condition for the release of the hostage shall be punished—
+(a) if the act results in death, with death or imprisonment for a term of not less than thirty years but not exceeding forty years and if not sentenced to death, shall also be punished with whipping of not less than twelve strokes; and
+(b) in any other case, with imprisonment for a term of not less than seven years but not exceeding thirty years, and shall also be liable to fine.

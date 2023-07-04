@@ -1,0 +1,3 @@
+# Section 203A. Disclosure of information
+203A. (1) Whoever discloses any information or matter which has been obtained by him in the performance of his duties or the exercise of his functions under any written law shall be punished with fine of not more than one million ringgit, or with imprisonment for a term which may extend to one year, or with both.
+(2) Whoever has any information or matter which to his knowledge has been disclosed in contravention of subsection (1) who discloses that information or matter to any other person shall be punished with fine of not more than one million ringgit, or with imprisonment for a term which may extend to one year, or with both.

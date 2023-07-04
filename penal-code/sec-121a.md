@@ -1,0 +1,2 @@
+# Section 121A. Offences against the person of the Yang di-Pertuan Agong, Ruler or Yang di-Pertua Negeri
+121A. Whoever compasses, imagines, invents, devises or intends the death of or hurt to or imprisonment or restraint of the Yang di-Pertuan Agong or any of the Rulers or Yang di-Pertua Negeri, their heirs or successors, shall be punished with death or imprisonment for a term of not less than thirty years but not exceeding forty years and if not sentenced to death, shall also be punished with whipping of not less than twelve strokes.

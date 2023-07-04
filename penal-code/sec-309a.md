@@ -1,0 +1,2 @@
+# Section 309A. Infanticide
+309A. When any woman by any wilful act or omission causes the death of her newly-born child, but at the time of the act or omission she had not fully recovered from the effect of giving birth to such child, and by reason thereof the balance of her mind was then disturbed, she shall, notwithstanding that the circumstances were such that but for this section the offence would have amounted to murder, be guilty of the offence of infanticide.
