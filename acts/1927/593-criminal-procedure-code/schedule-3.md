@@ -1,0 +1,9 @@
+# Third Schedule
+
+[Section 352A]
+
+MODIFICATION OF CHAPTER XXXIII FOR
+
+SABAH AND SARAWAK
+
+(Deleted by Act A1132).
