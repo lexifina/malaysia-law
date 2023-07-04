@@ -410,7 +410,7 @@ CHARGES
 
 (1)—CHARGES WITH ONE HEAD
 
-Penal Code: On section 121
+Penal Code:
 
 1. That you, on or about the day of , at , waged war against the Yang di-Pertuan Agong and thereby committed an offence punishable under section 121 of the Penal Code.
 
@@ -440,7 +440,7 @@ On section 306
 
 On section 325
 
-8. That you, on or about the day of , at , voluntarily caused grievous hurt to , and thereby committed an offence punishable under section 325 of the Penal Code. On section 392
+8. That you, on or about the day of , at , voluntarily caused grievous hurt to , and thereby committed an offence punishable under section 325 of the Penal Code.
 
 9. That you, on or about the day of , at , robbed and thereby committed an offence punishable under section 392 of the Penal Code.
 
@@ -553,8 +553,6 @@ You are hereby summoned to appear before the Magistrate’s Court at on the day 
 Given under my hand and the seal of the Court, this day of 20 .
 
 (Seal) Magistrate
-
-FORM 32
 
 SUMMONS TO ASSESSORS OR JURORS
 
