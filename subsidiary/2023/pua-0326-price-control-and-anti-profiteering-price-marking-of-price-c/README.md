@@ -1,0 +1,12 @@
+# Price Control and Anti-Profiteering (Price Marking of Price-Controlled Goods) (No. 5) Order 2023 [P.U. (A) 326/2023]
+
+Price Control and Anti-Profiteering (Price Marking of Price-Controlled Goods) (No. 5) Order 2023 (Perintah Kawalan Harga Dan Antipencatutan (Penandaan Harga Barangan Harga Terkawal) (No. 5) 2023), P.U. (A) 326/2023, as published in the Federal Government Gazette on 2023-10-31, made under ACT 723 - PRICE CONTROL AND ANTI-PROFITEERING ACT 2011; English text from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/1880177/PUA326_2023.pdf
+
+In force: 2023-11-01 (the day the instrument itself names for its coming into operation).
+
+| File | Provision |
+| --- | --- |
+| [preamble.md](preamble.md) | Enacting words |
+| [para-001.md](para-001.md) | Paragraph 1. Citation and commencement |
+| [para-002.md](para-002.md) | Paragraph 2. Price marking |
+| [para-003.md](para-003.md) | Paragraph 3. Revocation |
