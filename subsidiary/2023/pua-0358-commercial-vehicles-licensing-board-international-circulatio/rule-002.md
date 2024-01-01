@@ -1,0 +1,3 @@
+# Rule 2. Application
+
+2. These Rules shall apply to Malaysian goods vehicles and ASEAN member country goods vehicles the types of which are as specified in the First Schedule.

@@ -1,0 +1,9 @@
+# Rule 11. Altering, etc., permit or permit sticker
+
+11. No person shall—
+
+(a) alter, forge, mutilate, deface or destroy any permit or permit sticker;
+
+(b) use any permit or permit sticker which to his knowledge has been so altered, forged, mutilated, defaced, destroyed or expired for whatever purpose; or
+
+(c) display any permit sticker which to his knowledge has been so altered, forged, mutilated, defaced or expired.

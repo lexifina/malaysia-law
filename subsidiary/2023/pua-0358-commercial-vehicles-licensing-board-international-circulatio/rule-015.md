@@ -1,0 +1,49 @@
+# Rule 15. Cross-border movement of ASEAN member country goods vehicle
+
+15. (1) A person driving an ASEAN member country goods vehicle arriving in Malaysia at any entry or exit point from an ASEAN member country shall ensure—
+
+(a) in respect of the ASEAN member country goods vehicle—
+
+(i) that there is in possession a valid permit;
+
+(ii) that a valid permit sticker is displayed in an unobstructed position on the windscreen of the ASEAN member country goods vehicle at all times when the ASEAN member country goods vehicle is carrying out cross-border movement;
+
+(iii) that an internationally distinguishing mark as specified in the Fifth Schedule representing the respective ASEAN member country where the ASEAN member country goods vehicle is registered, is displayed at the rear of the ASEAN member country goods vehicle at all times when the ASEAN member country goods vehicle is carrying out cross-border movement;
+
+(iv) that the same registration number of the ASEAN member country goods vehicle as stated in the permit is displayed on the ASEAN member country goods vehicle and that the displayed registration number shall comply with the provisions under Road Transport Act 1987 [Act 333] in respect of size, form, letter and number;
+
+(v) that there is a documentary proof of the registration of the ASEAN member country goods vehicle issued by
+
+41 the relevant authority of the ASEAN member country where it is registered;
+
+(vi) that there is a valid certificate of third party liability insurance;
+
+(vii) that there is a valid vehicle inspection certificate issued under the law of the respective ASEAN member country; and
+
+(viii) that there is documentation relating to the information on the carriage of goods by the ASEAN member country goods vehicle including the details of the location of delivery or collection of goods;
+
+(b) that he holds a valid driving licence authorizing him to drive the ASEAN member country goods vehicle issued by the relevant authority of the ASEAN member country;
+
+(c) that he does not use or cause or permit the use of the ASEAN member country goods vehicle for the carriage of goods loaded in Malaysia for unloading in another places within Malaysia, or for any unlawful purpose or in an unlawful manner;
+
+(d) that the ASEAN member country goods vehicle uses only the routes as specified in the Fourth Schedule;
+
+(e) that the ASEAN member country goods vehicle remains in Malaysia for a period not exceeding twenty-four hours from the time of arrival at any entry or exit point for the purpose of carriage of goods in transit;
+
+(f) that the ASEAN member country goods vehicle remains in Malaysia for a period not exceeding five days from the time of
+
+42 arrival at any entry or exit point for the purpose of carriage of goods to or from Malaysia; and
+
+(g) that the permit and any other documents referred to in subparagraphs (1)(a)(v), (vi), (vii) and (viii) and paragraph (1)(b) be kept and produced for inspection on demand by a police officer, a road transport officer or a Board Officer.
+
+(2) Notwithstanding paragraphs (1)(d), (e) and (f), the Board may, if the Board is satisfied on the ground of the urgency of the matter it thinks it is desirable to do so, allow the ASEAN member country goods vehicle to use other routes other than the routes specified in the Fourth Schedule or remain in Malaysia exceeding the period as specified subject to such conditions as it thinks fit.
+
+(3) If the permit or any other documents required under this Part is in a language other than English, the permit holder shall make available translation in writing in English language of the permit and documents and such translation shall be endorsed by the relevant authority of the ASEAN member country.
+
+(4) For the purposes of subparagraph (1)(a)(iv)—
+
+(a) the registration number of an ASEAN member country goods vehicle shall be the index mark and registration number assigned to the ASEAN member country goods vehicle in the ASEAN member country where it is registered; and
+
+(b) where it is not convenient for the registration number displayed on the ASEAN member country goods vehicle to comply with the provisions of the Road Transport Act 1987, it is sufficient for the registration number to be in compliance with the law of the ASEAN member country where it is registered in respect of its size and form, but the letter and number used in the registration number shall be in Roman characters and Arabic numerals.
+
+43

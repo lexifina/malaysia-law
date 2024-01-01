@@ -1,0 +1,3 @@
+# Rule 4. Cross-border movement of Malaysian goods vehicle
+
+4. No person shall use or cause or permit the use of any Malaysian goods vehicle for the purpose of cross-border movement unless a permit is issued in respect of the Malaysian goods vehicle under rule 5.
