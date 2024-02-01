@@ -6,11 +6,11 @@ Times and places of meetings
 
 1. (1) The Commission is to hold as many meetings as are necessary for the efficient performance of its functions and such meetings are to be held at such places and times as the Chairman may decide, provided that the Chairman shall not allow more than two months to lapse between meetings.
 
-(2) The Chairman shall call for a meeting if requested to do so in writing by the Minister or by at least four members of the Commission. Quorum
+(2) The Chairman shall call for a meeting if requested to do so in writing by the Minister or by at least four members of the Commission.
 
-2. The Chairman and four other members of the Commission shall form a quorum at any meeting of the Commission.
+Quorum
 
-Casting vote
+2. The Chairman and four other members of the Commission shall form a quorum at any meeting of the Commission. Casting vote
 
 3. If on any question to be determined by the Commission there is an equality of votes, the Chairman shall have a casting vote in addition to his deliberative vote.
 
@@ -56,7 +56,7 @@ Validity of acts and proceedings
 
 Members to devote time to business of the Commission
 
-9. The members of the Commission shall devote such time to the business of the Commission as is necessary to discharge their duties effectively.
+9. The members of the Commission shall devote such time to the business of the Commission as is necessary to discharge their duties effectively. 33
 
 LAWS OF MALAYSIA
 

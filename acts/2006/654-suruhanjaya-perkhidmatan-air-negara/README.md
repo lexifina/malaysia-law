@@ -1,8 +1,8 @@
 # Suruhanjaya Perkhidmatan Air Negara Act 2006 [Act 654]
 
-Suruhanjaya Perkhidmatan Air Negara Act 2006 (Akta Suruhanjaya Perkhidmatan Air Negara 2006), Laws of Malaysia Act 654, the reprint (Commissioner of Law Revision) incorporating all amendments up to 2006-08-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/15774_BI/Act%20654%20Reprint%202006.pdf
+Suruhanjaya Perkhidmatan Air Negara Act 2006 (Akta Suruhanjaya Perkhidmatan Air Negara 2006), Laws of Malaysia Act 654, the reprint (Commissioner of Law Revision) as at 2024-02-01, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2367737_BI/Act%20654%20(Online%202025).pdf
 
-In force: 2006-08-01 (the day up to which the reprint states it incorporates all amendments).
+In force: 2024-02-01 (the day the latest amendment the reprint incorporates, Act A1699, came into operation, as page 2 of the reprint states).
 
 | File | Provision |
 | --- | --- |
@@ -25,10 +25,12 @@ In force: 2006-08-01 (the day up to which the reprint states it incorporates all
 | [s-017.md](s-017.md) | Section 17. Delegation of the Commission’s functions or powers |
 | [s-018.md](s-018.md) | Section 18. Direction by Minister |
 | [s-019.md](s-019.md) | Section 19. Returns, reports, accounts and information |
+| [s-019-a.md](s-019-a.md) | Section 19A. Restriction on the use of the symbol or representation of the Commission |
 | [s-020.md](s-020.md) | Section 20. Chief Executive Officer |
 | [s-021.md](s-021.md) | Section 21. Temporary exercise of functions of the Chief Executive Officer |
 | [s-022.md](s-022.md) | Section 22. Appointment of employees |
 | [s-023.md](s-023.md) | Section 23. Conditions of service |
+| [s-023-a.md](s-023-a.md) | Section 23A. Discipline |
 | [s-024.md](s-024.md) | Section 24. Loans, scholarships and advances |
 | [s-025.md](s-025.md) | Section 25. Payment of retirement benefits, etc. |
 | [s-026.md](s-026.md) | Section 26. Commission may adopt regulations, etc. |
