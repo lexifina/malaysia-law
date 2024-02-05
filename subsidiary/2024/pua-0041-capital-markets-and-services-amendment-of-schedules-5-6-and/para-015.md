@@ -1,0 +1,3 @@
+# Paragraph 15
+
+15. An offer or invitation in respect of securities of a corporation or unit trust scheme having gained admission on a securities exchange in Labuan or outside Malaysia as determined by the Commission, made to existing securities holders of such corporation or unit trust scheme by means of a rights issue, provided that, in the case of a renounceable rights issue, such offer or invitation has been accompanied by a prospectus or disclosure document approved or registered by or lodged with the authority in Labuan or outside Malaysia, as the case may be, which exercises functions corresponding to the functions of the Commission.
