@@ -32,7 +32,7 @@ Amputation—upper limbs (either arm) cases
 
 13. Loss of four fingers of one hand 50 RM15,000
 
-14. Loss of three fingers of one hand 30 RM9,000 70 Laws of Malaysia ACT 838
+14. Loss of three fingers of one hand 30 RM9,000
 
 15. Loss of two fingers of one hand 20 RM6,000
 
@@ -66,9 +66,7 @@ Amputation—lower limbs cases
 
 29. Amputation through one foot proximal to 30 RM9,000 the metatarso-phalangeal joint
 
-30. Loss of all toes of one foot through the 20 RM6,000 metatarso-phalangeal joint Housewives’ Social Security 71
-
-Other injuries
+30. Loss of all toes of one foot through the 20 RM6,000 metatarso-phalangeal joint Other injuries
 
 31. Loss of one eye, without complications, the 40 RM12,000 other being normal
 
@@ -112,7 +110,7 @@ B—Toes of right or left foot
 
 Great toe
 
-46. Through metatarso-phalangeal joint 14 RM4,200 72 Laws of Malaysia ACT 838
+46. Through metatarso-phalangeal joint 14 RM4,200
 
 47. Part, with some loss of bone 3 RM900
 
@@ -146,4 +144,4 @@ Four toes of one foot, excluding great toe
 
 (b) the loss of the function of any limb referred to in this Schedule shall be determined by the Organization and deemed to be equivalent of the loss of that limb.
 
-2. For the purpose of determining a permanent disablement, this Schedule shall be read together with the guidelines on Impairment and Disability Assessment issued by the Organization. Housewives’ Social Security 73
+2. For the purpose of determining a permanent disablement, this Schedule shall be read together with the guidelines on Impairment and Disability Assessment issued by the Organization.
