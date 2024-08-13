@@ -1,0 +1,39 @@
+# Rule 2
+
+2. Particulars of the Peguam Syarie concerned and/or the firm
+
+2.1 Full name of the Peguam Syarie concerned and/or the firm: ______________________________________________________________________________________________
+
+65 2.2 Name and address of the firm at the time the alleged misconduct occurred: _____________________________________________________________________________________________ _____________________________________________________________________________________________ _____________________________________________________________________________________________ _____________________________________________________________________________________________
+
+2.3 Name and current address of the firm if different from 2.2: _____________________________________________________________________________________________ _____________________________________________________________________________________________ _____________________________________________________________________________________________ Town/City:________________________________________________________________________________ State:_______________________________________________________________________________________ Telephone No.:____________________________________________________________________________
+
+2.4 When did you appoint the Peguam Syarie and/or the firm under which the Peguam Syarie practicing (if applicable) ? _____________________________________________________________________________________________
+
+2.5 What were your instructions to the Peguam Syarie and/or the firm under which the Peguam Syarie practicing ? _____________________________________________________________________________________________ _____________________________________________________________________________________________ _____________________________________________________________________________________________ Please use a separate sheet if the allocated space is not sufficient.
+
+2.6 Please set out the details of your complaint. _____________________________________________________________________________________________ _____________________________________________________________________________________________ _____________________________________________________________________________________________ Please use a separate sheet if the allocated space is not sufficient.
+
+66 2.7 List of documents that must be attached:
+
+(a) the Statutory Declaration of the complainant affirmed before a Commissioner of Oaths verifying the fact of the complaint;
+
+(b) a copy of identity card/passport; and
+
+(c) cheque or money order.
+
+2.8 Other supporting documents:
+
+(1) _____________________________________________________________________________________
+
+(2) _____________________________________________________________________________________
+
+(3) _____________________________________________________________________________________
+
+2.9 Complainant’s signature: __________________________________________ Date: ______________________
+
+Please return the duly completed form and all the relevant documents in three (3) sets to:
+
+Director of Complaints Secretariat Peguam Syarie Disciplinary Board (address) (Telephone No.) (Facsimile No.) (email address)
+
+67
