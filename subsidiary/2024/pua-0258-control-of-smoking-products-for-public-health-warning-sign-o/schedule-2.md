@@ -1,0 +1,13 @@
+# Second Schedule
+
+[Subregulation 2(2)]
+
+QR CODE FOR SMOKING CESSATION SERVICES
+
+Made 26 September 2024
+
+[KKM.600-1/1/63 JLD3 (62); PN(PU2)770]
+
+DATUK SERI DR. HAJI DZULKEFLY BIN AHMAD Minister of Health
+
+18
