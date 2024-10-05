@@ -24,9 +24,7 @@ Quorum of annual general meeting
 
 2. (1) The quorum for an annual general meeting shall be four times of the number of the members of Majlis Peguam Syarie and no business shall be transacted at any annual general meeting unless a quorum is present when the meeting proceeds to business.
 
-(2) If a quorum referred to in subparagraph (1) is not present within one hour from the time appointed for holding the meeting, the meeting shall be adjourned to the following day at the same time and place unless otherwise notified to the members by Majlis Peguam Syarie in the notice summoning the original meeting, and if at such adjourned annual general meeting the quorum is not present within one hour from the time appointed for holding the adjourned meeting, the members present shall constitute the quorum. 70 Laws of Malaysia ACT 814
-
-Extraordinary General Meeting
+(2) If a quorum referred to in subparagraph (1) is not present within one hour from the time appointed for holding the meeting, the meeting shall be adjourned to the following day at the same time and place unless otherwise notified to the members by Majlis Peguam Syarie in the notice summoning the original meeting, and if at such adjourned annual general meeting the quorum is not present within one hour from the time appointed for holding the adjourned meeting, the members present shall constitute the quorum. Extraordinary General Meeting
 
 3. (1) The Majlis Peguam Syarie may convene a general meeting of the Badan Peguam Syarie other than the annual general meeting at any time the Majlis Peguam Syarie considers it necessary or expedient and such meeting shall be known as an extraordinary general meeting.
 
@@ -48,7 +46,7 @@ Quorum of extraordinary general meeting
 
 Voting
 
-5. At every annual general meeting and extraordinary general meeting of the Badan Peguam Syarie, every member present shall have one vote and where there is an equality of votes, the chairman or the acting chairman of the meeting shall have a casting vote in addition to his deliberative vote. Syarie Legal Profession 71 (Federal Territories)
+5. At every annual general meeting and extraordinary general meeting of the Badan Peguam Syarie, every member present shall have one vote and where there is an equality of votes, the chairman or the acting chairman of the meeting shall have a casting vote in addition to his deliberative vote. (Federal Territories)
 
 PART II
 

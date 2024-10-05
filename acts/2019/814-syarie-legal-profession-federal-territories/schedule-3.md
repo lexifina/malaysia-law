@@ -4,7 +4,7 @@
 
 CONTROL OF PROPERTY, DOCUMENT, MONEY, ETC., OF
 
-A CLIENT IN CERTAIN CASES 72 Laws of Malaysia ACT 814
+A CLIENT IN CERTAIN CASES
 
 1. The Majlis Peguam Syarie may require the production or delivery of all deeds, wills, documents constituting or evidencing the title to any property, papers, books of account, records, vouchers and other documents in the possession or control of the Peguam Syarie or his firm, partner or employee or relating to any trust of which he is a sole trustee or co-trustee with one or more of his partner or employee.
 
@@ -22,7 +22,7 @@ A CLIENT IN CERTAIN CASES 72 Laws of Malaysia ACT 814
 
 8. If no application is made under paragraph 7 or if the judge in chambers to whom any such application is made directs that the documents shall remain in the custody or control of the Majlis Peguam Syarie, the judge in chambers may make inquiries to ascertain the person to whom those documents belong and may deal with those documents in accordance with the directions of that person.
 
-9. The Majlis Peguam Syarie may, before dealing with the documents, take copies of, or extracts from, any of the documents. Syarie Legal Profession 73 (Federal Territories)
+9. The Majlis Peguam Syarie may, before dealing with the documents, take copies of, or extracts from, any of the documents. (Federal Territories)
 
 10. The Syariah High Court or judge in chambers may, on the application of the Majlis Peguam Syarie, order that no payment shall be made, without the leave of the Syariah High Court or judge in chambers, by any banker in the name of a Peguam Syarie or his firm.
 
@@ -40,9 +40,7 @@ A CLIENT IN CERTAIN CASES 72 Laws of Malaysia ACT 814
 
 (2) Notwithstanding subparagraph (1)—
 
-(a) no such directions shall be given by the Majlis Peguam Syarie except with the approval of the person to whom the moneys belong, in the case of a trust the trustee, and, where the Peguam Syarie is the sole trustee or co-trustee with one or 74 Laws of Malaysia ACT 814
-
-more of his partner or employee, the person beneficially entitled to the moneys; and
+(a) no such directions shall be given by the Majlis Peguam Syarie except with the approval of the person to whom the moneys belong, in the case of a trust the trustee, and, where the Peguam Syarie is the sole trustee or co-trustee with one or more of his partner or employee, the person beneficially entitled to the moneys; and
 
 (b) the person upon whom the notice referred to in paragraph 3 has been served shall be under no obligation to ascertain whether any approval has been obtained.
 

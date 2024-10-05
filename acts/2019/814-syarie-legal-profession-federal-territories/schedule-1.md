@@ -8,7 +8,7 @@ SYARIE LEGAL PROFESSION QUALIFYING BOARD
 
 Meeting of the Board
 
-1. (1) The Chairman may at any time direct the Secretary to the Board to summon a meeting of the Board. Syarie Legal Profession 67 (Federal Territories)
+1. (1) The Chairman may at any time direct the Secretary to the Board to summon a meeting of the Board. (Federal Territories)
 
 (2) Any three members of the Board may at any time in writing request the Secretary to the Board to summon a Board’s meeting, provided that the three members inform the Secretary to the Board their motion to convene the meeting.
 
@@ -36,9 +36,7 @@ Attendance of non-members
 
 5. (1) The Chairman may invite any person who is not a member of the Board to any meeting of the Board, if the business before the meeting renders the presence of such person.
 
-(2) The person invited under subsection (1) shall be entitled to participate in its deliberation, but shall not be entitled to vote. 68 Laws of Malaysia ACT 814
-
-Minutes of the Board’s meeting
+(2) The person invited under subsection (1) shall be entitled to participate in its deliberation, but shall not be entitled to vote. Minutes of the Board’s meeting
 
 6. (1) The Secretary to the Board shall cause minutes of all meetings to be maintained and kept in a proper form.
 
@@ -68,4 +66,4 @@ Validity of acts and proceedings
 
 (c) there is an infringement of paragraph 8 by any members of the Board; or
 
-(d) there is any omissions, defects or irregularities affecting the merit of the case. Syarie Legal Profession 69 (Federal Territories)
+(d) there is any omissions, defects or irregularities affecting the merit of the case. (Federal Territories)
