@@ -1,0 +1,2 @@
+# Section 424A. Possession or control of payment instrument or account
+424A. Whoever, without lawful authority or lawful purpose, has in his possession or control any payment instrument of other person or any account of other person at a financial institution, shall be punished with fine of not less than five thousand ringgit but not exceeding fifty thousand ringgit or with imprisonment for a term of not less than six months but not exceeding five years or with both.

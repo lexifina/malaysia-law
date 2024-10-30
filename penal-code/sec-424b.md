@@ -1,0 +1,2 @@
+# Section 424B. Giving possession or control of payment instrument or account to other person
+424B. Whoever, directly or indirectly, without lawful authority or lawful purpose, gives possession or control of his payment instrument or his account at a financial institution to any other person, shall be punished with fine of not less than ten thousand ringgit but not exceeding one hundred thousand ringgit or with imprisonment for a term of not less than one year but not exceeding seven years or with both.
