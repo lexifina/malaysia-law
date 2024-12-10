@@ -1,0 +1,19 @@
+# Mutual Assistance in Criminal Matters (Republic of Tajikistan) Order 2024 [P.U. (A) 378/2024]
+
+Mutual Assistance in Criminal Matters (Republic of Tajikistan) Order 2024 (Perintah Bantuan Bersama Dalam Perkara Jenayah (Republik Tajikistan) 2024), P.U. (A) 378/2024, as published in the Federal Government Gazette on 2024-12-09, made under ACT 621 - MUTUAL ASSISTANCE IN CRIMINAL MATTERS ACT 2002; English text from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/2551854/PUA378_2024.pdf
+
+In force: 2024-12-10 (the day after its publication in the Gazette; it names no other day (Interpretation Acts 1948 and 1967 [Act 388], s. 19(1))).
+
+| File | Provision |
+| --- | --- |
+| [preamble.md](preamble.md) | Enacting words |
+| [para-001.md](para-001.md) | Paragraph 1. Citation and commencement |
+| [para-002.md](para-002.md) | Paragraph 2. Interpretation |
+| [para-003.md](para-003.md) | Paragraph 3. Declaration of prescribed foreign State |
+| [para-004.md](para-004.md) | Paragraph 4. Application of Act to Republic of Tajikistan |
+| [para-005.md](para-005.md) | Paragraph 5. Inclusion of Treaty in Order |
+| [para-006.md](para-006.md) | Paragraph 6 |
+| [para-007.md](para-007.md) | Paragraph 7 |
+| [para-008.md](para-008.md) | Paragraph 8 |
+| [para-009.md](para-009.md) | Paragraph 9 |
+| [para-010.md](para-010.md) | Paragraph 10 |
