@@ -1,0 +1,5 @@
+# Rule 1. Citation and commencement
+
+1. (1) These rules may be cited as the Universities and Universitiy Colleges (Universiti Kebangsaan Malaysia) (Discipline of Students) Rules 2024.
+
+(2) These Rules come into operation on 24 December 2024.
