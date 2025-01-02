@@ -2,9 +2,7 @@
 
 [Subsection 2(1), sections 8, 43, 45, 46 and 168]
 
-PART I
-
-Businesses which require approval
+PART I Businesses which require approval
 
 1. Operation of a payment system which—
 
@@ -18,9 +16,7 @@ Businesses which require approval
 
 4. Islamic financial advisory business.
 
-PART 2
-
-Persons who do not require approval for Islamic financial advisory business
+PART 2 Persons who do not require approval for Islamic financial advisory business
 
 5. A licensed person or an approved takaful broker under this Act.
 
