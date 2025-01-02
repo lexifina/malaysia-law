@@ -34,6 +34,6 @@ Financial Adviser
 
 9. A licensed takaful operator or approved takaful broker under the Islamic Financial Services Act 2013.
 
-10. A person who appends to his name an insurance qualification conferred on him by a prescribed body, where the qualification so appended is followed with the initials of the name of that body. Financial Services 299
+10. A person who appends to his name an insurance qualification conferred on him by a prescribed body, where the qualification so appended is followed with the initials of the name of that body.
 
 11. An association of approved financial advisers or association of employees of any such approved persons.

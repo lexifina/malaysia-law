@@ -12,7 +12,7 @@ A monetary penalty may be imposed in respect of a breach or non-compliance with 
 
 3. subsection 18(2);
 
-4. subsection 25(1) or (2); 302 Laws of Malaysia ACT 758
+4. subsection 25(1) or (2);
 
 5. subsection 33(2);
 
@@ -74,7 +74,7 @@ A monetary penalty may be imposed in respect of a breach or non-compliance with 
 
 34. section 79;
 
-35. subsection 81(1), (2) or (3); Financial Services 303
+35. subsection 81(1), (2) or (3);
 
 36. subsection 82(1) or (3);
 
@@ -136,7 +136,7 @@ A monetary penalty may be imposed in respect of a breach or non-compliance with 
 
 65. subsection 143(1) or (2), paragraph 143(3)(b), subsection 143(4) or (6);
 
-66. subsection 144(1); 304 Laws of Malaysia ACT 758
+66. subsection 144(1);
 
 67. subsection 150(1);
 

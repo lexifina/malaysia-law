@@ -22,7 +22,7 @@ ACCIDENT POLICY
 
 8. Payment of policy moneys where there is no nomination
 
-9. Payment to person incompetent to contract 286 Laws of Malaysia ACT 758
+9. Payment to person incompetent to contract
 
 10. Distribution of policy moneys in due course of administration
 
@@ -54,9 +54,7 @@ Power to make nomination
 
 (b) shall record the nomination and the particulars of the nominee in its register of policies; and
 
-(c) shall return the policy to the policy owner after endorsing the nomination on the policy or by issuing an endorsement to the original Financial Services 287
-
-policy by registered mail to the policy owner and the nomination shall take effect from the date the nomination is registered by the insurer.
+(c) shall return the policy to the policy owner after endorsing the nomination on the policy or by issuing an endorsement to the original policy by registered mail to the policy owner and the nomination shall take effect from the date the nomination is registered by the insurer.
 
 (5) A failure to comply with subparagraph (4) shall not affect the validity of the nomination if it is otherwise proved that the nomination was made by the policy owner and given to the licensed insurer.
 
@@ -80,7 +78,7 @@ Payment of policy moneys where there is nomination
 
 4. (1) Subject to subparagraph (2), where a policy owner dies having made a nomination, the licensed insurer shall pay the policy moneys according to the direction of the nomination upon receipt of a claim by the nominee together with proof of death of the policy owner.
 
-(2) Where a nominee fails to claim the policy moneys within sixty days of the licensed insurer becoming aware of the death of the policy owner, the insurer shall immediately notify the nominee in writing at his last known address of his entitlement to claim the policy moneys. 288 Laws of Malaysia ACT 758
+(2) Where a nominee fails to claim the policy moneys within sixty days of the licensed insurer becoming aware of the death of the policy owner, the insurer shall immediately notify the nominee in writing at his last known address of his entitlement to claim the policy moneys.
 
 (3) Where a nominee fails to claim the policy moneys within twelve months of the licensed insurer becoming aware of the death of the policy owner despite notification under subparagraph (2), paragraph 8 shall apply as though no nomination was made.
 
@@ -106,9 +104,7 @@ shall be the trustee of the policy moneys and the receipt of a trustee shall be 
 
 (4) If there is more than one nominee who is competent to contract, the nominees shall be joint trustees and the consent for the purposes of this paragraph shall be given by all such trustees.
 
-(5) A policy owner shall not deal with a policy to which subparagraph (1) applies by revoking a nomination or adding a nominee other than his spouse, child Financial Services 289
-
-or parent under the policy, by varying or surrendering the policy, or by assigning or pledging the policy as security, without the written consent of the trustee.
+(5) A policy owner shall not deal with a policy to which subparagraph (1) applies by revoking a nomination or adding a nominee other than his spouse, child or parent under the policy, by varying or surrendering the policy, or by assigning or pledging the policy as security, without the written consent of the trustee.
 
 (6) If it is proved that the policy was effected and the premiums paid with intent to defraud a creditor of the policy owner, the creditor shall be entitled to receive from the policy moneys payable under the policy a sum equal to the premiums paid under that policy.
 
@@ -124,9 +120,7 @@ Assigned or pledged policy moneys
 
 7. (1) Notwithstanding a nomination under paragraph 2 or the creation of a trust under subparagraph 5(1), where the policy moneys, wholly or partly, have been pledged as security or assigned to a person, the claim of the person entitled under the security or the assignee shall have priority over the claim of the nominee and subject to the rights under the security or the assignment being preserved, the licensed insurer shall pay the balance of the policy moneys to the nominee.
 
-(2) Where more than one person is entitled under the security or the assignment, the respective rights of the persons entitled under the security or the assignment shall be in the order of priority according to the priority of the date on which written notification of the security or the assignment was given to the licensed insurer, both security and assignment being treated as one class for this purpose. 290 Laws of Malaysia ACT 758
-
-Payment of policy moneys where there is no nomination
+(2) Where more than one person is entitled under the security or the assignment, the respective rights of the persons entitled under the security or the assignment shall be in the order of priority according to the priority of the date on which written notification of the security or the assignment was given to the licensed insurer, both security and assignment being treated as one class for this purpose. Payment of policy moneys where there is no nomination
 
 8. (1) Where a policy owner dies without having made a nomination, subject to paragraph 7, the licensed insurer shall pay the policy moneys of the deceased policy owner to the lawful executor or administrator of his estate.
 
@@ -140,7 +134,7 @@ Payment of policy moneys where there is no nomination
 
 (4) The grant of probate or letters of administration or distribution order in respect of a personal estate comprising policy moneys, by a court in Malaysia or a competent authority outside Malaysia, or its court certified copy shall be sufficient proof to the licensed insurer to pay the policy moneys to the person named therein as the lawful executor or administrator provided that the same has been duly registered with the court in Malaysia and sealed in accordance with the Probate and Administration Act 1959 [Act 97].
 
-(5) Policy moneys paid under this paragraph shall be deemed to have been duly paid and the licensed insurer shall be discharged from liability in respect of the policy moneys so paid notwithstanding the absence or invalidity of, or any defect in the grant of probate or letters of administration or distribution order or any other document having the same effect. Financial Services 291
+(5) Policy moneys paid under this paragraph shall be deemed to have been duly paid and the licensed insurer shall be discharged from liability in respect of the policy moneys so paid notwithstanding the absence or invalidity of, or any defect in the grant of probate or letters of administration or distribution order or any other document having the same effect.
 
 (6) A person to whom a payment is made under this paragraph shall give a receipt which shall be deemed to be a valid receipt.
 
@@ -158,9 +152,7 @@ Payment to person incompetent to contract
 
 Distribution of policy moneys in due course of administration
 
-10. A person to whom policy moneys may be paid under subsubparagraphs 8(2)(a) and (b) shall receive the policy moneys as an executor and not solely as a beneficiary and shall distribute the policy moneys in due course of administration of the estate of the deceased person in accordance with the terms of a will of the deceased person, and if there is no such will, in accordance with the law applicable to the administration, distribution and disposition of his estate upon his intestacy. 292 Laws of Malaysia ACT 758
-
-Licensed insurer not bound to see application of policy moneys
+10. A person to whom policy moneys may be paid under subsubparagraphs 8(2)(a) and (b) shall receive the policy moneys as an executor and not solely as a beneficiary and shall distribute the policy moneys in due course of administration of the estate of the deceased person in accordance with the terms of a will of the deceased person, and if there is no such will, in accordance with the law applicable to the administration, distribution and disposition of his estate upon his intestacy. Licensed insurer not bound to see application of policy moneys
 
 11. A licensed insurer shall not in any circumstances be bound or concerned to ensure the application of any policy moneys which it has paid in respect of any person under this Schedule.
 
@@ -174,4 +166,4 @@ Schedule to prevail over policy and any other written law
 
 13. (1) This Schedule shall have effect in relation to a policy which is in force on or after the appointed date, and in relation to a nomination made before, on or after the appointed date, notwithstanding anything contained in the policy, and nothing contained in a policy shall derogate from, or be construed as derogating in any manner or to any extent from, this Schedule.
 
-(2) This Schedule shall have full force and effect notwithstanding anything inconsistent with or contrary to any other written law relating to probate, administration, distribution, or disposition, of the estates of deceased persons, or in any practice or custom in relation to these matters. Financial Services 293
+(2) This Schedule shall have full force and effect notwithstanding anything inconsistent with or contrary to any other written law relating to probate, administration, distribution, or disposition, of the estates of deceased persons, or in any practice or custom in relation to these matters.

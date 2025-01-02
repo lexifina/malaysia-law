@@ -6,7 +6,7 @@ LIST OF TRANSACTIONS
 
 1. The act of—
 
-(a) buying, selling, exchanging, borrowing or lending; 300 Laws of Malaysia ACT 758
+(a) buying, selling, exchanging, borrowing or lending;
 
 (b) issuing, publishing or disseminating information in any form or advertisements which may lead, directly or indirectly, to the buying, selling, exchanging, borrowing or lending; or
 
@@ -48,7 +48,7 @@ other than—
 
 4. The receiving of any payment in paragraph 3;
 
-5. The giving or obtaining of any guarantee, indemnity or undertaking in respect of any debt, obligation or liability; Financial Services 301
+5. The giving or obtaining of any guarantee, indemnity or undertaking in respect of any debt, obligation or liability;
 
 6. The issuance, transfer or substitution or the doing of any act in relation to a security or a financial instrument other than—
 

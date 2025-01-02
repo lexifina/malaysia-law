@@ -16,4 +16,4 @@ BUSINESS WHICH IS NOT INSURANCE BUSINESS
 
 (a) repairs to the vehicle at the place where the accident or breakdown has occurred and may include the delivery of parts, fuel, oil, water or keys to that vehicle; or
 
-(b) removal of the vehicle to the nearest or most appropriate place at which repairs may be carried out or to the home or point of departure or original destination of the driver and passengers. Financial Services 263
+(b) removal of the vehicle to the nearest or most appropriate place at which repairs may be carried out or to the home or point of departure or original destination of the driver and passengers.

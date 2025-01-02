@@ -30,7 +30,7 @@ LIST OF SUBSIDIARY LEGISLATION REVOKED
 
 10. Authorization under subparagraph 8(1) of Part II of the Fifth Schedule
 
-[P.U. (B) 58/2001] Financial Services 305
+[P.U. (B) 58/2001]
 
 11. Appointment under subsection 3(2) [P.U. (B) 206/2007]
 

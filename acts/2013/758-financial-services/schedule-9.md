@@ -44,7 +44,7 @@ Non-contestability and remedies for misrepresentations
 
 Division 1
 
-Non-contestability Financial Services 275
+Non-contestability
 
 13. Non-contestability for life insurance contracts
 
@@ -82,9 +82,7 @@ Interpretation
 
 2. In this Schedule—
 
-“consumer” means the individual who enters into, varies or renews a consumer insurance contract, or proposes to do so with a licensed insurer; 276 Laws of Malaysia ACT 758
-
-“consumer insurance contract” means a contract of insurance entered into, varied or renewed by an individual wholly for purposes unrelated to the individual’s trade, business or profession.
+“consumer” means the individual who enters into, varies or renews a consumer insurance contract, or proposes to do so with a licensed insurer; “consumer insurance contract” means a contract of insurance entered into, varied or renewed by an individual wholly for purposes unrelated to the individual’s trade, business or profession.
 
 Contracting out
 
@@ -116,7 +114,7 @@ Pre-contractual duty of disclosure for insurance contracts other than consumer i
 
 (b) is of common knowledge;
 
-(c) the licensed insurer knows or in the ordinary course of his business ought to know; or Financial Services 277
+(c) the licensed insurer knows or in the ordinary course of his business ought to know; or
 
 (d) in respect of which the licensed insurer has waived any requirement for disclosure.
 
@@ -138,7 +136,7 @@ Pre-contractual duty of disclosure for consumer insurance contracts
 
 (4) It is the duty of the consumer to take reasonable care not to make a misrepresentation to the licensed insurer when answering any questions under subsubparagraph (3)(a), or confirming or amending any matter under subsubparagraph (3)(b).
 
-(5) If the licensed insurer does not make a request in accordance with subparagraph (1) or (3) as the case may be, compliance with the consumer’s duty of disclosure in respect of those subparagraphs, shall be deemed to have been waived by the insurer. 278 Laws of Malaysia ACT 758
+(5) If the licensed insurer does not make a request in accordance with subparagraph (1) or (3) as the case may be, compliance with the consumer’s duty of disclosure in respect of those subparagraphs, shall be deemed to have been waived by the insurer.
 
 (6) Where the consumer fails to answer or gives an incomplete or irrelevant answer to any request by the licensed insurer under subparagraph (1) or subsubparagraph (3)(a), or fails to confirm or amend any matter under subsubparagraph (3)(b), or does so incompletely or provides irrelevant information, as the case may be, and the answer or matter was not pursued further by the insurer, compliance with the consumer’s duty of disclosure in respect of the answer or matter shall be deemed to have been waived by the insurer.
 
@@ -160,9 +158,7 @@ Duty to take reasonable care
 
 (2) Subject to subparagraph (3), the standard of care required of the consumer under subparagraphs 5(2) and (4) shall be what a reasonable consumer in the circumstances would have known.
 
-(3) If the licensed insurer was, or ought to have been, aware of any particular characteristics or circumstances of the consumer, the insurer shall take into account such characteristics or circumstances. Financial Services 279
-
-Misrepresentation in respect of insurance contracts
+(3) If the licensed insurer was, or ought to have been, aware of any particular characteristics or circumstances of the consumer, the insurer shall take into account such characteristics or circumstances. Misrepresentation in respect of insurance contracts
 
 7. (1) Part 3 of this Schedule—
 
@@ -196,7 +192,7 @@ Misrepresentation in respect of insurance contracts
 
 (5) A misrepresentation made dishonestly is to be regarded as having being made deliberately or recklessly.
 
-(6) A misrepresentation is careless or innocent, as the case may be, if it is not deliberate or reckless. 280 Laws of Malaysia ACT 758
+(6) A misrepresentation is careless or innocent, as the case may be, if it is not deliberate or reckless.
 
 (7) It is for the licensed insurer to show that a misrepresentation was deliberate or reckless on a balance of probability.
 
@@ -218,9 +214,7 @@ Group policies
 
 (4) A breach of the duty to take reasonable care not to make a misrepresentation under paragraph 5 on the part of one of any of the persons insured under a group policy shall not affect the policy so far as it relates to the other persons insured under that policy.
 
-(5) Nothing in this paragraph shall affect any duty owed by the group policy owner to the licensed insurer, or any remedy which the insurer may have against the group policy owner for breach of such a duty. Financial Services 281
-
-Insurance on life of another
+(5) Nothing in this paragraph shall affect any duty owed by the group policy owner to the licensed insurer, or any remedy which the insurer may have against the group policy owner for breach of such a duty. Insurance on life of another
 
 9. Where a consumer takes out a consumer insurance contract on the life of another individual who is not a party to the contract, any information provided to the licensed insurer by the life insured, whether requested or otherwise, is to be treated for purposes of this Schedule as if it was provided by the consumer and shall be subject to paragraph 5.
 
@@ -242,7 +236,7 @@ Insurer’s, etc., pre-contractual duty of disclosure
 
 Knowledge of, and statement by insurance agent
 
-12. (1) A person who is authorized by a licensed insurer to be its insurance agent and who solicits or negotiates a contract of insurance in that capacity shall be deemed, for the purpose of the formation or variation of the contract of insurance, to be the agent of the insurer and the knowledge of that insurance agent shall be deemed to be the knowledge of the insurer. 282 Laws of Malaysia ACT 758
+12. (1) A person who is authorized by a licensed insurer to be its insurance agent and who solicits or negotiates a contract of insurance in that capacity shall be deemed, for the purpose of the formation or variation of the contract of insurance, to be the agent of the insurer and the knowledge of that insurance agent shall be deemed to be the knowledge of the insurer.
 
 (2) A statement made, or an act done, by the insurance agent shall be deemed, for the purpose of the formation or variation of the contract of insurance, to be a statement made, or act done, by the licensed insurer notwithstanding the insurance agent’s contravention of subparagraph 11(1) or any other provision of this Act.
 
@@ -262,9 +256,7 @@ Non-contestability for life insurance contracts
 
 (2) Where a contract of life insurance has been in effect for a period of more than two years during the lifetime of the insured, such a contract shall not be avoided by a licensed life insurer on the ground that a statement made or omitted to be made in the proposal for insurance or in a report of a doctor, referee, or any other person, or in a document leading to the issue of the life policy, was inaccurate or false or misleading unless the insurer shows that the statement was on a material matter or suppressed a material fact and that it was fraudulently made or omitted to be made by the policy owner or the insured.
 
-(3) For the purposes of subparagraph (2), “material matter” or “material fact” means a matter or fact which, if known by the licensed life insurer, would have led to its refusal to issue a life policy to the policy owner or would have led it to impose terms less favourable to the policy owner than those imposed in the life policy. Financial Services 283
-
-Division 2
+(3) For the purposes of subparagraph (2), “material matter” or “material fact” means a matter or fact which, if known by the licensed life insurer, would have led to its refusal to issue a life policy to the policy owner or would have led it to impose terms less favourable to the policy owner than those imposed in the life policy. Division 2
 
 Remedies for misrepresentation
 
@@ -292,7 +284,7 @@ Remedies for careless or innocent misrepresentation
 
 Future treatment of contract
 
-17. (1) This paragraph shall apply if a misrepresentation was careless or innocent but does not relate to any outstanding claim. 284 Laws of Malaysia ACT 758
+17. (1) This paragraph shall apply if a misrepresentation was careless or innocent but does not relate to any outstanding claim.
 
 (2) Where a licensed insurer discovers a misrepresentation that was careless or innocent and if the insurer would not have entered into or renewed the consumer insurance contract on any terms, subparagraph 16(2) will apply.
 
@@ -312,9 +304,7 @@ Variations
 
 (2) If the subject matter of the variation can reasonably be treated separately from the subject matter of the rest of the consumer insurance contract, the remedies set out in this Division shall apply only in relation to that variation as it applies in relation to a contract.
 
-(3) If the subject matter of the variation cannot be treated separately from the subject matter of the rest of the consumer insurance contract, the misrepresentation shall be treated as if it had been made in relation to the whole contract and the remedies set out in this Division shall apply in relation to the whole of the contract rather than merely in relation to the variation. Financial Services 285
-
-Division 3
+(3) If the subject matter of the variation cannot be treated separately from the subject matter of the rest of the consumer insurance contract, the misrepresentation shall be treated as if it had been made in relation to the whole contract and the remedies set out in this Division shall apply in relation to the whole of the contract rather than merely in relation to the variation. Division 3
 
 Modifications for group policies
 

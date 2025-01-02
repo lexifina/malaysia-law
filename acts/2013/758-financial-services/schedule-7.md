@@ -20,4 +20,4 @@ LIST OF PROHIBITED BUSINESS CONDUCT
 
 5. Exerting undue pressure on, or coercing, a financial consumer to acquire any financial service or product as a condition for acquiring another financial service or product.
 
-6. Colluding with any other person to fix or control the features or terms of any financial service or product to the detriment of any financial consumer, except for any tariff or premium rates or policy terms which have been approved by the Bank. 266 Laws of Malaysia ACT 758
+6. Colluding with any other person to fix or control the features or terms of any financial service or product to the detriment of any financial consumer, except for any tariff or premium rates or policy terms which have been approved by the Bank.

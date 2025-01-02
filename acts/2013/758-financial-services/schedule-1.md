@@ -4,13 +4,7 @@
 
 APPROVED AND REGISTERED BUSINESSES
 
-PART 1
-
-Approved business
-
-Division 1
-
-Businesses which require approval
+PART 1 Approved business Division 1 Businesses which require approval
 
 1. Operation of a payment system which—
 
@@ -24,11 +18,7 @@ Businesses which require approval
 
 4. Money-broking business.
 
-5. Financial advisory business. 256 Laws of Malaysia ACT 758
-
-Division 2
-
-Persons who do not require approval for financial advisory business
+5. Financial advisory business. Division 2 Persons who do not require approval for financial advisory business
 
 6. A licensed person or an approved insurance broker under this Act.
 

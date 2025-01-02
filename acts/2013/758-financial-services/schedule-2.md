@@ -18,7 +18,7 @@ Money paid by any person to—
 
 (i) the approval of the Malaysia Co-operative Societies Commission under the Co-operative Societies Act 1993; and
 
-(ii) the approval of the Bank and complies with such conditions as may be imposed by the Bank; Financial Services 257
+(ii) the approval of the Bank and complies with such conditions as may be imposed by the Bank;
 
 (e) a farmers’ organization registered under the Farmers’ Organization Act 1973 [Act 109] or a fishermen’s association registered under the Fishermen’s Association Act 1971 [Act 44];
 
@@ -46,7 +46,7 @@ in the course of carrying on its business of issuing the payment instrument;
 
 (k) another person, where both persons are individuals, in the course of customary, social, friendly or family relationship and the total number of such individuals who make the payments to the other person does not at any time exceed ten.
 
-*NOTE―The Companies Act 1965 [Act 125] has been repealed by the Companies Act 2016 [Act 777] 258 Laws of Malaysia ACT 758
+*NOTE―The Companies Act 1965 [Act 125] has been repealed by the Companies Act 2016 [Act 777]
 
 PART 2
 
@@ -74,4 +74,4 @@ Money paid to any person, other than a licensed bank or licensed investment bank
 
 PART 3
 
-Money paid by a licensed bank and licensed investment bank, to any person in the course of buying or borrowing securities from that person where the securities will be repurchased or returned as part of the same transaction. Financial Services 259
+Money paid by a licensed bank and licensed investment bank, to any person in the course of buying or borrowing securities from that person where the securities will be repurchased or returned as part of the same transaction.

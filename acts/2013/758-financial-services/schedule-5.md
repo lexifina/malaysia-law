@@ -28,7 +28,7 @@ PART 1
 
 (c) the effect of the investment on the stability of the financial system, including on conduct and behaviours that could pose a risk to the financial system; or
 
-(d) the degree and significance of participation of Malaysians in the financial sector. 264 Laws of Malaysia ACT 758
+(d) the degree and significance of participation of Malaysians in the financial sector.
 
 PART 2
 

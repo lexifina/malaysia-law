@@ -22,6 +22,6 @@ SUITABILITY
 
 (b) the contribution towards enhancing international trade and investment linkages between Malaysia and other countries;
 
-(c) the effect of the investment on the stability of the financial system, including on conduct and behaviours that could pose a risk to the financial system; or Financial Services 265
+(c) the effect of the investment on the stability of the financial system, including on conduct and behaviours that could pose a risk to the financial system; or
 
 (d) the degree and significance of participation of Malaysians in the financial sector.

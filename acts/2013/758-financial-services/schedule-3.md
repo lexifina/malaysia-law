@@ -22,9 +22,7 @@ Computation of effective interest in shares
 
 EFx = DI1 x DI2 x DI3 ... x DIx
 
-Where—EFx represents the effective interest in shares of the person in the body corporate X; 260 Laws of Malaysia ACT 758
-
-DI1 represents the percentage of direct interest in shares of the person in the first level body corporate;
+Where—EFx represents the effective interest in shares of the person in the body corporate X; DI1 represents the percentage of direct interest in shares of the person in the first level body corporate;
 
 DI2 represents the percentage of direct interest in shares of the first level body corporate in the second level body corporate;
 
@@ -54,7 +52,7 @@ Legal and beneficial interest in shares
 
 7. A person shall be taken to have an interest in shares of a body corporate if the person has any legal or beneficial interest in those shares.
 
-8. A person is taken to have an interest in shares if—Financial Services 261
+8. A person is taken to have an interest in shares if—
 
 (a) the person has entered into a contract or arrangement to acquire the share; or
 
@@ -84,4 +82,4 @@ Certain interest to be disregarded
 
 (d) an interest of a prescribed kind in a share, being an interest held by such persons as may be prescribed by the Bank.
 
-13. Paragraphs 8 to 12 shall not by any implication limit the generality of paragraph 7. 262 Laws of Malaysia ACT 758
+13. Paragraphs 8 to 12 shall not by any implication limit the generality of paragraph 7.

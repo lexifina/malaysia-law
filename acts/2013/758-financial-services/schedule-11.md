@@ -18,9 +18,7 @@ Purposes for or circumstances in Persons to whom documents or which customer doc
 
 (a) its customer, his surety or guarantor relating to the customer’s transaction;
 
-(b) two or more parties making adverse claims to money in a customer’s account where the financial institution seeks 294 Laws of Malaysia ACT 758
-
-First column Second column
+(b) two or more parties making adverse claims to money in a customer’s account where the financial institution seeks First column Second column
 
 Purposes for or circumstances in Persons to whom documents or which customer documents or information may be disclosed information may be disclosed
 
@@ -36,9 +34,7 @@ relief by way of interpleader; or
 
 8. Performance of functions of Any director or officer of the Malaysia the Malaysia Deposit Insurance Deposit Insurance Corporation or Corporation. any other person, authorized by the Malaysia Deposit Insurance Corporation to receive the documents or information.
 
-9. Disclosure by a licensed Any officer of the Securities investment bank for the purpose of Commission, approved stock performance of relevant functions exchange or derivatives exchange, of— approved clearing house under the Financial Services 295
-
-First column Second column
+9. Disclosure by a licensed Any officer of the Securities investment bank for the purpose of Commission, approved stock performance of relevant functions exchange or derivatives exchange, of— approved clearing house under the First column Second column
 
 Purposes for or circumstances in Persons to whom documents or which customer documents or information may be disclosed information may be disclosed
 
@@ -56,9 +52,7 @@ Capital Markets and Services Act 2007
 
 11. Documents or information is Any officer of the Inland Revenue required by the Inland Revenue Board Board of Malaysia or any persons of Malaysia under section 81 of the authorized by Inland Revenue Board Income Tax Act 1967 for the purpose of Malaysia to receive the documents of— or information on its behalf
 
-(a) facilitating exchange of information pursuant to taxation arrangements or agreements having effect under section 132, 132A or 132B of the Income Tax Act 1967; or 296 Laws of Malaysia ACT 758
-
-First column Second column
+(a) facilitating exchange of information pursuant to taxation arrangements or agreements having effect under section 132, 132A or 132B of the Income Tax Act 1967; or First column Second column
 
 Purposes for or circumstances in Persons to whom documents or which customer documents or information may be disclosed information may be disclosed
 
@@ -74,9 +68,7 @@ Purposes for or circumstances in Persons to whom documents or which customer doc
 
 (a) merger and acquisition;
 
-(b) capital raising exercise; or Financial Services 297
-
-First column Second column
+(b) capital raising exercise; or First column Second column
 
 Purposes for or circumstances in Persons to whom documents or which customer documents or information may be disclosed information may be disclosed
 
@@ -92,4 +84,4 @@ Purposes for or circumstances in Persons to whom documents or which customer doc
 
 (c) a prescribed institution as defined in subsection 3(1) of the Development Financial Institutions Act 2002 [Act 618] or its association,
 
-who may receive the documents or information. 298 Laws of Malaysia ACT 758
+who may receive the documents or information.

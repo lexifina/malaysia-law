@@ -36,9 +36,7 @@ Misstatement of age
 
 (3) Where the true age as shown by the proof is less than that on which the life policy is based, the licensed life insurer shall either—
 
-(a) vary the sum insured by, and the bonuses allotted to, the life policy so that, as varied, it bears the same proportion to the sum insured by, and the bonuses allotted to, the life policy before variation as the amount of the premium that has been paid under the life policy as issued bears to Financial Services 267
-
-the amount of the premium that would have become payable if the life policy had been based on the true age; or
+(a) vary the sum insured by, and the bonuses allotted to, the life policy so that, as varied, it bears the same proportion to the sum insured by, and the bonuses allotted to, the life policy before variation as the amount of the premium that has been paid under the life policy as issued bears to the amount of the premium that would have become payable if the life policy had been based on the true age; or
 
 (b) reduce the premium as from the date of issue of the life policy, to the amount that would have been payable if the life policy had been based on the true age and repay the policy owner the amount of over-payments of premium less any amount that has been paid as the cash value of bonuses in excess of the cash value that would have been paid if the life policy had been based on the true age.
 
@@ -62,7 +60,7 @@ Objection to life policy
 
 less any expenses incurred for the medical examination of the life insured.
 
-(4) For the purposes of subparagraph (1)—268 Laws of Malaysia ACT 758
+(4) For the purposes of subparagraph (1)—
 
 (a) a life policy is deemed to be delivered to the policy owner on the date he received it, if personally delivered;
 
@@ -88,7 +86,7 @@ less any expenses incurred for the medical examination of the person insured.
 
 Insurable interest
 
-3. (1) A life policy insuring the life of anyone other than the person effecting the insurance or a person mentioned in subparagraph (3) shall be void unless the person effecting the insurance has an insurable interest in that life at the time the insurance is effected. Financial Services 269
+3. (1) A life policy insuring the life of anyone other than the person effecting the insurance or a person mentioned in subparagraph (3) shall be void unless the person effecting the insurance has an insurable interest in that life at the time the insurance is effected.
 
 (2) A group life policy shall not be void by reason only that the group policy owner did not have, at the time when the insurance was effected, an insurable interest in the lives of the persons insured under the policy.
 
@@ -120,9 +118,7 @@ Capacity of minor to insure
 
 and is as competent in all respects to have and exercise the powers and privileges of a policy owner in relation to a life policy of which he is the owner as he would be if he had attained the age of majority.
 
-(3) A minor who has attained the age of sixteen years shall obtain the consent in writing of his parent or guardian to assign a life policy on his own life under subsubparagraph (2)(b). 270 Laws of Malaysia ACT 758
-
-Life policy moneys to be paid without deduction
+(3) A minor who has attained the age of sixteen years shall obtain the consent in writing of his parent or guardian to assign a life policy on his own life under subsubparagraph (2)(b). Life policy moneys to be paid without deduction
 
 5. (1) Policy moneys payable under a life policy, or moneys payable on the surrender of a life policy, shall be paid without any deduction for moneys not due under the life policy or under an assignment of the life policy, unless the deduction is made with the consent of the person entitled to the policy moneys.
 
@@ -146,7 +142,7 @@ Surrender of life policy
 
 (3) The surrender value of any life policy issued on or before 31 December 2008 shall be determined in accordance with the terms set out on surrender value in that life policy.
 
-(4) Where the Bank is of the opinion that a licensed life insurer has not determined the surrender value of a life policy as required under subsubparagraphs (1)(a), (b) and (c), the Bank may—Financial Services 271
+(4) Where the Bank is of the opinion that a licensed life insurer has not determined the surrender value of a life policy as required under subsubparagraphs (1)(a), (b) and (c), the Bank may—
 
 (a) require the insurer to determine the surrender value of the life policy on a basis approved by the Bank; and
 
@@ -176,7 +172,7 @@ Election for paid-up policy
 
 (a) require the insurer to determine the paid-up value of the life policy on a basis approved by the Bank; and
 
-(b) require the basis under subsubparagraph (a) or a different basis approved by the Bank to be applied retrospectively to a life policy already issued. 272 Laws of Malaysia ACT 758
+(b) require the basis under subsubparagraph (a) or a different basis approved by the Bank to be applied retrospectively to a life policy already issued.
 
 (3) A life policy shall be deemed to remain in force, in the event of an election for conversion to a paid-up life policy, until the date on which the next premium for the original policy is due.
 
@@ -210,7 +206,7 @@ Requirements relating to group policies
 
 11. (1) A licensed insurer shall be liable to a person insured under a group policy if the group policy owner has no insurable interest in the life of that person and if that person has paid the premium to the group policy owner regardless that the insurer has not received the premium from the group policy owner.
 
-(2) The licensed insurer of a group policy, where the group policy owner has no insurable interest in the life of a person insured, shall pay the moneys due under the policy to that person insured or any person entitled through him. Financial Services 273
+(2) The licensed insurer of a group policy, where the group policy owner has no insurable interest in the life of a person insured, shall pay the moneys due under the policy to that person insured or any person entitled through him.
 
 (3) Where the premium is paid by a person insured under a group policy, such person insured or any person entitled through him may, upon written notification to the group policy owner, take all necessary steps to recover moneys due under the policy from the licensed insurer in either of their own names, as the case may be, or adding the group policy owner as a party to a recovery action or proceedings in which event—
 
@@ -224,4 +220,4 @@ Requirements relating to group policies
 
 Refund of premium
 
-12. A licensed general insurer shall pay directly to a policy owner any refund of premium in relation to a policy which may become due to the policy owner for any reason including the cancellation of the policy or alteration in its terms and conditions and such refund shall under no circumstances be paid or credited to any insurance agent. 274 Laws of Malaysia ACT 758
+12. A licensed general insurer shall pay directly to a policy owner any refund of premium in relation to a policy which may become due to the policy owner for any reason including the cancellation of the policy or alteration in its terms and conditions and such refund shall under no circumstances be paid or credited to any insurance agent.
