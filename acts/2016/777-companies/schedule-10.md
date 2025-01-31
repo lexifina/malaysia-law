@@ -22,9 +22,7 @@ Constitution
 
 (a) general powers of attorney from creditors or contributories; or
 
-(b) special authority from creditors or contributories, to act on such a committee, Companies 649
-
-appointed in a meeting of creditors and contributories in such proportions as are agreed or in case of difference as are determined by the Court.
+(b) special authority from creditors or contributories, to act on such a committee, appointed in a meeting of creditors and contributories in such proportions as are agreed or in case of difference as are determined by the Court.
 
 Proceedings
 
@@ -46,6 +44,6 @@ Vacancy
 
 11. A vacancy in the committee shall be filled through an appointment by the committee of the same or another creditor or contributory or person holding a general power or special authority as specified in paragraph 5.
 
-12. The liquidator, may at any time of his own motion and shall, within seven days from a request in writing of a creditor or contributory, summon a meeting of creditors or of contributories, as the case may be, to consider any appointment made under paragraph 11 and the meeting may confirm or revoke the appointment and appoint another creditor or contributory or person holding a general power or special authority as specified in paragraph 5, as the case may be, in his stead. 650 Laws of Malaysia ACT 777
+12. The liquidator, may at any time of his own motion and shall, within seven days from a request in writing of a creditor or contributory, summon a meeting of creditors or of contributories, as the case may be, to consider any appointment made under paragraph 11 and the meeting may confirm or revoke the appointment and appoint another creditor or contributory or person holding a general power or special authority as specified in paragraph 5, as the case may be, in his stead.
 
 13. Notwithstanding any vacancy in the committee, the continuing members may act if there are at least two continuing members.

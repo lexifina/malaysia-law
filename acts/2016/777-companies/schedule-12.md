@@ -24,7 +24,7 @@ The liquidator may—
 
 (g) raise on the security of the assets of the company any money requisite;
 
-(h) take out letters of administration of the estate of any deceased contributory or debtor, and do any other act necessary for obtaining payment of any money due from a contributory or debtor or his estate which cannot be conveniently done in the name of the company, and in all such cases the money due shall, for the purposes of enabling the liquidator to take out the letters of administration or recover the money, be deemed due to the liquidator; 652 Laws of Malaysia ACT 777
+(h) take out letters of administration of the estate of any deceased contributory or debtor, and do any other act necessary for obtaining payment of any money due from a contributory or debtor or his estate which cannot be conveniently done in the name of the company, and in all such cases the money due shall, for the purposes of enabling the liquidator to take out the letters of administration or recover the money, be deemed due to the liquidator;
 
 (i) make any payment as necessary in carrying on the affairs of the company in its ordinary course of business including payment of utility bills, statutory fees and all other such payments;
 
@@ -50,6 +50,6 @@ Powers exercisable with authority
 
 (d) compromise any calls and liabilities to calls, debts and liabilities capable of resulting in debts and any claims, present or future, certain or contingent, ascertained or sounding only in damages subsisting or supposed to subsist between the company and a contributory or other debtor or person apprehending liability to the company, and all questions in any way relating to or affecting the assets or the winding up of the company, on such terms as are agreed, and take any security for the discharge of any such call, debt, liability or claim, and give a complete discharge in respect of the call, debt, liability or claim; and
 
-(e) compromise any debt due to the company other than calls and liabilities for calls and a debt where the amount claimed by the company to be due to the company exceeds ten thousand ringgit. Companies 653
+(e) compromise any debt due to the company other than calls and liabilities for calls and a debt where the amount claimed by the company to be due to the company exceeds ten thousand ringgit.
 
 2. The liquidator may apply to the Court or the committee of inspection for the authority given for the purpose of subparagraph 1(e) without additional approval provided that the debts referred to in that paragraph does not exceed fifty thousand ringgit.

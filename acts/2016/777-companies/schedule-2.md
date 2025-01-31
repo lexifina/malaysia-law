@@ -18,9 +18,7 @@ The date on or before which these shares are, or are liable, to be redeemed
 
 Names, descriptions and addresses of directors or proposed directors
 
-If the share capital of the company is divided into different classes of shares, the right of voting at meetings of the company conferred by, and the rights in respect of capital and dividends attached to, the several classes of shares respectively 624 Laws of Malaysia ACT 777
-
-Number and amount of shares and debentures 1. Shares of RM fully paid issued within the two years preceding the 2. Shares upon which RM per share date of this statement or proposed or agreed credited as paid to be issued as fully or partly paid up 3. Debentures RM otherwise than in cash 4. Consideration:
+If the share capital of the company is divided into different classes of shares, the right of voting at meetings of the company conferred by, and the rights in respect of capital and dividends attached to, the several classes of shares respectively Number and amount of shares and debentures 1. Shares of RM fully paid issued within the two years preceding the 2. Shares upon which RM per share date of this statement or proposed or agreed credited as paid to be issued as fully or partly paid up 3. Debentures RM otherwise than in cash 4. Consideration:
 
 The consideration for the issue or intended issue of those shares and debentures
 
@@ -40,9 +38,7 @@ Amount in cash, shares, or debentures payable to each separate vendor
 
 Amount, if any, paid or payable in cash, Total purchase price RM shares or debentures, for any such property, Cash RM specifying amount, if any, paid or payable for Shares RM goodwill Debentures RM Goodwill RM
 
-Short particulars of any transaction relating to any such property which was completed Companies 625
-
-within the two preceding years and in which any vendor to the company or any person who is, or was at the time thereof, a promoter, director, or proposed director of the company had any interest direct or indirect
+Short particulars of any transaction relating to any such property which was completed within the two preceding years and in which any vendor to the company or any person who is, or was at the time thereof, a promoter, director, or proposed director of the company had any interest direct or indirect
 
 Amount, if any, paid or payable as Amount paid: RM commission for subscribing or agreeing to Amount payable: RM subscribe or procuring or agreeing to procure subscriptions for any shares or debentures in the company; or
 
@@ -66,7 +62,7 @@ Consideration for giving of benefit Consideration:
 
 Dates of, parties to, and general nature of every material contract, other than contracts entered into in the ordinary course of the business intended to be carried on by the company or entered into more than two years before the delivery of this statement
 
-Time and place at which the contracts or copies of the contract or– 626 Laws of Malaysia ACT 777
+Time and place at which the contracts or copies of the contract or–
 
 (1) in the case of a contract not reduced into writing, a memorandum giving full particulars of the contract; and
 
@@ -74,9 +70,7 @@ Time and place at which the contracts or copies of the contract or– 626 Laws o
 
 Names and addresses of the auditors of the company
 
-Full particulars of the nature and extent of the interest, direct or indirect, of every director and of every expert, in the promotion of or in the property proposed to be acquired by the company, or, where the interest of such a director or expert consists in being a partner in a firm or a holder of shares or debentures in a corporation, the nature and extent of the interest of the firm or corporation and where the interest of such a director or such an expert consists in a holding of shares or debentures in a corporation, a statement of the nature and extent of the interest of the director or expert in the corporation, with a statement of all sums paid or agreed to be paid to him or to the firm or corporation in cash or shares, or otherwise, by any person, in the case of a director, either to induce him to become, or to qualify him as, a director, or otherwise for service rendered by him or by the firm or corporation in connection with the promotion or formation of the company, in the case of an expert, for services rendered by him or the firm or corporation in connection with the promotion or formation of the company. For the purposes of this paragraph, a director or expert shall be deemed to have an indirect interest in a corporation if he has any beneficial interest in shares or debentures in a corporation which is by virtue of section Companies 627
-
-7 deemed to be related to that first mentioned corporation
+Full particulars of the nature and extent of the interest, direct or indirect, of every director and of every expert, in the promotion of or in the property proposed to be acquired by the company, or, where the interest of such a director or expert consists in being a partner in a firm or a holder of shares or debentures in a corporation, the nature and extent of the interest of the firm or corporation and where the interest of such a director or such an expert consists in a holding of shares or debentures in a corporation, a statement of the nature and extent of the interest of the director or expert in the corporation, with a statement of all sums paid or agreed to be paid to him or to the firm or corporation in cash or shares, or otherwise, by any person, in the case of a director, either to induce him to become, or to qualify him as, a director, or otherwise for service rendered by him or by the firm or corporation in connection with the promotion or formation of the company, in the case of an expert, for services rendered by him or the firm or corporation in connection with the promotion or formation of the company. For the purposes of this paragraph, a director or expert shall be deemed to have an indirect interest in a corporation if he has any beneficial interest in shares or debentures in a corporation which is by virtue of section 7 deemed to be related to that first mentioned corporation
 
 And also, in the case of a statement to be lodged by a private company on becoming a public company, the following items:
 
@@ -96,7 +90,7 @@ Reports to be set out
 
 2. (1) Where it is proposed to acquire shares in a corporation which by reason of the acquisition or anything to be done in consequence of the acquisition or in connection with it will become a subsidiary of the company, a report by an approved company auditor, who shall be named in the statement, with respect to the profits and losses and assets and liabilities of the other corporation in accordance with subparagraph (2) or (3), as the case may be, indicating how the profits or losses of the other corporation dealt with by the report would, in respect of the shares to be acquired, have concerned members of the company, and what allowance would have fallen to be made, in relation to the assets and liabilities so dealt with, for holders of other shares, if the company had at all material times held the shares to be acquired.
 
-(2) If the other corporation has no subsidiaries, the report referred to in subparagraph (1) shall—628 Laws of Malaysia ACT 777
+(2) If the other corporation has no subsidiaries, the report referred to in subparagraph (1) shall—
 
 (a) so far as regards profits and losses, deal with the profits or losses of the other corporation in respect of each of the five financial years immediately preceding the delivery of the statement to the Registrar; and
 
@@ -122,9 +116,7 @@ NOTE—Where a company is not required to furnish any of the reports referred to
 
 (Signatures of the persons above-named as directors or proposed directors or of their agents authorized in writing)
 
-Date: Companies 629
-
-Part III
+Date: Part III
 
 Provisions applying to Parts I and II of this Schedule
 

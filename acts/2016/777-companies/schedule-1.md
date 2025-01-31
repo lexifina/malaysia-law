@@ -26,7 +26,7 @@ General
 
 (a) the instrument constituting or defining the constitution of the company;
 
-(b) the enactments or provisions having the force of an enactment by or under which the incorporation of the company was effected or is to be effected; Companies 619
+(b) the enactments or provisions having the force of an enactment by or under which the incorporation of the company was effected or is to be effected;
 
 (c) an address in Malaysia where the instrument, enactment or provisions or certified copies may be inspected;
 
@@ -52,7 +52,7 @@ Part II
 
 Matters to be stated
 
-12. The number of founder or management or deferred shares, if any, and the nature and extent of the interest of the holders of those shares in the property and profits of the company. 620 Laws of Malaysia ACT 777
+12. The number of founder or management or deferred shares, if any, and the nature and extent of the interest of the holders of those shares in the property and profits of the company.
 
 13. The number of shares, if any, fixed by the constitution as the qualification of a director, and any provision in the constitution as to the payment to the directors.
 
@@ -80,7 +80,7 @@ Matters to be stated
 
 (a) the period during which the option is exercisable;
 
-(b) the price to be paid for shares or debentures subscribed for under the option; Companies 621
+(b) the price to be paid for shares or debentures subscribed for under the option;
 
 (c) the consideration, if any, given or to be given for the option or for the right to the option; and
 
@@ -100,7 +100,7 @@ Matters to be stated
 
 22. The amount, if any, paid or payable as purchase money in cash, shares or debentures for any property to which the last preceding paragraph applies, specifying the amount, if any, payable for goodwill.
 
-23. The amount, if any, paid within the two preceding years, or payable, as commission, but not including commission to sub-underwriters, for subscribing or agreeing to subscribe, or procuring or agreeing to procure subscriptions, for any shares in or debentures of the corporation, or the rate of any such commission, and the names of any directors or promoters or experts or proposed directors who are entitled to receive any such commission and the amount or rate of the commission. 622 Laws of Malaysia ACT 777
+23. The amount, if any, paid within the two preceding years, or payable, as commission, but not including commission to sub-underwriters, for subscribing or agreeing to subscribe, or procuring or agreeing to procure subscriptions, for any shares in or debentures of the corporation, or the rate of any such commission, and the names of any directors or promoters or experts or proposed directors who are entitled to receive any such commission and the amount or rate of the commission.
 
 24. The amount or estimated amount of preliminary expenses and the persons by whom any of these expenses have been paid or are payable, and the amount or estimated amount of the expenses of the issue and the persons by whom any of those expenses have been paid or are payable.
 
@@ -120,7 +120,7 @@ Matters to be stated
 
 (b) for the purposes of subsection 158(5), a copy of a written valuation of the corporation’s interest in the land so mortgaged showing the nature and extent of the corporation’s interest made not more than six months before the date of the prospectus by a person competent and qualified to make the valuation in the place where the land is situated who is not an officer or employee of the corporation or of any of its guarantor corporations or of any corporation that by virtue of section 7 is deemed to be related to either the first-mentioned corporation or any of its guarantor corporations;
 
-(c) for the purposes of subsection 158(6), a summary made by the auditor who has made for inclusion in the prospectus the report required by Part III of this Schedule; and Companies 623
+(c) for the purposes of subsection 158(6), a summary made by the auditor who has made for inclusion in the prospectus the report required by Part III of this Schedule; and
 
 (d) any other additional information as specified by the Registrar.
 

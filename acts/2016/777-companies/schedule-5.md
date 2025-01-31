@@ -32,9 +32,7 @@ and if so, the report shall contain a statement explaining the effect of the arr
 
 (e) in respect of each person who, at the end of the financial year, was a director of the company—
 
-(i) whether or not, according to the register kept by the company for the purposes of section 59 relating to the obligation of a director of a 634 Laws of Malaysia ACT 777
-
-company to notify such company of his interests in shares in, or debentures of, the company and of every other body corporate, being the company’s subsidiary or holding company or a subsidiary of the company’s holding company, he was at the end of that year, interested in shares in, or debentures of the company or any other body corporate and, if he was so interested, the number and amount of shares in, and debentures of, each body in which, according to that register, he was then interested;
+(i) whether or not, according to the register kept by the company for the purposes of section 59 relating to the obligation of a director of a company to notify such company of his interests in shares in, or debentures of, the company and of every other body corporate, being the company’s subsidiary or holding company or a subsidiary of the company’s holding company, he was at the end of that year, interested in shares in, or debentures of the company or any other body corporate and, if he was so interested, the number and amount of shares in, and debentures of, each body in which, according to that register, he was then interested;
 
 (ii) whether or not, according to that register, he was, at the beginning of that year or, if he was not then a director, when he became a director, interested in shares in, or debentures of, the company or any other such body corporate and, if he was so interested, the number and amount of shares in, and debentures of, each body in which according to that register, he was interested at the beginning of that year or, as the case may be, when he became a director; and
 
@@ -48,7 +46,7 @@ company to notify such company of his interests in shares in, or debentures of, 
 
 (i) whether the directors, before the financial statements were prepared, have taken reasonable steps to ensure that any current assets which were unlikely to be realized in the ordinary course of business including the value of current assets as shown in the accounting records of the company have been written down to an amount which the current assets might be expected so to realize;
 
-(j) whether at the date of the report the directors are aware of any circumstances—Companies 635
+(j) whether at the date of the report the directors are aware of any circumstances—
 
 (i) which would render the values attributed to current assets in the accounts misleading; and
 
@@ -68,7 +66,7 @@ company to notify such company of his interests in shares in, or debentures of, 
 
 (o) whether there has arisen in the interval between the end of the financial year and the date of the report any item, transaction or event of a material and unusual nature likely, in the opinion of the directors, to affect substantially the results of the company’s operations for the financial year in which the report is made and, if so, giving particulars of the item, transaction or event; and
 
-(p) any other details as determined by the Registrar. 636 Laws of Malaysia ACT 777
+(p) any other details as determined by the Registrar.
 
 2. The report shall state, in respect of the directors or past directors of the company, the amount of—
 
@@ -84,9 +82,7 @@ Provided that where a director or any firm of which the director is a member, ac
 
 3. The directors of a company shall state in the report whether he has, since the end of the previous financial year, received or become entitled to receive a benefit, other than a benefit included in the aggregate amount of remuneration received or due and receivable by the directors shown in the accounts or the fixed salary of a full-time employee of the company, by reason of a contract made by the company or a related corporation with the director or with a firm of which he is a member, or with a company in which he has a substantial financial interest, and, if so, the general nature of the benefit.
 
-4. Where at the end of a financial year a company is the subsidiary of another corporation, the directors of the company shall state in, or by way of note as a statement annexed to, the company’s accounts the name of the corporation regarded Companies 637
-
-by the directors as being the company’s ultimate holding company and if known to them, the country in which it is incorporated.
+4. Where at the end of a financial year a company is the subsidiary of another corporation, the directors of the company shall state in, or by way of note as a statement annexed to, the company’s accounts the name of the corporation regarded by the directors as being the company’s ultimate holding company and if known to them, the country in which it is incorporated.
 
 5. Where any option has been granted during the period covered by the profit and loss account to take up unissued shares of a company, the directors’ report shall state—
 
@@ -110,9 +106,7 @@ by the directors as being the company’s ultimate holding company and if known 
 
 9. The auditor’s report shall be shown under separate headings in the balance sheet of every subsidiary company the extent of its holding of shares in the holding company and in other related corporations.
 
-10. The total amount paid to or receivable by the auditors as remuneration for their services as auditors, inclusive of all fees, percentages or other payments or 638 Laws of Malaysia ACT 777
-
-consideration given by or from the company or by or from any subsidiary of the company.
+10. The total amount paid to or receivable by the auditors as remuneration for their services as auditors, inclusive of all fees, percentages or other payments or consideration given by or from the company or by or from any subsidiary of the company.
 
 Part II
 
@@ -146,7 +140,7 @@ including information about any policies of the company in relation to those mat
 
 (e) subject to paragraph 7 of this Part, information about persons with whom the company has contractual or other arrangements which are essential to the business of the company.
 
-3. If the review does not contain any of the information mentioned in subparagraphs 2(a), (b), (c) and (d), it shall state which of the information it does not contain. Companies 639
+3. If the review does not contain any of the information mentioned in subparagraphs 2(a), (b), (c) and (d), it shall state which of the information it does not contain.
 
 4. The review may, where appropriate, include references to, and additional explanations of, amounts included in the company’s financial statements.
 

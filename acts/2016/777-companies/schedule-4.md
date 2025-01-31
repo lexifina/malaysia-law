@@ -16,4 +16,4 @@ APPROVED BODIES
 
 6. Sabah Law Society
 
-7. Advocates Association of Sarawak Companies 633
+7. Advocates Association of Sarawak

@@ -24,9 +24,7 @@ Eligibility for moratorium for corporate voluntary arrangement
 
 Duration and extension of moratorium
 
-3. A moratorium shall remain in force for a period of twenty-eight days from the time it commences under paragraph 2A but a meeting summoned under paragraph 4 may, subject to consent given by the nominee and members of the company, and obtaining seventy-five per centum majority in value of creditors who are present and Companies 643
-
-voting either in person or by proxy at the meeting, extend this period for not more than sixty days.
+3. A moratorium shall remain in force for a period of twenty-eight days from the time it commences under paragraph 2A but a meeting summoned under paragraph 4 may, subject to consent given by the nominee and members of the company, and obtaining seventy-five per centum majority in value of creditors who are present and voting either in person or by proxy at the meeting, extend this period for not more than sixty days.
 
 4. At any meeting where it is proposed to extend the moratorium, before a decision is taken with respect to that proposal, the nominee shall inform the meeting of the actions he has taken in order to comply with his duty under the Seventh Schedule and the costs incurred as a result of his actions for the company, and of any plans he intends to do to continue to comply with that duty if the moratorium is extended and the expected costs of his actions for the company.
 
@@ -50,9 +48,7 @@ Notification of commencement of moratorium
 
 (c) advertise the fact in one widely circulated newspaper in Malaysia in the national language and one widely circulated newspaper in Malaysia in the English language.
 
-11. For the purposes of this Schedule, “petitioning creditor” means a creditor by whom a winding up petition has been presented before the commencement of moratorium, as long as the petition has not been dismissed or withdrawn. 644 Laws of Malaysia ACT 777
-
-Notification of end of moratorium
+11. For the purposes of this Schedule, “petitioning creditor” means a creditor by whom a winding up petition has been presented before the commencement of moratorium, as long as the petition has not been dismissed or withdrawn. Notification of end of moratorium
 
 12. A nominee shall, within seven days after a moratorium comes to an end—
 
@@ -82,7 +78,7 @@ Effects of moratorium
 
 (d) no application for judicial management order may be made against the company;
 
-(e) no judicial manager of the company may be appointed under Subdivision 2 of Division 8 of Part III; Companies 645
+(e) no judicial manager of the company may be appointed under Subdivision 2 of Division 8 of Part III;
 
 (f) no landlord or other person to whom rent is payable may exercise any right of forfeiture by peaceable re-entry in relation to premises let to the company in respect of a failure by the company to comply with any term or condition of its tenancy of such premises, except with the leave of the Court and subject to such terms as the Court may impose;
 
@@ -106,4 +102,4 @@ Company invoices, orders for goods, etc.
 
 (e) orders invoices and other demands for payment, receipts and letter of credit purporting to be issued or signed by or on behalf of the company; and
 
-(f) all other forms of its business correspondence and documentation. 646 Laws of Malaysia ACT 777
+(f) all other forms of its business correspondence and documentation.

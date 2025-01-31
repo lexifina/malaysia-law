@@ -14,9 +14,7 @@ Chairperson
 
 4. A notice of a meeting of the Board shall be sent to every director who is in Malaysia, and the notice shall include the date, time and place of the meeting and the matters to be discussed.
 
-5. An irregularity in the notice of a meeting is waived if all directors entitled to receive notice of the meeting attend the meeting without objection to the irregularity. 630 Laws of Malaysia ACT 777
-
-Methods of holding meetings
+5. An irregularity in the notice of a meeting is waived if all directors entitled to receive notice of the meeting attend the meeting without objection to the irregularity. Methods of holding meetings
 
 6. A meeting of the Board may be held either—
 
@@ -46,9 +44,7 @@ Minutes
 
 Resolution passed at adjourned meetings
 
-14. Where a resolution is passed at an adjourned meeting of the Board, the resolution shall, for all purposes, be treated as having been passed on the date on which it was in fact passed and shall not to be deemed to have been passed on any earlier date. Companies 631
-
-Resolution in writing
+14. Where a resolution is passed at an adjourned meeting of the Board, the resolution shall, for all purposes, be treated as having been passed on the date on which it was in fact passed and shall not to be deemed to have been passed on any earlier date. Resolution in writing
 
 15. A resolution in writing, signed or assented to by all directors then entitled to receive notice of meeting of the Board, is as valid and effective as if it had been passed at a meeting of the Board duly convened.
 
@@ -74,9 +70,7 @@ Managing Directors
 
 23. A director appointed to the office of managing director shall not, while holding that office, be subject to retirement by rotation or be taken into account in determining the rotation of retirement of directors, but his appointment shall be automatically determined if he ceases from any cause to be a director.
 
-24. A managing director shall, subject to the terms of any agreement entered into in any particular case, receive such remuneration, whether by way of salary, 632 Laws of Malaysia ACT 777
-
-commission, or participation in profits, or partly in one way and partly in another, as the Board may determine.
+24. A managing director shall, subject to the terms of any agreement entered into in any particular case, receive such remuneration, whether by way of salary, commission, or participation in profits, or partly in one way and partly in another, as the Board may determine.
 
 25. The Board may entrust to and confer upon a managing director any of the powers exercisable by the Board upon such terms and conditions and with such restrictions as the Board may think fit, and either collaterally with or to the exclusion of the Board’s own powers, and may from time to time revoke, withdraw, alter or vary all or any of those powers.
 

@@ -32,7 +32,7 @@ The judicial manager may exercise all or any of the following powers:
 
 (m) to make any payment which is necessary or incidental to the performance of his functions;
 
-(n) to carry on the business of the company; Companies 647
+(n) to carry on the business of the company;
 
 (o) to establish subsidiaries of the company;
 
@@ -70,4 +70,4 @@ TYPES OF ESSENTIAL GOODS AND SERVICES
 
 7. Data storage and processing
 
-8. Website hosting 648 Laws of Malaysia ACT 777
+8. Website hosting

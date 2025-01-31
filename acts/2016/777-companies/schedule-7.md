@@ -22,7 +22,7 @@ ARRANGEMENT
 
 (a) he forms the opinion that—
 
-(i) the proposed voluntary arrangement no longer has a reasonable prospect of being approved or implemented; or 642 Laws of Malaysia ACT 777
+(i) the proposed voluntary arrangement no longer has a reasonable prospect of being approved or implemented; or
 
 (ii) the company will not have sufficient funds available for the company during the remainder of the moratorium to enable the company to carry on its business;
 

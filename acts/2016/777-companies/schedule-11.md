@@ -14,4 +14,4 @@ POWERS OF LIQUIDATOR IN VOLUNTARY WINDING UP
 
 5. The liquidator may pay the debts of the company and adjust the rights of the contributories among themselves.
 
-6. When several liquidators are appointed, any power given by this Act may be exercised by one or more of the liquidators as is determined at the time of their appointment, or in the absence of such determination by at least two of the liquidators. Companies 651
+6. When several liquidators are appointed, any power given by this Act may be exercised by one or more of the liquidators as is determined at the time of their appointment, or in the absence of such determination by at least two of the liquidators.

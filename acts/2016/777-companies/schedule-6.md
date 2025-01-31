@@ -14,7 +14,7 @@ POWERS OF RECEIVER OR RECEIVER AND MANAGER
 
 (c) to grant options over the property of the company on such conditions as the receiver or receiver and manager thinks fit;
 
-(d) to borrow money on the security of the property of the company; 640 Laws of Malaysia ACT 777
+(d) to borrow money on the security of the property of the company;
 
 (e) to insure the property of the company;
 
@@ -50,7 +50,7 @@ POWERS OF RECEIVER OR RECEIVER AND MANAGER
 
 (u) where a debt or liability is owed to the company, to prove the debt or liability in a bankruptcy, insolvency or winding up and, in connection with the bankruptcy, insolvency or winding up, to receive dividends and to assent to a proposal for a composition or a scheme of arrangement;
 
-(v) to make or defend an application for the winding up of the company; and Companies 641
+(v) to make or defend an application for the winding up of the company; and
 
 (w) to refer to arbitration any question affecting the company.
 
