@@ -2,7 +2,7 @@
 
 [Sections 2, 3, 12, 13, 16, 19, 20, 22, 23, 24, 26, 27 and 28]
 
-1. Section 354, 372, 375, 375B, 376, 376A, 376B, 377A, 377B, 377C, 377CA, 377D, 377E or 509 of the Penal Code [Act 574] except—Sexual Offences Against Children 27
+1. Section 354, 372, 375, 375B, 376, 376A, 376B, 377A, 377B, 377C, 377CA, 377D, 377E or 509 of the Penal Code [Act 574] except—
 
 (a) for the purposes of section 24 of this Act relating to the non-application of sections 173A and 294 of the Criminal Procedure Code to a serious offence under the Penal Code; and
 
