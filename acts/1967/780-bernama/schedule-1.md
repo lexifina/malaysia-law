@@ -10,9 +10,7 @@ Tenure of office
 
 (2) The members of the Board representing the media organizations shall hold office as representatives of their media organizations.
 
-(3) Four members of the Board representing the Government of Malaysia shall be the representatives from the Ministry charged with the responsibility for communications and the Ministry charged with the responsibility for foreign affairs. 16 Laws of Malaysia ACT 780
-
-Alternate members
+(3) Four members of the Board representing the Government of Malaysia shall be the representatives from the Ministry charged with the responsibility for communications and the Ministry charged with the responsibility for foreign affairs. Alternate members
 
 2. In appointing a member of the Board, the Yang di-Pertuan Agong may nominate an alternate member who, when attending a Board meeting in place of the full member, shall have full voting rights.
 
@@ -44,8 +42,6 @@ Procedure on filling of vacancies
 
 4. (1) The following procedures shall be adopted for filling vacancies on the Board arising from any of the reasons enumerated in paragraph 3:
 
-BERNAMA 17
-
 (a) in the case of members representing the media organization, the appointment for the purpose of filling any vacancy shall be made on the recommendation of the media organization whose representative has vacated his post; and
 
 (b) in the case of a vacancy arising through a media organization whose representative is represented on the Board ceasing to be a subscriber to BERNAMA, the remaining media organizations which are subscribers to BERNAMA shall make a recommendation to the Yang di-Pertuan Agong.
@@ -68,7 +64,7 @@ Meetings
 
 Procedure
 
-6. Subject to this Act, the Board may determine its own procedure. 18 Laws of Malaysia ACT 780
+6. Subject to this Act, the Board may determine its own procedure.
 
 PART II
 
@@ -100,11 +96,7 @@ Meetings
 
 (2) A meeting of the Council shall be convened within one month of any matter being formally referred to it by the Board or on receipt of any complaint from a subscriber to BERNAMA.
 
-(3) Three members shall constitute a quorum for a meeting of the Council.
-
-BERNAMA 19
-
-Expenses
+(3) Three members shall constitute a quorum for a meeting of the Council. Expenses
 
 4. All expenses of the Council shall be paid out of the funds of BERNAMA.
 
