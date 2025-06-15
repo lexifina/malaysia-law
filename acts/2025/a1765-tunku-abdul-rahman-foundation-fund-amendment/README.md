@@ -1,0 +1,17 @@
+# Tunku Abdul Rahman Foundation Fund (Amendment) Act 2025 [Act A1765]
+
+Tunku Abdul Rahman Foundation Fund (Amendment) Act 2025 (Akta Kumpulan Wang Yayasan Tunku Abdul Rahman (Pindaan) 2025), Laws of Malaysia Act A1765, as enacted, from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2899249_BI/Act%20A1765%20-%20TUNKU%20ABDUL%20RAHMAN%20FOUNDATION%20FUND%20(AMENDMENT)%20ACT%202025.pdf
+
+In force: 2025-06-15 (the commencement the portal lists for it: "2025-06-15").
+
+| File | Provision |
+| --- | --- |
+| [s-001.md](s-001.md) | Section 1. Short title and commencement |
+| [s-002.md](s-002.md) | Section 2. Amendment of section 2 |
+| [s-003.md](s-003.md) | Section 3 |
+| [s-004.md](s-004.md) | Section 4. New section 7a |
+| [s-005.md](s-005.md) | Section 5. Amendment of section 8 |
+| [s-006.md](s-006.md) | Section 6. Amendment of section 9 |
+| [s-007.md](s-007.md) | Section 7. Amendment of section 11 |
+| [s-008.md](s-008.md) | Section 8. Amendment of section 13 |
+| [s-009.md](s-009.md) | Section 9. Saving |
