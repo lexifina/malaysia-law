@@ -1,0 +1,11 @@
+# Entertainments Duty (Exemption) (No. 21) Order 2025 [P.U. (A) 188/2025]
+
+Entertainments Duty (Exemption) (No. 21) Order 2025 (Perintah Duti Hiburan (Pengecualian) (No. 21) 2025), P.U. (A) 188/2025, as published in the Federal Government Gazette on 2025-06-19, made under ACT 103 - ENTERTAINMENTS DUTY ACT 1953; English text from the Attorney General's Chambers' portal: https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/2872812/PUA%20188.pdf
+
+In force: 2025-06-20 (the day after its publication in the Gazette; it names no other day (Interpretation Acts 1948 and 1967 [Act 388], s. 19(1))).
+
+| File | Provision |
+| --- | --- |
+| [preamble.md](preamble.md) | Enacting words |
+| [para-001.md](para-001.md) | Paragraph 1. Citation |
+| [para-002.md](para-002.md) | Paragraph 2. Exemption |
