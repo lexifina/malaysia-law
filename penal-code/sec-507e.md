@@ -1,0 +1,4 @@
+# Section 507E. Publishing, etc., any identity information to cause harassment, distress, fear or alarm
+507E. Whoever, in any manner or by any means, publishes, circulates or makes available or causes to be published, circulated or made available, any identity information of a person with intent to cause, or knowing or ought to know that the publication, circulation or availability is likely to cause harassment, distress, fear or alarm to the person, shall be punished with imprisonment for a term which may extend to three years or with fine or with both.
+ILLUSTRATION
+A, feeling upset after ending his relationship with Z who cheated on him, decides to take revenge on Z by posting online, without Z's consent, intimate photos of Z. Z is likely to feel distressed. A has committed the offence defined in this section.

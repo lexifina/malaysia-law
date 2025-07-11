@@ -1,0 +1,2 @@
+# Section 507B. Causing harassment, distress, fear or alarm
+507B. Whoever, in any manner or by any means, uses or makes any threatening, abusive or insulting words or communication, or engages in any threatening, abusive or insulting act, with intent to cause, or knowing or ought to know that the words, communication or act are likely to cause harassment, distress, fear or alarm to a person, shall be punished with imprisonment for a term which may extend to three years or with fine or with both.
