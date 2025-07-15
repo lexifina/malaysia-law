@@ -1,0 +1,5 @@
+# By-law 1. Citation and commencement
+
+1. (1) These by-laws may be cited as the Johor Port Authority (Tanjung Pelepas Port) (Scale of Rates, Dues and Charges) (Amendment) By-Laws 2025.
+
+(2) These By-Laws come into operation on 15 July 2025.
