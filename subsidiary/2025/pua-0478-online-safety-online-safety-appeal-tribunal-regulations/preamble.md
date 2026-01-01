@@ -1,0 +1,7 @@
+# Enacting words
+
+IN exercise of the powers conferred by paragraphs 81(2)(g) and (i) of the Online Safety Act 2025 [Act 866], the Minister makes the following regulations:
+
+PART I
+
+PRELIMINARY
