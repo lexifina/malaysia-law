@@ -1,0 +1,3 @@
+# Paragraph 168
+
+168. PEJ21B0477 LaserJet Pro MFP HP M225DW (CF485A)

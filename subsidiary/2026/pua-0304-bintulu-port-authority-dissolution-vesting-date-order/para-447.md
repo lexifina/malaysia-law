@@ -1,0 +1,3 @@
+# Paragraph 447
+
+447. KOM21B0011 LPB/L09-HR/H/10/82
