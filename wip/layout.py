@@ -271,15 +271,16 @@ def parse(pdf_bytes):
             if label and para is not None and not ln['lead_tab'] and REF_END.search(para['text']):
                 label = None
             starts = label or ln['allbold'] or (in_schedules and (ln['bold'] or ln['centred']))
+            # a line left of the paragraph's earlier continuation lines starts a new paragraph (same page only)
             new = (para is None or starts or (gap is not None and gap > 1.45 * ln['size'])
-                   or rx < para['rx'] - 2)
+                   or (gap is not None and para.get('cx') is not None and rx < para['cx'] - 2))
             if new:
                 close_para()
                 st['para'] = {'rx': rx, 'text': ts}
-            elif para['text'].endswith(('-', '—')):
-                para['text'] += ts
             else:
-                para['text'] += ' ' + ts
+                if gap is not None and para.get('cx') is None:
+                    para['cx'] = rx
+                para['text'] += ts if para['text'].endswith(('-', '—')) else ' ' + ts
             last_y = ln['y']
     close_para()
     for u in units:
