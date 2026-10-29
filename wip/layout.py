@@ -90,7 +90,7 @@ def page_lines(page):
             spans = [s for s in l['spans'] if s['text']]
             if not spans:
                 continue
-            size = max(s['size'] for s in spans)
+            size = max(s['size'] for s in (visible(spans) or spans))
             y = l['bbox'][1]
             if y < 70 and is_running_head(spans, size, y):
                 continue
@@ -117,6 +117,7 @@ def page_lines(page):
         vis = visible(spans) or [s for s in spans if s['text'].strip()]
         first = vis[0]
         out.append({'x': next(s for s in spans if s['text'].strip())['bbox'][0], 'y': y, 'size': size,
+                    'x1': max(s['bbox'][2] for s in spans if s['text'].strip()),
                     'bold': 'Bold' in first['font'], 'allbold': all('Bold' in s['font'] for s in vis),
                     'sc': SC in first['font'], 'lead_tab': txt[:1] == '\t', 'text': txt})
     return out
@@ -175,6 +176,12 @@ def parse(pdf_bytes):
                 mins[pi % 2][m] = mins[pi % 2].get(m, 0) + 1
     # the left margin by page parity (recto/verso): the most common smallest x
     margins = {p: max(sorted(c), key=lambda m: c[m]) if c else 0 for p, c in mins.items()}
+    maxs = {0: {}, 1: {}}
+    for pi, ls in pages.items():
+        if ls:
+            m = round(max(ln['x1'] for ln in ls))
+            maxs[pi % 2][m] = maxs[pi % 2].get(m, 0) + 1
+    rights = {p: max(sorted(c), key=lambda m: c[m]) if c else 0 for p, c in maxs.items()}
 
     for pi in sorted(pages):
         lines = pages[pi]
@@ -185,9 +192,10 @@ def parse(pdf_bytes):
         for ln in lines:
             t = ln['text']
             ts = clean(t)
-            if not ts:
-                continue
+            if not ts or ts == 'Section Subject Matter':
+                continue                                  # the Eleventh Schedule's table head, repeated per page
             rx = ln['x'] - margin
+            ln['centred'] = rx > 20 and abs(rx - (rights[pi % 2] - ln['x1'])) < 14
             gap = (ln['y'] - last_y) if last_y is not None else None
             is_centre = rx > 25 and len(ts) < 75 and not ln['lead_tab']
             para = st['para']
@@ -258,11 +266,11 @@ def parse(pdf_bytes):
                 last_y = ln['y']
                 continue
             label = LABEL_RE.match(t)
-            if label and gap is not None:
+            if label and gap is not None and not ln['lead_tab']:
                 label = None                              # mid-page, a new item has a tab or a gap before it
             if label and para is not None and not ln['lead_tab'] and REF_END.search(para['text']):
                 label = None
-            starts = ln['lead_tab'] or label or ln['allbold'] or (in_schedules and (ln['bold'] or is_centre))
+            starts = label or ln['allbold'] or (in_schedules and (ln['bold'] or ln['centred']))
             new = (para is None or starts or (gap is not None and gap > 1.45 * ln['size'])
                    or rx < para['rx'] - 2)
             if new:
