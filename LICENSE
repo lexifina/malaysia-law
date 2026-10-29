@@ -1,0 +1,19 @@
+The legal texts come from the Laws of Malaysia portal of the Attorney General's Chambers of Malaysia
+(https://lom.agc.gov.my), retrieved 29 October 2026: the English reprints of the Federal Constitution
+(Reprint as at 15 October 2020 and Reprint as at 30 November 2025).
+
+The portal's terms say: "Copyright 2023 by Attorney General's Chambers, Malaysia, all rights reserved." Federal
+legislation "can be accessed and downloaded at no charge from this portal". The online reprints "are not the
+reprinted version made pursuant to Section 14 of the Revision of Laws Act 1968 [Act 1]", and a print-out from the
+portal "is NOT A COPY of the Gazette printed by the Government Printer for the purposes of section 61 of the
+Interpretation Acts 1948 and 1967 [Act 388]". Authoritative printed copies of the Federal Government Gazette are
+available from Percetakan Nasional Malaysia Berhad.
+
+This repository is private. The texts are reproduced with the attribution above; no licence to redistribute them is
+stated by the source.
+
+Changes made by Lexifina: each version was converted to one Markdown file per provision, one paragraph per line;
+spacing, quotes and dashes were normalised; running heads, footnotes and the reprints' NOTES were left out; for
+Article 119 before 15 December 2021 the words the 2020 Reprint's footnotes give as the text then in force were
+read; and the versions were arranged as git commits credited to the Acts that made each change. The wording of the
+law was not otherwise changed. The Attorney General's Chambers of Malaysia does not endorse this repository.
