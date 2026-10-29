@@ -49,17 +49,15 @@ def norm(t):
     return t
 
 
-def is_running_head(spans, size):
+def is_running_head(spans, size, y):
     """Act title (italic), page number, or "[Article 3]" / "[Second Schedule]" (small capitals, 10 pt)."""
     vis = [x for x in spans if x['text'].strip()]
     if not vis:
         return True
     t = ''.join(x['text'] for x in vis).strip()
-    if 'Italic' in vis[0]['font'] and 'Bold' not in vis[0]['font']:
-        return True
-    if re.fullmatch(r'\d+', t):
-        return True
-    return SC in vis[0]['font'] and size <= 10.5
+    if y < 60:
+        return True                                      # act title and page number band
+    return SC in vis[0]['font'] and size <= 10.5 and ('[' in t or ']' in t)
 
 
 def page_footnotes(page):
@@ -83,8 +81,11 @@ def page_lines(page):
                 continue
             size = max(s['size'] for s in spans)
             y = l['bbox'][1]
-            if y < 70 and is_running_head(spans, size):
+            if y < 70 and is_running_head(spans, size, y):
                 continue
+            vis = [s for s in spans if s['text'].strip()]
+            if vis and SC in vis[0]['font'] and size <= 10.5 and vis[0]['text'].strip().startswith('[')                     and ''.join(s['text'] for s in vis).strip().endswith(']'):
+                continue                                 # running reference "[Article 38]" lower on a page
             raw.append([l['bbox'][0], y, size, spans])
     raw.sort(key=lambda r: (round(r[1] / 3), r[0]))
     merged = []
@@ -106,9 +107,9 @@ def page_lines(page):
             if s['text'].strip():
                 x = s['bbox'][0]
                 break
-        first = next(s for s in spans if s['text'].strip())
+        first = next((s for s in spans if s['text'].strip(' 	*')), None) or             next(s for s in spans if s['text'].strip())
         bold = 'Bold' in first['font']
-        allbold = all('Bold' in s['font'] for s in spans if s['text'].strip())
+        allbold = all('Bold' in s['font'] for s in spans if s['text'].strip(' 	*'))
         out.append({'x': x, 'y': y, 'size': size, 'bold': bold, 'allbold': allbold,
                     'sc': SC in first['font'], 'lead_tab': txt[:1] == '\t' or spans[0]['text'][:1] == '\t',
                     'text': txt, 'spans': spans})
@@ -132,7 +133,7 @@ def clean(t):
     return t
 
 
-ART_RE = re.compile(r'^\s*(\d+[A-Z]*)\.(?=\s|$)')
+ART_RE = re.compile(r'^[\s*]*(\d+[A-Z]*)\.(?=\s|$)')
 
 
 def body_pages(doc):
@@ -192,7 +193,7 @@ def parse(pdf_bytes, body_size=12.0):
                 continue
             centred = abs((ln['x'] + (pw - ln['x'])) / 2 - pw / 2) < 1 and False
             # centred lines: start well right of the text block and are short
-            is_centre = ln['x'] > 140 and len(ts) < 70 and not ln['lead_tab']
+            is_centre = ln['x'] > 120 and len(ts) < 70 and not ln['lead_tab']
             if not in_schedules and ts == 'SCHEDULES' and ln['size'] > 13:
                 close_para()
                 in_schedules = True
