@@ -1,0 +1,107 @@
+{
+ "country": "MY",
+ "acts": [
+  {
+   "slug": "federal-constitution",
+   "short": "FC",
+   "title": "Federal Constitution",
+   "url": "https://lom.agc.gov.my/federal-constitution.php",
+   "versions": [
+    {
+     "from": "2020-10-15",
+     "units": 276,
+     "source_url": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal Constitution (Reprint 2020).pdf",
+     "sha256": "b5b3af38c6fef1a5b7a95ed0232588baece9b26beaf810643411f63be949bd9d"
+    },
+    {
+     "from": "2021-12-15",
+     "units": 277,
+     "source_url": "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2630992_BI/REPRINT 2025 - BI WJW250908 Teks B5.pdf",
+     "sha256": "69fd2742ab6705562c006286a78858682e81016ac4808f72c18d887308032c2c"
+    },
+    {
+     "from": "2022-02-11",
+     "units": 277,
+     "source_url": "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2630992_BI/REPRINT 2025 - BI WJW250908 Teks B5.pdf",
+     "sha256": "69fd2742ab6705562c006286a78858682e81016ac4808f72c18d887308032c2c"
+    },
+    {
+     "from": "2022-10-05",
+     "units": 278,
+     "source_url": "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2630992_BI/REPRINT 2025 - BI WJW250908 Teks B5.pdf",
+     "sha256": "69fd2742ab6705562c006286a78858682e81016ac4808f72c18d887308032c2c"
+    },
+    {
+     "from": "2025-11-30",
+     "units": 278,
+     "source_url": "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2630992_BI/REPRINT 2025 - BI WJW250908 Teks B5.pdf",
+     "sha256": "69fd2742ab6705562c006286a78858682e81016ac4808f72c18d887308032c2c"
+    }
+   ]
+  },
+  {
+   "slug": "personal-data-protection-act",
+   "short": "PDPA",
+   "title": "Personal Data Protection Act 2010 [Act 709]",
+   "url": "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3301061_BI/Act 709 (Reprint 2026).pdf",
+   "versions": [
+    {
+     "from": "2013-11-15",
+     "units": 161,
+     "source_url": "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1726091_BI/ACT 709-REPRINT 2023.pdf",
+     "sha256": "b430f48c50878d20b73b19969126eb42f407f6a333d1b523b6ebcb1f460202d6"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 161,
+     "source_url": "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3301061_BI/Act 709 (Reprint 2026).pdf",
+     "sha256": "765d4a480248f9dcfc6ee0387e1d2df3a55ecf110b6a9c781be06bc8e6fdcfea"
+    },
+    {
+     "from": "2025-04-01",
+     "units": 161,
+     "source_url": "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3301061_BI/Act 709 (Reprint 2026).pdf",
+     "sha256": "765d4a480248f9dcfc6ee0387e1d2df3a55ecf110b6a9c781be06bc8e6fdcfea"
+    },
+    {
+     "from": "2025-06-01",
+     "units": 165,
+     "source_url": "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3301061_BI/Act 709 (Reprint 2026).pdf",
+     "sha256": "765d4a480248f9dcfc6ee0387e1d2df3a55ecf110b6a9c781be06bc8e6fdcfea"
+    }
+   ]
+  },
+  {
+   "slug": "penal-code",
+   "short": "PC",
+   "title": "Penal Code [Act 574]",
+   "url": "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1841145_BI/WJW231011 Act 574.pdf",
+   "versions": [
+    {
+     "from": "2023-07-04",
+     "units": 629,
+     "source_url": "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1841145_BI/WJW231011 Act 574.pdf",
+     "sha256": "120212a0d9a460c89e23cab50d962a7ff9c211c270cd66c3a675bf45f1406650"
+    },
+    {
+     "from": "2024-10-30",
+     "units": 633,
+     "source_url": "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2368163_BI/Act A1721.pdf",
+     "sha256": "1f24abc8ba3d23b676086af1a09443c0588225be5ec08fbb906cfb21c0865328"
+    },
+    {
+     "from": "2025-07-11",
+     "units": 639,
+     "source_url": "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2731052_BI/Penal Code (Amendment) Act 2025 A1750.pdf",
+     "sha256": "699a0ded01c91c067ca98bb15dbde0ac569a00ff6f6a33d8f1b2f763853b3a81"
+    },
+    {
+     "from": "2025-09-10",
+     "units": 638,
+     "source_url": "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1845383_BI/A1691 BI.pdf",
+     "sha256": "7fad33c3370a5e54a9f024fc5237646cfb6d54447009e0a42a7829f8100a3703"
+    }
+   ]
+  }
+ ]
+}
