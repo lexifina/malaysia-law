@@ -24,14 +24,20 @@
    "missing": [],
    "paragraphs_checked": 2224,
    "slug": "personal-data-protection-act"
+  },
+  {
+   "expected": [],
+   "missing": [],
+   "paragraphs_checked": 3186,
+   "slug": "penal-code"
   }
  ],
  "missing_total": 0,
  "rebuild": {
-  "commits": 10,
-  "history_tip": "6781a17da8bfced50c063a0a3d3ca9830e58718c",
+  "commits": 14,
+  "history_tip": "d447f2edf28df8adab6f08c737d5d746a54eaee0",
   "identical": true,
   "main_identical": true,
-  "tags": 15
+  "tags": 22
  }
 }

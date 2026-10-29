@@ -26,6 +26,7 @@ SC = 'SC700'
 ORD = ['first', 'second', 'third', 'fourth', 'fifth', 'sixth', 'seventh', 'eighth', 'ninth', 'tenth', 'eleventh',
        'twelfth', 'thirteenth', 'fourteenth']
 ROMAN = {'I': 1, 'V': 5, 'X': 10, 'L': 50}
+XH_SKIP = re.compile(r'^(ILLUSTRATIONS?|Illustrations?|EXPLANATIONS?|Explanations?|EXCEPTIONS?|Exceptions?)')
 ART_RE = re.compile(r'^[\s*]*(\d+[A-Z]*)\.(?=\s|$)')
 LABEL_RE = re.compile(r'^\s*(\(\w{1,5}\)|\d+[A-Z]*\.)(\s|$)')
 REF_END = re.compile(r'\b(paragraphs?|subparagraphs?|Clauses?|sections?|subsections?|Articles?)$')
@@ -149,16 +150,19 @@ def body_pages(doc):
 UNIT = {'art': ('art', 'Art. ', 'Article'), 'sec': ('sec', 's. ', 'Section')}
 
 
-def parse(pdf_bytes, unit='art'):
+def parse(pdf_bytes, unit='art', chapters=False):
     """Ordered list of units {key, label, kind, heading, text} from a reprint; unit 'art' (the Constitution's
     Articles) or 'sec' (an Act's sections). In 'sec' mode an editorial "*NOTE—" set smaller than the text (an Act
-    reprint quoting a saving provision of an amending Act) is dropped up to the next full-size line."""
+    reprint quoting a saving provision of an amending Act) is dropped up to the next full-size line. chapters=True
+    (the Penal Code, an Act without Parts) reads "CHAPTER XVI" headings and centred cross-headings before a
+    section's bold heading ("Mischief") as units chapter-16 and xh-425."""
     kp, lp, hp = UNIT[unit]
     doc = fitz.open(stream=pdf_bytes, filetype='pdf')
     start, end = body_pages(doc)
     units = []
     st = {'cur': None, 'para': None}
     pending_heading = []
+    pending_cross = []
     part = None
     in_schedules = False
     centre_block = None
@@ -196,7 +200,7 @@ def parse(pdf_bytes, unit='art'):
             continue
         margin = margins[pi % 2]
         last_y = None
-        for ln in lines:
+        for li, ln in enumerate(lines):
             t = ln['text']
             ts = clean(t)
             if unit == 'sec' and ts.startswith('NOTE—') and ln['size'] < 11:
@@ -262,6 +266,38 @@ def parse(pdf_bytes, unit='art'):
                     st['para'] = {'rx': rx, 'text': ts}
                 last_y = ln['y']
                 continue
+            if chapters and not in_schedules:
+                # an Act without Parts (the Penal Code): "CHAPTER XVI" and its title, and centred cross-headings
+                # ("Mischief") between sections, kept as their own units xh-<next section>
+                m_pc = re.match(r'^CHAPTER ([IVXL]+)([A-Z]?)$', up)
+                if m_pc and (is_centre or ln['centred']):
+                    c = f'{roman(m_pc.group(1)):02d}{m_pc.group(2).lower()}'
+                    new_unit(f'chapter-{c}', f'Chapter {m_pc.group(1)}{m_pc.group(2)}', 'chapter')
+                    st['cur']['lines'].append(f'# Chapter {m_pc.group(1)}{m_pc.group(2)}')
+                    centre_block = st['cur']
+                    pending_heading = []
+                    last_y = ln['y']
+                    continue
+                if centre_block is not None and st['cur'] is centre_block and ln['centred']:
+                    if para is not None and gap is not None and gap < 1.45 * ln['size']:
+                        para['text'] += ' ' + ts
+                    else:
+                        close_para()
+                        st['para'] = {'rx': rx, 'text': ts}
+                    last_y = ln['y']
+                    continue
+                nxt = lines[li + 1] if li + 1 < len(lines) else None
+                if ln['centred'] and not ln['bold'] and nxt is not None and nxt['bold'] \
+                        and not LABEL_RE.match(t) and not XH_SKIP.match(ts) and st['cur'] is not None \
+                        and ts[:1].isupper() and not ts.endswith(('.', ';', ',', ':')) \
+                        and st['cur']['kind'] == 'sec':
+                    close_para()
+                    if pending_cross and gap is not None and gap < 1.45 * ln['size']:
+                        pending_cross[-1] += ' ' + ts
+                    else:
+                        pending_cross.append(ts)
+                    last_y = ln['y']
+                    continue
             if not in_schedules and ln['allbold'] and not ART_RE.match(t):
                 close_para()                              # an article heading (may run over two lines)
                 if pending_heading and gap is not None and gap < 1.45 * ln['size']:
@@ -278,6 +314,10 @@ def parse(pdf_bytes, unit='art'):
                 key = f'{kp}-{int(mm.group(1)):03d}{mm.group(2).lower()}'
                 head = ' '.join(pending_heading) if pending_heading else None
                 pending_heading = []
+                if pending_cross:
+                    new_unit('xh-' + key[len(kp) + 1:], f'Heading before {lp}{num}', 'heading')
+                    st['cur']['lines'] += ['# ' + x for x in pending_cross]
+                    pending_cross.clear()
                 new_unit(key, f'{lp}{num}', kp, head)
                 st['cur']['lines'].append(f'# {hp} {num}' + (f'. {head}' if head else ''))
                 centre_block = None

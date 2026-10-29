@@ -22,7 +22,9 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 
 def flat(pdf):
     d = fitz.open(stream=pdf, filetype='pdf')
-    t = ' '.join(layout.norm(d[i].get_text()) for i in range(d.page_count))
+    import amending                                      # letter-spaced justified lines ("l i c e n s e d")
+    t = ' '.join(amending.despace(line) for i in range(d.page_count)
+                 for line in layout.norm(d[i].get_text()).split('\n'))
     t = t.replace('*', '')
     t = re.sub(r'\s+', ' ', t)
     return re.sub(r'(?<=\w)- (?=\w)', '-', t).lower()      # "di-Pertua-" at a line end
