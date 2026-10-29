@@ -18,24 +18,20 @@
    "missing": [],
    "paragraphs_checked": 4558,
    "slug": "federal-constitution"
+  },
+  {
+   "expected": [],
+   "missing": [],
+   "paragraphs_checked": 2224,
+   "slug": "personal-data-protection-act"
   }
  ],
- "check": {
-  "acts": 1,
-  "backwards": 0,
-  "future_dated": 0,
-  "merges": 0,
-  "mismatches": 0,
-  "missing_in_force": 0,
-  "trailer_errors": 0,
-  "versions": 5
- },
  "missing_total": 0,
  "rebuild": {
-  "commits": 6,
-  "history_tip": "a89b5ed8a0dcff9d752d5a6ba2839cfd8a52ceac",
+  "commits": 10,
+  "history_tip": "6781a17da8bfced50c063a0a3d3ca9830e58718c",
   "identical": true,
   "main_identical": true,
-  "tags": 9
+  "tags": 15
  }
 }

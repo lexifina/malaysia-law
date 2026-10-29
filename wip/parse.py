@@ -149,12 +149,17 @@ def constitution():
     }, (b20, b25)
 
 
-def requests_count():
+def requests_count(t0='', t1='9999'):
+    """Network requests logged in .cache/requests.jsonl between two UTC times (each part counts its own window)."""
     n = 0
     with open(os.path.join(fetch.CACHE, 'requests.jsonl'), encoding='utf-8') as f:
         for line in f:
-            n += 1
+            if t0 <= json.loads(line)['t'] <= t1:
+                n += 1
     return n
+
+
+FC_WINDOW = ('', '2026-10-29T13:40:00Z')       # the Constitution's research and fetches, before PUBLISH
 
 
 def main():
@@ -181,7 +186,7 @@ def main():
         },
         'sources': [{
             'name': "Laws of Malaysia portal, Attorney General's Chambers of Malaysia (lom.agc.gov.my)",
-            'url': 'https://lom.agc.gov.my/', 'retrieved': '2026-10-29', 'requests': requests_count(),
+            'url': 'https://lom.agc.gov.my/', 'retrieved': '2026-10-29', 'requests': requests_count(*FC_WINDOW),
             'licence': "Copyright Attorney General's Chambers, Malaysia, all rights reserved (portal terms, tnc.php); "
                        'free download; the repository is private',
             'notes': 'Read directly with curl (no bot challenge; robots.txt answers HTTP 500). Reprint PDFs with a text '

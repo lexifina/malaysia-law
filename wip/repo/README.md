@@ -11,6 +11,7 @@ The text is the **English** text of the Attorney General's Chambers' official re
 | Folder | Law | Versions | History |
 | --- | --- | ---: | --- |
 | `federal-constitution/` | Federal Constitution | 5 | The Reprint as at 15 October 2020 (oldest version available), then Act A1603 s. 3 and Act A1656 (Article 119, voting age eighteen, and Article 119A, both 15 December 2021), Act A1642 (Malaysia Agreement 1963 amendments: Articles 1(2), 160, 161A, 11 February 2022), Act A1663 (anti-party-hopping: Articles 10(3A), 48(6), 49A, 160, Eighth Schedule, 5 October 2022), then the Reprint as at 30 November 2025 |
+| `personal-data-protection-act/` | Personal Data Protection Act 2010 [Act 709] | 4 | As enacted, in force 15 November 2013 (read from the First Reprint as at 1 July 2023, which lists no amended sections), then the Personal Data Protection (Amendment) Act 2024 [Act A1727] on its three commencement days: 1 January 2025 (ss. 67, 136), 1 April 2025 ("data user" becomes "data controller" throughout; ss. 4, 5, 9, 21, 48, 129) and 1 June 2025 (Division 1A, ss. 12A, 12B, 43A). The result equals the Reprint as at 15 September 2026 word for word |
 
 Each folder's `README.md` lists every provision, how often it changed and when. Files: `federal-constitution/art-049a.md` is Article 49A; `part-04-chapter-06.md` is the heading of Part IV, Chapter 6; `sch-08.md` is the Eighth Schedule (one file per Schedule).
 
@@ -27,13 +28,14 @@ Each folder's `README.md` lists every provision, how often it changed and when. 
 | Every change to Article 160, word by word | `git log -p --word-diff federal-constitution/art-160.md` |
 | Every law in the record, in order | `git log --reverse --format="%ad %an" --date=short main` |
 | Everything one Act changed | `git show law/act-a1663` (tags `law/<key>` mark each law's commit) |
+| Section 129 of the PDPA before and after 1 April 2025 | `python tools/on.py 2025-03-31 personal-data-protection-act sec-129` and the same for `2025-04-01` |
 
 After a rebuild, refresh tags with `git fetch --force --tags`: a plain fetch keeps stale tags.
 
 ## Dates
 
 - Each commit is dated at **noon, Asia/Kuala_Lumpur, on the day the change came into force**. The in-force day is also in the `In-force:` trailer, which the tools read; royal assent (`Enacted:`) and Gazette publication (`Published:`) are trailers too.
-- **In-force days** are those the 2025 Reprint's NOTES give for each provision ("in force from 05-10-2022"). Where an Act names no day, the Interpretation Acts 1948 and 1967 [Act 388], s. 19(1), put it in force on "the date immediately following the date of its publication".
+- **In-force days** for the Constitution are those the 2025 Reprint's NOTES give for each provision; for the PDPA, those the 2026 Reprint's LIST OF SECTIONS AMENDED gives ("in force from 05-10-2022"). Where an Act names no day, the Interpretation Acts 1948 and 1967 [Act 388], s. 19(1), put it in force on "the date immediately following the date of its publication".
 - **Act A1656** came into force on 15 December 2021 but received royal assent on 31 May 2022: its commit is dated before the Act existed, as the Act itself provides.
 - **The two reprints** are dated by their own "As at" dates (15 October 2020 and 30 November 2025).
 - `--before="YYYY-MM-DD"` alone uses your clock's time of day, so a change that took effect that day may be missed before noon. Use `T23:59:59Z` as above, or the tool.
@@ -42,7 +44,7 @@ After a rebuild, refresh tags with `git fetch --force --tags`: a plain fetch kee
 
 - Every version is read back from git on the day it took effect and on the day before (`tools/check_repo.py`); both must match `corpus.json`. Results are in `REPRODUCE.md`. The repository is rebuilt a second time from the same data and gives identical hashes.
 - Health checks: no merge commits on `main`, commit dates never go backwards, nothing dated in the future, and every commit's trailers parse with `git interpret-trailers --parse`.
-- **Against the official text, read a second way** (`tools/verify.py`): every paragraph of every version (4,558 paragraph checks) appears word for word in the reprint PDF read as plain page text by PyMuPDF, ignoring case (small capitals) and the page furniture between pages. 0 misses. The only two paragraphs not in the 2020 Reprint's body are the Article 119 words the reprint's own footnotes give as the text before Act A1603 section 3 came into force (see below).
+- **Against the official text, read a second way** (`tools/verify.py`): every paragraph of every version (6,782 paragraph checks: 4,558 Constitution, 2,224 PDPA) appears word for word in the reprint PDF read as plain page text by PyMuPDF, ignoring case (small capitals) and the page furniture between pages. 0 misses. The only two paragraphs not in the 2020 Reprint's body are the Article 119 words the reprint's own footnotes give as the text before Act A1603 section 3 came into force (see below).
 - The latest version is the Reprint as at 30 November 2025 exactly as printed; the build stops if the amendments applied to the 2020 Reprint do not reproduce it, apart from the two unexplained changes listed below.
 
 ## What "author" means
@@ -62,6 +64,7 @@ The author of a commit is the Act that made the change, with an e-mail address t
 - **Acts not yet in force.** The Constitution (Amendment) Act 2025 [Act A1752] (citizenship) and the Constitution (Amendment) (No. 2) Act 2025 [Act A1767] are not in force; the 2025 Reprint marks the provisions they will amend and does not incorporate them. They are not applied.
 - **Changes that are not amendments.** Orders under the Constitution that change numbers without changing its words (for example the numbers of judges, P.U. (A) 163/2009) are footnotes in the reprint and are left out, as are the NOTES themselves.
 - **Layout.** The reprints' running heads, NOTES pages and footnotes are left out. Small capitals are read as capitals ("Article 160A"). The table head of the Eleventh Schedule, repeated on every page, is left out.
+- **PDPA:** the long title and enacting words before Part I are not included; the 2026 Reprint's editorial NOTE quoting the saving provision of Act A1727 (s. 14) is left out. A1727 s. 7 changed only the Malay text. The portal's PDF of the Act as originally gazetted answers HTTP 500, so the 2023 Reprint, which lists no amended sections, stands in for it.
 - **State law**, subsidiary legislation and the other federal Acts are not included yet.
 
 ## How it is built

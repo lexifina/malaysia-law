@@ -60,7 +60,7 @@ def clean(t):
 
 
 def visible(spans):
-    return [s for s in spans if s['text'].strip(' \t*')]
+    return [s for s in spans if s['text'].strip().strip('*').strip()]
 
 
 def is_running_head(spans, size, y):
@@ -146,8 +146,14 @@ def body_pages(doc):
     return start, doc.page_count
 
 
-def parse(pdf_bytes):
-    """Ordered list of units {key, label, kind, heading, text} from a reprint."""
+UNIT = {'art': ('art', 'Art. ', 'Article'), 'sec': ('sec', 's. ', 'Section')}
+
+
+def parse(pdf_bytes, unit='art'):
+    """Ordered list of units {key, label, kind, heading, text} from a reprint; unit 'art' (the Constitution's
+    Articles) or 'sec' (an Act's sections). In 'sec' mode an editorial "*NOTE—" set smaller than the text (an Act
+    reprint quoting a saving provision of an amending Act) is dropped up to the next full-size line."""
+    kp, lp, hp = UNIT[unit]
     doc = fitz.open(stream=pdf_bytes, filetype='pdf')
     start, end = body_pages(doc)
     units = []
@@ -193,6 +199,12 @@ def parse(pdf_bytes):
         for ln in lines:
             t = ln['text']
             ts = clean(t)
+            if unit == 'sec' and ts.startswith('NOTE—') and ln['size'] < 11:
+                st['note'] = True
+            elif ln['size'] >= 11:
+                st['note'] = False
+            if st.get('note'):
+                continue
             if not ts or ts == 'Section Subject Matter':
                 continue                                  # the Eleventh Schedule's table head, repeated per page
             rx = ln['x'] - margin
@@ -220,6 +232,15 @@ def parse(pdf_bytes):
             up = ts.upper()
             m_part = re.match(r'^PART ([IVXL]+)$', up)
             m_ch = re.match(r'^CHAPTER (\d+)\s*[-—]\s*(.*)$', up)
+            m_div = re.match(r'^DIVISION (\d+)([A-Z]?)$', up)
+            if not in_schedules and is_centre and m_div:
+                d = f'{int(m_div.group(1)):02d}{m_div.group(2).lower()}'
+                new_unit(f'part-{part:02d}-division-{d}', f'Part {part}, Division {m_div.group(1)}{m_div.group(2)}',
+                         'division')
+                st['cur']['lines'].append(f'# Division {m_div.group(1)}{m_div.group(2)}')
+                centre_block = st['cur']
+                last_y = ln['y']
+                continue
             if not in_schedules and is_centre and (m_part or m_ch):
                 if m_part:
                     part = roman(m_part.group(1))
@@ -254,11 +275,11 @@ def parse(pdf_bytes):
             if m_art:
                 num = m_art.group(1)
                 mm = re.match(r'^(\d+)([A-Z]*)$', num)
-                key = f'art-{int(mm.group(1)):03d}{mm.group(2).lower()}'
+                key = f'{kp}-{int(mm.group(1)):03d}{mm.group(2).lower()}'
                 head = ' '.join(pending_heading) if pending_heading else None
                 pending_heading = []
-                new_unit(key, f'Art. {num}', 'art', head)
-                st['cur']['lines'].append(f'# Article {num}' + (f'. {head}' if head else ''))
+                new_unit(key, f'{lp}{num}', kp, head)
+                st['cur']['lines'].append(f'# {hp} {num}' + (f'. {head}' if head else ''))
                 centre_block = None
                 st['para'] = {'rx': rx, 'text': f'{num}. ' + clean(t[m_art.end():])}
                 last_y = ln['y']

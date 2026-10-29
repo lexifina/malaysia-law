@@ -78,6 +78,10 @@ def found(kl, hay):
 
 def main():
     c = json.load(open(os.path.join(HERE, 'corpus.json'), encoding='utf-8'))
+    d = os.path.join(HERE, 'corpus.d')
+    for name in sorted(os.listdir(d)) if os.path.isdir(d) else []:
+        if name.endswith('.json'):
+            c['acts'] += json.load(open(os.path.join(d, name), encoding='utf-8'))['acts']
     texts = {}
     report = {'acts': []}
     total_miss = 0
