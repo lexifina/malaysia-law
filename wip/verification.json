@@ -1,0 +1,24 @@
+{
+ "acts": [
+  {
+   "slug": "federal-constitution",
+   "paragraphs_checked": 4558,
+   "missing": [],
+   "expected": [
+    {
+     "version": "2020-10-15",
+     "unit": "art-119",
+     "line": "(a) has attained the age of twenty-one years on the qualifying date;",
+     "why": "words restored from the reprint footnote (parse.FIX_2020)"
+    },
+    {
+     "version": "2020-10-15",
+     "unit": "art-119",
+     "line": "(a) \"absent voter\" means, in relation to any constituency, any citizen who applies for registration as an absent voter in respect of that constituency;",
+     "why": "words restored from the reprint footnote (parse.FIX_2020)"
+    }
+   ]
+  }
+ ],
+ "missing_total": 0
+}

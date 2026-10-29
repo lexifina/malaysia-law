@@ -119,6 +119,7 @@ def page_lines(page):
         out.append({'x': next(s for s in spans if s['text'].strip())['bbox'][0], 'y': y, 'size': size,
                     'x1': max(s['bbox'][2] for s in spans if s['text'].strip()),
                     'bold': 'Bold' in first['font'], 'allbold': all('Bold' in s['font'] for s in vis),
+                    'allital': all('Italic' in s['font'] for s in vis),
                     'sc': SC in first['font'], 'lead_tab': txt[:1] == '\t', 'text': txt})
     return out
 
@@ -270,7 +271,7 @@ def parse(pdf_bytes):
                 label = None                              # mid-page, a new item has a tab or a gap before it
             if label and para is not None and not ln['lead_tab'] and REF_END.search(para['text']):
                 label = None
-            starts = label or ln['allbold'] or (in_schedules and (ln['bold'] or ln['centred']))
+            starts = label or ln['allbold'] or (in_schedules and (ln['bold'] or ln['centred'] or ln['allital']))
             # a line left of the paragraph's earlier continuation lines starts a new paragraph (same page only)
             new = (para is None or starts or (gap is not None and gap > 1.45 * ln['size'])
                    or (gap is not None and para.get('cx') is not None and rx < para['cx'] - 2))
