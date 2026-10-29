@@ -1,0 +1,11 @@
+{
+ "parts": {
+  "20-pdpa.json": {
+   "acts": [
+    "personal-data-protection-act"
+   ],
+   "sha256": "c8177a7c549351d6f9b1ccb3af001faa4675b9caa78f94ee3d70f94e94353f6a"
+  }
+ },
+ "schema": 1
+}
