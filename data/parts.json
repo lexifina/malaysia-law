@@ -5,6 +5,12 @@
     "personal-data-protection-act"
    ],
    "sha256": "c8177a7c549351d6f9b1ccb3af001faa4675b9caa78f94ee3d70f94e94353f6a"
+  },
+  "41-employment-act.json": {
+   "acts": [
+    "employment-act"
+   ],
+   "sha256": "0d24047593c6c3569e3fcaaab1edbc39a7734ecbd3fc981ff586974ddcf4d4c4"
   }
  },
  "schema": 1

@@ -70,6 +70,20 @@
      "sha256": "765d4a480248f9dcfc6ee0387e1d2df3a55ecf110b6a9c781be06bc8e6fdcfea"
     }
    ]
+  },
+  {
+   "slug": "employment-act",
+   "short": "EA",
+   "title": "Employment Act 1955 [Act 265]",
+   "url": "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1744567_BI/Reprint Act 265 (Final).pdf",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 100,
+     "source_url": "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1744567_BI/Reprint Act 265 (Final).pdf",
+     "sha256": "6ef0ba72dc9c149c474d7989b8c3b39168c753472d11a64d720bd227e12a3bf7"
+    }
+   ]
   }
  ]
 }

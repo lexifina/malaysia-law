@@ -1,6 +1,6 @@
 # How this repository was made (Malaysia)
 
-This file is written by the build on 2026-10-29, the day the source data was retrieved.
+This file is written by the build on 2026-11-03, the day the source data was retrieved.
 
 ## Sources
 
@@ -8,6 +8,7 @@ This file is written by the build on 2026-10-29, the day the source data was ret
 | --- | --- | --- | --- |
 | Laws of Malaysia portal, Attorney General's Chambers of Malaysia (lom.agc.gov.my) | <https://lom.agc.gov.my/> | 2026-10-29 | Copyright Attorney General's Chambers, Malaysia, all rights reserved (portal terms, tnc.php); free download; the repository is private |
 | Laws of Malaysia portal, Attorney General's Chambers: Act 709 reprints (2023, 2026) and Act A1727 | <https://lom.agc.gov.my/principal.php?type=updated> | 2026-10-29 | Copyright Attorney General's Chambers, Malaysia, all rights reserved (portal terms); reprints published by the Commissioner of Law Revision under the Revision of Laws Act 1968; Act A1727 printed by Percetakan Nasional Malaysia Berhad (publisher's copyright, all rights reserved) |
+| Attorney General's Chambers of Malaysia, Employment Act 1955 [Act 265], official English reprint | <https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1744567_BI/Reprint Act 265 (Final).pdf> | 2026-11-03 | Copyright 2023 by Attorney General's Chambers, Malaysia, all rights reserved; the portal permits free download. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -17,20 +18,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | --- | --- | ---: | --- |
 | `federal-constitution` | Federal Constitution | 5 | 2020-10-15 to 2025-11-30 |
 | `personal-data-protection-act` | Personal Data Protection Act 2010 [Act 709] | 4 | 2013-11-15 to 2025-06-01 |
+| `employment-act` | Employment Act 1955 [Act 265] | 1 | 2023-01-01 to 2023-01-01 |
 
-The build made 10 commits:
+The build made 11 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 2 | first version of an act |
+| 3 | first version of an act |
 | 7 | one law on its in-force day |
 | 1 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-10-29.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 6 laws in the record.
-- 16 tags.
+- 17 tags.
 
 ## Dates
 
@@ -42,13 +44,13 @@ When a law gives no date of its own, the default rule applies: Interpretation Ac
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `93986c9ad4ef9abc5c3ea26515e53c5832235a039dd54e477c69bb8b175ac6fc` (756282 bytes).
+- Corpus: sha256 `b29f906c1d14da613cbf2744be415e247f033a43890d0df3479067a973a11410` (948654 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-9 versions of 2 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+10 versions of 3 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
 No second build of this corpus has been compared yet.
 
@@ -67,6 +69,9 @@ No second build of this corpus has been compared yet.
 - PDPA: the First Reprint as at 1 July 2023 lists no amended sections ("- NIL -"), so its text is taken as the Act as enacted and dated from commencement, 15 November 2013 (P.U. (B) 464/2013, from the portal's list of principal Acts); the portal's copy of the original Act could not be read. The long title and enacting words before Part I are not included.
 - PDPA: Act A1727 is applied on the days the 2026 Reprint's LIST OF SECTIONS AMENDED gives per section (1 January, 1 April, 1 June 2025). Sections not in that list differ only by the general amendment of A1727 s. 2 ("data user(s)" -> "data controller(s)"; parse checks this word for word) and go on its day, 1 April 2025. A1727 s. 7 changes only the national language text (s. 16(3)) and so nothing here.
 - PDPA: the 2026 Reprint's editorial NOTE quoting A1727 s. 14 (saving), printed under s. 146, is left out; A1727 s. 14 is not a provision of Act 709.
+- In-force basis: the official Employment Act 1955 [Act 265] reprint, page 2, states that latest amendment Act A1651 came into operation on 1 January 2023; the single current-text version is dated 2023-01-01.
+- The act is recorded one official page per unit because the source contains multi-column schedules and repeal tables. Page text is transcribed directly from the official PDF text layer with page furniture outside the body clipped; no legal word is model-written or corrected.
+- The official PDF is the visual authority for formula typography; the record stores its text layer page by page.
 
 ## What AI did and did not do
 
@@ -79,3 +84,4 @@ The commit messages are written by `build.py` from the source data.
 Model use at data-build time:
 - Claude Code with Claude Opus 5.5 (claude-opus-5-5) wrote Lexifina's code, chose the sources and acts and read the reprints' NOTES to list which provisions each amending Act changed and when. It wrote no legal text: every line of law comes from a reprint PDF. The code runs no model.
 - Claude Code with Claude Opus 5.5 (claude-opus-5-5) wrote Lexifina's code and read Act A1727 and the reprint's lists to map each change to its day. No model wrote legal text.
+- GPT-6 wrote extraction and validation code. No model wrote or corrected law text.
