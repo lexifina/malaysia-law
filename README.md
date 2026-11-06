@@ -1,5 +1,7 @@
 # Malaysia: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Malaysia's national law, which global-law reads at `malaysia/national/acts/`.
+
 The law of Malaysia as a git history: one file per provision or source page, one commit per amending Act on the day it came into force, and the Act that made each change as the commit's author. `git blame` names the Act behind every paragraph; `git log` lists every change to an Article; `tools/on.py` gives the text in force on any day.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `my/`.
