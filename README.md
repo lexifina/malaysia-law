@@ -1,92 +1,92 @@
 # Malaysia: law history in git
 
+
+The law of Malaysia as a git history: one file per provision, one commit per change on the day it came into force, and the Act that made each change as the commit's author. `git blame` names the Act behind every paragraph; `git log` lists every change to an Article; picking a date gives the text in force that day.
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Malaysia's national law, which global-law reads at `malaysia/national/acts/`.
 
-The law of Malaysia as a git history: one file per provision or source page, one commit per amending Act on the day it came into force, and the Act that made each change as the commit's author. `git blame` names the Act behind every paragraph; `git log` lists every change to an Article; `tools/on.py` gives the text in force on any day.
+**What is in it now:** 3 federal laws with 10 versions: the Federal Constitution, with 5 versions from 15 October 2020 to 30 November 2025; the Personal Data Protection Act 2010 [Act 709], with 4 versions from 15 November 2013 to 1 June 2025; and the Employment Act 1955 [Act 265], its current text only. [`data/versions.json`](data/versions.json) lists every version of each act with its source PDF; [`data/laws.csv`](data/laws.csv) lists every law in the record with the days it was enacted, published and came into force.
 
-It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `my/`.
+Each act is a folder with one file per Article or section, Part or Chapter heading and Schedule, and a `README.md` listing its provisions and their changes (`federal-constitution/art-160.md` is Article 160 of the Federal Constitution, `federal-constitution/sch-08.md` its Eighth Schedule); the Employment Act has one file per page of the official reprint (`employment-act/page-060.md` is page 60).
 
-The text is the **English** text of the Attorney General's Chambers' official reprints on the [Laws of Malaysia portal](https://lom.agc.gov.my). Malay is the national language and the Malay (Rumi) text is published alongside; it is not built here.
+The text is in English, as the Attorney General's Chambers' official reprints print it. Malay is the national language and its text is published alongside; it is not part of this record.
 
-**What is in it now**
-
-| Folder | Law | Versions | History |
-| --- | --- | ---: | --- |
-| `federal-constitution/` | Federal Constitution | 5 | The Reprint as at 15 October 2020 (oldest version available), then Act A1603 s. 3 and Act A1656 (Article 119, voting age eighteen, and Article 119A, both 15 December 2021), Act A1642 (Malaysia Agreement 1963 amendments: Articles 1(2), 160, 161A, 11 February 2022), Act A1663 (anti-party-hopping: Articles 10(3A), 48(6), 49A, 160, Eighth Schedule, 5 October 2022), then the Reprint as at 30 November 2025 |
-| `personal-data-protection-act/` | Personal Data Protection Act 2010 [Act 709] | 4 | As enacted, in force 15 November 2013 (read from the First Reprint as at 1 July 2023, which lists no amended sections), then the Personal Data Protection (Amendment) Act 2024 [Act A1727] on its three commencement days: 1 January 2025 (ss. 67, 136), 1 April 2025 ("data user" becomes "data controller" throughout; ss. 4, 5, 9, 21, 48, 129) and 1 June 2025 (Division 1A, ss. 12A, 12B, 43A). The result equals the Reprint as at 15 September 2026 word for word |
-| `employment-act/` | Employment Act 1955 [Act 265] | 1 | Current English reprint, one file per official body page. Its latest amendment, Act A1651, came into operation on 1 January 2023, as stated on page 2 of the reprint. Earlier text is not represented. |
-
-Each folder's `README.md` lists every provision, how often it changed and when. Files: `federal-constitution/art-049a.md` is Article 49A; `part-04-chapter-06.md` is the heading of Part IV, Chapter 6; `sch-08.md` is the Eighth Schedule (one file per Schedule).
-
-## A lawyer's questions as git commands
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
-| What did Article 119 say on 1 January 2021? | `python tools/on.py 2021-01-01 federal-constitution art-119` |
-| Which Act gave Article 119 its wording on a date | `python tools/on.py --law 2022-01-01 federal-constitution art-119` |
-| The whole Constitution on a date | `python tools/on.py 2022-06-01 federal-constitution` |
-| The same, with raw git (bash) | `git show $(git rev-list -1 --before="2021-01-01T23:59:59Z" main -- federal-constitution/art-119.md):federal-constitution/art-119.md` |
-| The same, in PowerShell | `$r = git rev-list -1 --before="2021-01-01T23:59:59Z" main -- federal-constitution/art-119.md; git show "$($r):federal-constitution/art-119.md"` |
+| Every change to Article 160 of the Constitution | `git log -p --word-diff -- federal-constitution/art-160.md` |
 | Which Act wrote each line of Article 160? | `git blame federal-constitution/art-160.md` |
-| Every change to Article 160, word by word | `git log -p --word-diff federal-constitution/art-160.md` |
-| Every law in the record, in order | `git log --reverse --format="%ad %an" --date=short main` |
-| Everything one Act changed | `git show law/act-a1663` (tags `law/<key>` mark each law's commit) |
-| Section 129 of the PDPA before and after 1 April 2025 | `python tools/on.py 2025-03-31 personal-data-protection-act sec-129` and the same for `2025-04-01` |
+| Every version of the Constitution, with the day each came into force | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- federal-constitution ':!*/README.md'` |
+| Article 160 as in force on 1 June 2022 | `python tools/on.py 2022-06-01 federal-constitution art-160` |
 
-After a rebuild, refresh tags with `git fetch --force --tags`: a plain fetch keeps stale tags.
+**Outside git**, we also host this record publicly, for free:
+
+- **[Ask Claude about Malaysian law](https://global-law.lexifina.com/v1/try_claude?country=malaysia)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=malaysia)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=annual+leave&jurisdictions=malaysia)**: a search of Malaysian law for "annual leave", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Malay or in English.
+
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
+
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add malaysia/national/acts
+python3 tools/law.py show 2026-01-01 malaysia/national/acts/federal-constitution/art-160.md
+```
+
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
 ## Dates
 
-- Each commit is dated at **noon, Asia/Kuala_Lumpur, on the day the change came into force**. The in-force day is also in the `In-force:` trailer, which the tools read; royal assent (`Enacted:`) and Gazette publication (`Published:`) are trailers too.
-- **In-force days** for the Constitution are those the 2025 Reprint's NOTES give for each provision; for the PDPA, those the 2026 Reprint's LIST OF SECTIONS AMENDED gives ("in force from 05-10-2022"). Where an Act names no day, the Interpretation Acts 1948 and 1967 [Act 388], s. 19(1), put it in force on "the date immediately following the date of its publication".
-- **Act A1656** came into force on 15 December 2021 but received royal assent on 31 May 2022: its commit is dated before the Act existed, as the Act itself provides.
-- **The two reprints** are dated by their own "As at" dates (15 October 2020 and 30 November 2025).
-- `--before="YYYY-MM-DD"` alone uses your clock's time of day, so a change that took effect that day may be missed before noon. Use `T23:59:59Z` as above, or the tool.
+Each commit is dated at noon, Asia/Kuala_Lumpur, on the day the change came into force, and carries it in its `In-force:` trailer (royal assent and Gazette publication are in `Enacted:` and `Published:`):
+
+- for the Constitution, the day the 2025 Reprint's NOTES give for each changed provision; for the PDPA, the days the Reprint as at 15 September 2026 lists for each section Act A1727 amended; where an Act names no day, the day after its publication (Interpretation Acts 1948 and 1967 [Act 388], s. 19(1));
+- the two Constitution reprints by their own "As at" dates (15 October 2020 and 30 November 2025); the PDPA as enacted by its commencement day, 15 November 2013; the Employment Act's one text by 1 January 2023, the day its latest amendment, Act A1651, came into operation (page 2 of the reprint);
+- Act A1656 came into force on 15 December 2021 but received royal assent on 31 May 2022, so its commit is dated before the Act was enacted; Act A1663 section 6 (the Eighth Schedule) came into force later in some States, but the NOTES give 5 October 2022, and that day is used.
+
+Each change is credited to the Act that made it, as the reprint's NOTES name it (`Act A1663 <act-a1663@agc.gov.my.invalid>`). The first text of the Constitution (the 2020 Reprint, the oldest English text online) and the Employment Act's text are credited to the publisher, the Attorney General's Chambers, as are two small differences between the reprints that no Act explains, committed on 30 November 2025 and labelled unexplained.
 
 ## How it is checked
 
-- Every version is read back from git on the day it took effect and on the day before (`tools/check_repo.py`); both must match `corpus.json`. Results are in `REPRODUCE.md`. The repository is rebuilt a second time from the same data and gives identical hashes.
-- Health checks: no merge commits on `main`, commit dates never go backwards, nothing dated in the future, and every commit's trailers parse with `git interpret-trailers --parse`.
-- **Against the official text, read a second way:** the Constitution and PDPA have 4,558 and 2,224 paragraph checks respectively against their official PDFs, with 0 misses and two documented Constitution footnote exceptions. The Employment Act's 100 body pages match 32,724 case-sensitive word and punctuation tokens in the official PDF text layer.
-- The latest version is the Reprint as at 30 November 2025 exactly as printed; the build stops if the amendments applied to the 2020 Reprint do not reproduce it, apart from the two unexplained changes listed below.
-
-## What "author" means
-
-The author of a commit is the Act that made the change, with an e-mail address that cannot exist (`act-a1663@agc.gov.my.invalid`), so `git blame` and `git log --author` name Acts. The committer is always Lexifina.
-
-- **The first commit** is the oldest English text available online, the 2020 Reprint, credited to the publisher, the Attorney General's Chambers.
-- **Credits come only from the source.** Each Act is credited with exactly the provisions the 2025 Reprint's NOTES say it changed, on the day they give.
-- **Unexplained changes.** Two small differences between the reprints that no Act explains (a comma in the Second Schedule, Part II, section 1(3); "I," in the Sixth Schedule's Oath of Secrecy) are committed by the publisher on 30 November 2025, labelled unexplained.
-- Blame credits whole lines (one paragraph per line). Use `git log -p --word-diff` to see which words each change made.
+- `tools/check_repo.py` reads each of the 10 versions back from git on the day it came into force and on the day before; both must match the corpus (0 mismatches, see [`REPRODUCE.md`](REPRODUCE.md)).
+- The Acts applied to the 2020 Reprint must give the Reprint as at 30 November 2025 exactly, apart from the two unexplained changes, and Act A1727 applied to the PDPA its Reprint as at 15 September 2026, word for word.
+- Against the official PDFs read a second way: every paragraph of the Constitution and the PDPA (4,558 and 2,224 checks) is found word for word, with 0 misses; the Employment Act's 100 pages match the words and punctuation of the PDF's text layer.
+- History is append-only: no merge commits, commit dates never go backwards, nothing is dated in the future, and every commit's trailers parse.
 
 ## What it does not show
 
-- **History before October 2020.** The 2006 and 2010 reprints are online in Malay only; the English reprints online are those of 2020 and 2025. The NOTES in each reprint record every earlier amendment back to 1957 with the replaced words, so a full history could be rebuilt from them; that is not done yet.
-- **Article 119 in the 2020 Reprint.** The reprint prints the voting age "eighteen years" and "is registered" (absent voters) although its footnotes say those words of Act A1603 section 3 were "not yet in force". From 15 October 2020 to 14 December 2021 this repository reads the words the footnotes say they replaced ("twenty-one years", "applies for registration").
-- **Act A1663, section 6.** The portal's list of amendments says section 6 (the Eighth Schedule) came into force on other days in some States (P.U. (B) 596/2022 and 282/2023); the 2025 Reprint's NOTES give 5 October 2022 for both changes, and that day is used.
-- **Acts not yet in force.** The Constitution (Amendment) Act 2025 [Act A1752] (citizenship) and the Constitution (Amendment) (No. 2) Act 2025 [Act A1767] are not in force; the 2025 Reprint marks the provisions they will amend and does not incorporate them. They are not applied.
-- **Changes that are not amendments.** Orders under the Constitution that change numbers without changing its words (for example the numbers of judges, P.U. (A) 163/2009) are footnotes in the reprint and are left out, as are the NOTES themselves.
-- **Layout.** The reprints' running heads, NOTES pages and footnotes are left out. Small capitals are read as capitals ("Article 160A"). The table head of the Eleventh Schedule, repeated on every page, is left out.
-- **PDPA:** the long title and enacting words before Part I are not included; the 2026 Reprint's editorial NOTE quoting the saving provision of Act A1727 (s. 14) is left out. A1727 s. 7 changed only the Malay text.
-- **Penal Code:** a proposed history is held for further source checks and is not in the published record.
-- **State law**, subsidiary legislation and the remaining federal Acts are not included yet.
-
-## How it is built
-
-Lexifina reads the sources listed here and records each act's dated versions, and the laws that made each change, in one corpus file. `tools/build.py` writes this repository from that file, and the same corpus always gives the same commit hashes; `REPRODUCE.md` gives the details and the checks. A model (Claude) wrote Lexifina's code; it wrote no legal text, and no model runs when the history is built.
-
-Lexifina's code reads the reprint PDFs with PyMuPDF; Lexifina's code writes `corpus.json`; Lexifina's code checks it against the PDFs; the shared builder `tools/build.py` turns it into the commits.
+- **The Constitution before October 2020.** The English reprints online are those of 2020 and 2025 (the 2006 and 2010 reprints are in Malay only); the NOTES record every amendment back to 1957, but that history is not rebuilt yet.
+- **Earlier texts of the Employment Act.** Only its current reprint is here.
+- **Acts not yet in force.** The Constitution (Amendment) Act 2025 [Act A1752] and the Constitution (Amendment) (No. 2) Act 2025 [Act A1767] are not applied.
+- **Article 119 as the 2020 Reprint prints it.** Its footnotes say Act A1603 section 3 (voting age eighteen) was not yet in force, so until 14 December 2021 this record reads the words they say it replaced ("twenty-one years").
+- **Notes and layout.** The reprints' NOTES, footnotes and running heads, orders that change numbers but not words, and the PDPA's long title and enacting words are left out.
+- **The other federal Acts, subsidiary legislation, state law and case law** are not here yet.
 
 ## Sources
 
-| Source | What | Dated versions | Names the amending law | Licence | Notes |
-| --- | --- | --- | --- | --- | --- |
-| [Laws of Malaysia](https://lom.agc.gov.my) (Attorney General's Chambers) | Federal Constitution reprints (English 2020 and 2025; Malay 2006, 2010, 2020, 2025), amending Acts as PDFs, principal Acts as updated reprints | reprints only ("As at") | yes (NOTES per Article, with in-force days and replaced words) | "Copyright 2023 by Attorney General's Chambers, Malaysia, all rights reserved"; free download | Official. Online reprints "are not the reprinted version made pursuant to Section 14 of the Revision of Laws Act 1968"; a print-out "is NOT A COPY of the Gazette" |
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [Laws of Malaysia](https://lom.agc.gov.my) (Attorney General's Chambers) | Official portal: reprints of the Federal Constitution and principal Acts, amending Acts | reprints only ("As at"): the Constitution 2020 and 2025, Act 709 2023 and 2026 | The NOTES and lists of amendments name each amending Act and its day. Online reprints are not the reprints made under section 14 of the Revision of Laws Act 1968, nor copies of the Gazette |
 
-Research guides that cover every country: [GlobaLex](https://www.nyulawglobal.org/globalex/) and the [Law Library of Congress Guide to Law Online](https://www.loc.gov/research-centers/law-library-of-congress/researcher-resources/guide-to-law-online/).
+## Licence
 
-See `LICENSE` for the attribution.
+See [`LICENSE`](LICENSE). The texts come from the Attorney General's Chambers' Laws of Malaysia portal ("Copyright 2023 by Attorney General's Chambers, Malaysia, all rights reserved"), which lets federal legislation be downloaded at no charge; they are reproduced with that attribution, and the Chambers do not endorse this repository.
+
+No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by AI models, and a model read the reprints' NOTES and Act A1727 to list which provisions each Act changed and when (see [`REPRODUCE.md`](REPRODUCE.md)).
 
 ## Bahasa Melayu
 
-Repositori ini memuatkan sejarah undang-undang Malaysia dalam git: satu fail bagi setiap peruntukan, dan satu commit bagi setiap Akta pindaan pada hari ia mula berkuat kuasa. Teksnya ialah teks bahasa Inggeris cetakan semula rasmi Jabatan Peguam Negara (lom.agc.gov.my). Perlembagaan Persekutuan bermula dengan Cetakan Semula sehingga 15 Oktober 2020, diikuti Akta A1603, A1656, A1642 dan A1663, dan Cetakan Semula sehingga 30 November 2025. Repositori ini bukan nasihat undang-undang.
+Repositori ini memuatkan sejarah undang-undang Malaysia dalam git: satu fail bagi setiap peruntukan, satu commit bagi setiap pindaan pada hari ia mula berkuat kuasa, dan Akta yang membuat pindaan itu sebagai pengarang commit. Teksnya ialah teks bahasa Inggeris cetakan semula rasmi Jabatan Peguam Negara (lom.agc.gov.my). Kandungannya kini: Perlembagaan Persekutuan (5 versi, dari Cetakan Semula sehingga 15 Oktober 2020 hingga Cetakan Semula sehingga 30 November 2025), Akta Perlindungan Data Peribadi 2010 [Akta 709] (4 versi) dan Akta Kerja 1955 [Akta 265] (teks semasa sahaja). `python tools/on.py 2022-06-01 federal-constitution art-160` memaparkan Perkara 160 yang berkuat kuasa pada tarikh itu, dan `git blame federal-constitution/art-160.md` menamakan Akta bagi setiap perenggan.
+
+## More
+
+From [lexifina/global-law](https://github.com/lexifina/global-law):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
+- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
