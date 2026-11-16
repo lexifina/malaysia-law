@@ -59,6 +59,7 @@ Each change is credited to the Act that made it, as the reprint's NOTES name it 
 - The Acts applied to the 2020 Reprint must give the Reprint as at 30 November 2025 exactly, apart from the two unexplained changes, and Act A1727 applied to the PDPA its Reprint as at 15 September 2026, word for word.
 - Against the official PDFs read a second way: every paragraph of the Constitution and the PDPA (4,558 and 2,224 checks) is found word for word, with 0 misses; the Employment Act's 100 pages match the words and punctuation of the PDF's text layer.
 - History is append-only: no merge commits, commit dates never go backwards, nothing is dated in the future, and every commit's trailers parse.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -84,6 +85,10 @@ No AI model wrote, translated or corrected legal text, and none runs when the hi
 ## Bahasa Melayu
 
 Repositori ini memuatkan sejarah undang-undang Malaysia dalam git: satu fail bagi setiap peruntukan, satu commit bagi setiap pindaan pada hari ia mula berkuat kuasa, dan Akta yang membuat pindaan itu sebagai pengarang commit. Teksnya ialah teks bahasa Inggeris cetakan semula rasmi Jabatan Peguam Negara (lom.agc.gov.my). Kandungannya kini: Perlembagaan Persekutuan (5 versi, dari Cetakan Semula sehingga 15 Oktober 2020 hingga Cetakan Semula sehingga 30 November 2025), Akta Perlindungan Data Peribadi 2010 [Akta 709] (4 versi) dan Akta Kerja 1955 [Akta 265] (teks semasa sahaja). `python tools/on.py 2022-06-01 federal-constitution art-160` memaparkan Perkara 160 yang berkuat kuasa pada tarikh itu, dan `git blame federal-constitution/art-160.md` menamakan Akta bagi setiap perenggan.
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
