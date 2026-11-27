@@ -17,6 +17,9 @@ reprints the portal publishes (Commissioner of Law Revision, under the authority
 Laws Act 1968) and the amending Acts as enacted, from the same portal and on the same terms; each
 commit names its PDF and its sha256.
 
+The subsidiary legislation under subsidiary/ is the English text of each P.U. (A) instrument as the
+portal publishes it from the Federal Government Gazette, on the same terms.
+
 Changes made by Lexifina: each version was converted to one Markdown file per provision, one paragraph per line;
 spacing, quotes and dashes were normalised; running heads, footnotes and the reprints' NOTES were left out; for
 Article 119 before 15 December 2021 the words the 2020 Reprint's footnotes give as the text then in force were

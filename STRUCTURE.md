@@ -5,6 +5,7 @@
 | `constitution/` | The Federal Constitution, one file per Article (`art-160.md`), Part heading and Schedule |
 | `acts/<year>/<number>-<slug>/` | A principal Act of Parliament by the year in its title (or, for a Code with no year, the year it was first enacted) and its Act number in the Laws of Malaysia, e.g. `acts/1950/136-contracts/` (Act 136), `acts/1936/574-penal-code/` |
 | `acts/<year>/a<number>-<slug>/` | An amending Act as enacted, e.g. `acts/2025/a1750-penal-code-amendment/` (Act A1750) |
+| `subsidiary/<year>/pua-<number>-<slug>/` | An instrument of subsidiary legislation published as P.U. (A), its English text, one file per regulation, rule or paragraph (`reg-003.md`, `rule-003.md`, `para-003.md`), the enacting words in `preamble.md` |
 
 Each folder holds one file per section (`s-012.md`; `s-005-a.md` is section 5A), the schedules (`schedule-1.md`),
 and a `README.md` with the source and the provisions. No folder holds more than 1,000 entries.
@@ -19,7 +20,9 @@ repeats; `In-force-basis:` says where that day comes from:
 - `reprint-as-at` / `reprint-amendments-up-to`: a reprint that names no latest amendment, on the day it says it
   is "As at" or incorporates all amendments up to;
 - `commencement-provision`: an Act as enacted, on the day it names itself;
-- `portal-commencement`: an Act on the single commencement day the Laws of Malaysia portal lists for it.
+- `portal-commencement`: an Act on the single commencement day the Laws of Malaysia portal lists for it;
+- `publication-next-day`: a P.U. (A) instrument that names no day, on the day after its publication in the Gazette
+  (Interpretation Acts 1948 and 1967 [Act 388], s. 19(1)).
 
 Acts brought into force on several days or by a notice not yet in the list, PDFs without a text layer (no OCR is
 run) and Acts whose sections could not be found in order are held back. A reprint consolidates the amendments
