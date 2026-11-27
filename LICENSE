@@ -12,6 +12,11 @@ available from Percetakan Nasional Malaysia Berhad.
 This repository is private. The texts are reproduced with the attribution above; no licence to redistribute them is
 stated by the source.
 
+From 27 November 2026 the record also holds the principal Acts of Parliament in the current English
+reprints the portal publishes (Commissioner of Law Revision, under the authority of the Revision of
+Laws Act 1968) and the amending Acts as enacted, from the same portal and on the same terms; each
+commit names its PDF and its sha256.
+
 Changes made by Lexifina: each version was converted to one Markdown file per provision, one paragraph per line;
 spacing, quotes and dashes were normalised; running heads, footnotes and the reprints' NOTES were left out; for
 Article 119 before 15 December 2021 the words the 2020 Reprint's footnotes give as the text then in force were

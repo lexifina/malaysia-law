@@ -9,9 +9,9 @@ The law of Malaysia as a git history: one file per provision, one commit per cha
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Malaysia's national law, which global-law reads at `malaysia/national/acts/`.
 
-**What is in it now:** 3 federal laws with 10 versions: the Federal Constitution, with 5 versions from 15 October 2020 to 30 November 2025; the Personal Data Protection Act 2010 [Act 709], with 4 versions from 15 November 2013 to 1 June 2025; and the Employment Act 1955 [Act 265], its current text only. [`data/versions.json`](data/versions.json) lists every version of each act with its source PDF; [`data/laws.csv`](data/laws.csv) lists every law in the record with the days it was enacted, published and came into force.
+**What is in it now:** the Federal Constitution (5 versions, 15 October 2020 to 30 November 2025); 83 principal Acts of Parliament, each in its current English reprint or as enacted, among them the Penal Code [Act 574], the Criminal Procedure Code [Act 593], the Contracts Act 1950, the Evidence Act 1950, the Companies Act 2016, the Employment Act 1955 and the National Land Code; the Personal Data Protection Act 2010 with 4 versions; and 2 amending Acts (2007 onwards) as enacted. [`STRUCTURE.md`](STRUCTURE.md) gives the layout and dating rules.
 
-Each act is a folder with one file per Article or section, Part or Chapter heading and Schedule, and a `README.md` listing its provisions and their changes (`federal-constitution/art-160.md` is Article 160 of the Federal Constitution, `federal-constitution/sch-08.md` its Eighth Schedule); the Employment Act has one file per page of the official reprint (`employment-act/page-060.md` is page 60).
+Each act is a folder with one file per Article or section and Schedule, and a `README.md` listing its provisions (`constitution/art-160.md` is Article 160 of the Federal Constitution; `acts/1950/136-contracts/s-010.md` is section 10 of the Contracts Act 1950 [Act 136]; amending Acts are filed as `acts/<year>/a<number>-<slug>/`); the Employment Act has one file per page of the official reprint.
 
 The text is in English, as the Attorney General's Chambers' official reprints print it. Malay is the national language and its text is published alongside; it is not part of this record.
 
@@ -19,10 +19,10 @@ The text is in English, as the Attorney General's Chambers' official reprints pr
 
 | Question | Command |
 | --- | --- |
-| Every change to Article 160 of the Constitution | `git log -p --word-diff -- federal-constitution/art-160.md` |
-| Which Act wrote each line of Article 160? | `git blame federal-constitution/art-160.md` |
-| Every version of the Constitution, with the day each came into force | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- federal-constitution ':!*/README.md'` |
-| Article 160 as in force on 1 June 2022 | `python tools/on.py 2022-06-01 federal-constitution art-160` |
+| Every change to Article 160 of the Constitution | `git log -p --word-diff -- constitution/art-160.md` |
+| Which Act wrote each line of Article 160? | `git blame constitution/art-160.md` |
+| Every version of the Constitution, with the day each came into force | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- constitution ':!*/README.md'` |
+| Article 160 as in force on 1 June 2022 | `python tools/on.py 2022-06-01 constitution art-160` |
 
 **Outside git**, we also host this record publicly, for free:
 
@@ -38,7 +38,7 @@ Both assistants read the record through the free Global law connector (MCP, `htt
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add malaysia/national/acts
-python3 tools/law.py show 2026-01-01 malaysia/national/acts/federal-constitution/art-160.md
+python3 tools/law.py show 2026-01-01 malaysia/national/acts/constitution/art-160.md
 ```
 
 Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
@@ -58,7 +58,7 @@ Each change is credited to the Act that made it, as the reprint's NOTES name it 
 - `tools/check_repo.py` reads each of the 10 versions back from git on the day it came into force and on the day before; both must match the corpus (0 mismatches, see [`REPRODUCE.md`](REPRODUCE.md)).
 - The Acts applied to the 2020 Reprint must give the Reprint as at 30 November 2025 exactly, apart from the two unexplained changes, and Act A1727 applied to the PDPA its Reprint as at 15 September 2026, word for word.
 - Against the official PDFs read a second way: every paragraph of the Constitution and the PDPA (4,558 and 2,224 checks) is found word for word, with 0 misses; the Employment Act's 100 pages match the words and punctuation of the PDF's text layer.
-- History is append-only: no merge commits, commit dates never go backwards, nothing is dated in the future, and every commit's trailers parse.
+- History is append-only: no merge commits and no rewritten commits (the Acts added on 2026-11-27 are dated by their in-force days, so from that point commit dates go back in time); nothing is dated in the future, and every commit's trailers parse.
 - [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
@@ -68,13 +68,13 @@ Each change is credited to the Act that made it, as the reprint's NOTES name it 
 - **Acts not yet in force.** The Constitution (Amendment) Act 2025 [Act A1752] and the Constitution (Amendment) (No. 2) Act 2025 [Act A1767] are not applied.
 - **Article 119 as the 2020 Reprint prints it.** Its footnotes say Act A1603 section 3 (voting age eighteen) was not yet in force, so until 14 December 2021 this record reads the words they say it replaced ("twenty-one years").
 - **Notes and layout.** The reprints' NOTES, footnotes and running heads, orders that change numbers but not words, and the PDPA's long title and enacting words are left out.
-- **The other federal Acts, subsidiary legislation, state law and case law** are not here yet.
+- **Earlier reprints of most Acts, subsidiary legislation (P.U.(A)/P.U.(B)), state law and case law** are not here yet. Acts whose PDF is a scan (no OCR is run), Acts whose sections could not be found in order, and amending Acts not yet in force or brought into force on several days are held back. Amending Acts are filed as enacted, not applied to the Acts they amend; each principal Act's reprint is its consolidated text.
 
 ## Sources
 
 | Source | Kind | Past versions | Notes |
 | --- | --- | --- | --- |
-| [Laws of Malaysia](https://lom.agc.gov.my) (Attorney General's Chambers) | Official portal: reprints of the Federal Constitution and principal Acts, amending Acts | reprints only ("As at"): the Constitution 2020 and 2025, Act 709 2023 and 2026 | The NOTES and lists of amendments name each amending Act and its day. Online reprints are not the reprints made under section 14 of the Revision of Laws Act 1968, nor copies of the Gazette |
+| [Laws of Malaysia](https://lom.agc.gov.my) (Attorney General's Chambers) | Official portal: reprints of the Federal Constitution and principal Acts, amending Acts | reprints only ("As at"): the Constitution 2020 and 2025, Act 709 2023 and 2026; each principal Act's current reprint; amending Acts as enacted | The NOTES and lists of amendments name each amending Act and its day. Online reprints are not the reprints made under section 14 of the Revision of Laws Act 1968, nor copies of the Gazette |
 
 ## Licence
 
@@ -84,7 +84,7 @@ No AI model wrote, translated or corrected legal text, and none runs when the hi
 
 ## Bahasa Melayu
 
-Repositori ini memuatkan sejarah undang-undang Malaysia dalam git: satu fail bagi setiap peruntukan, satu commit bagi setiap pindaan pada hari ia mula berkuat kuasa, dan Akta yang membuat pindaan itu sebagai pengarang commit. Teksnya ialah teks bahasa Inggeris cetakan semula rasmi Jabatan Peguam Negara (lom.agc.gov.my). Kandungannya kini: Perlembagaan Persekutuan (5 versi, dari Cetakan Semula sehingga 15 Oktober 2020 hingga Cetakan Semula sehingga 30 November 2025), Akta Perlindungan Data Peribadi 2010 [Akta 709] (4 versi) dan Akta Kerja 1955 [Akta 265] (teks semasa sahaja). `python tools/on.py 2022-06-01 federal-constitution art-160` memaparkan Perkara 160 yang berkuat kuasa pada tarikh itu, dan `git blame federal-constitution/art-160.md` menamakan Akta bagi setiap perenggan.
+Repositori ini memuatkan sejarah undang-undang Malaysia dalam git: satu fail bagi setiap peruntukan, satu commit bagi setiap pindaan pada hari ia mula berkuat kuasa, dan Akta yang membuat pindaan itu sebagai pengarang commit. Teksnya ialah teks bahasa Inggeris cetakan semula rasmi Jabatan Peguam Negara (lom.agc.gov.my). Kandungannya kini: Perlembagaan Persekutuan (5 versi, dari Cetakan Semula sehingga 15 Oktober 2020 hingga Cetakan Semula sehingga 30 November 2025), 83 Akta prinsipal dalam cetakan semula bahasa Inggeris semasa atau seperti yang digubal (antaranya Kanun Keseksaan [Akta 574], Kanun Tatacara Jenayah [Akta 593], Akta Kontrak 1950, Akta Keterangan 1950, Akta Syarikat 2016, Akta Kerja 1955 dan Kanun Tanah Negara), Akta Perlindungan Data Peribadi 2010 [Akta 709] (4 versi) dan 2 Akta pindaan seperti yang digubal. `python tools/on.py 2022-06-01 constitution art-160` memaparkan Perkara 160 yang berkuat kuasa pada tarikh itu, dan `git blame constitution/art-160.md` menamakan Akta bagi setiap perenggan.
 
 ## Visualisations
 

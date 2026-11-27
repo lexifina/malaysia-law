@@ -85,3 +85,7 @@ Model use at data-build time:
 - Claude Code with Claude Opus 5.5 (claude-opus-5-5) wrote Lexifina's code, chose the sources and acts and read the reprints' NOTES to list which provisions each amending Act changed and when. It wrote no legal text: every line of law comes from a reprint PDF. The code runs no model.
 - Claude Code with Claude Opus 5.5 (claude-opus-5-5) wrote Lexifina's code and read Act A1727 and the reprint's lists to map each change to its day. No model wrote legal text.
 - GPT-6 wrote extraction and validation code. No model wrote or corrected law text.
+
+## Principal and amending Acts build (2026-11-27)
+
+The folders were moved into constitution/ and acts/<year>/<number>-<slug>/ by one pure-rename commit. The principal and amending Acts are then added by the runner in `scripts/malaysia-law/runner/` (my_fetch.py: the portal's list tables `json-updated-2024.php`, `json-amendment-2024.php` and `json-principal-2024.php`, AES-GCM decoded with the key each page publishes, then each English PDF, one request at a time to start; my_parse.py: the PDF text layer split into sections, guided by the Act's ARRANGEMENT OF SECTIONS, each listed section found in order; my_build.py: one commit per Act on its in-force day, rules in STRUCTURE.md). No OCR is run.

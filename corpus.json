@@ -1,0 +1,26 @@
+{
+  "corpus": "my/national/acts",
+  "name": "Malaysian law: the Federal Constitution, the principal Acts of Parliament in their reprints, and the amending Acts as enacted (Laws of Malaysia, Attorney General's Chambers)",
+  "label": "Malaysia",
+  "language": "en",
+  "dates": {
+    "commit": "in-force",
+    "other_trailers": [
+      "In-force-basis",
+      "Source",
+      "Kind",
+      "Published"
+    ],
+    "time": "12:00 Asia/Kuala_Lumpur (UTC+8)"
+  },
+  "in_force_trailer": "In-force",
+  "has_future_branch": false,
+  "author": "the law that made the version (\"Act A1750\"), or the Commissioner of Law Revision for a reprint",
+  "citation": {
+    "file": "(acts/[0-9]{4}/[^/]+|constitution)/(?:s|art)-0*([0-9]+[a-z-]*)\\.md",
+    "cites": "(^|[^0-9])(section|s\\.?|article|art\\.?) ?{n}\\b"
+  },
+  "sources": [
+    "https://lom.agc.gov.my"
+  ]
+}
